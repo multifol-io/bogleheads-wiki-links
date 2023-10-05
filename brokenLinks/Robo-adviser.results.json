@@ -1,0 +1,5 @@
+{
+  "https://investor.gov/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://investorjunkie.com/35919/robo-advisors/": "OTHER,Forbidden",
+  "https://www.etf.com/publications/etfr/tour-top-10-robos": "OTHER,Forbidden"
+}

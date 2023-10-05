@@ -1,0 +1,9 @@
+{
+  "https://www.nseindia.com/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.valueresearchonline.com/funds/12498/motilal-oswal-nasdaq-100-exchange-traded-fund": "OTHER,Forbidden",
+  "https://www.valueresearchonline.com/funds/40997/motilal-oswal-500-index-fund-direct-plan/": "OTHER,Forbidden",
+  "https://www.valueresearchonline.com/funds/41070/motilal-oswal-multi-asset-fund-direct-plan/": "OTHER,Forbidden",
+  "https://www.valueresearchonline.com/funds/41074/nippon-india-multi-asset-fund-direct-plan/": "OTHER,Forbidden",
+  "https://www.valueresearchonline.com/funds/41714/hdfc-developed-world-indexes-fof-direct-plan/": "OTHER,Forbidden",
+  "https://www.valueresearchonline.com/funds/selector/category/118/equity-international/?plan-type=direct\u0026exclude=suspended-plans\u0026tab=snapshot": "OTHER,Forbidden"
+}

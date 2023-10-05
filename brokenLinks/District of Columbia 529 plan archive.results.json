@@ -1,0 +1,6 @@
+{
+  "http://529.morningstar.com/overview.action?state=DC\u0026planID=5PUSA0001I": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.dccollegesavings.com/DCIndex.html": "ERROR,Not Found",
+  "http://www.dccollegesavings.com/dcinvestmentoptions_DC529AgeBasedFunds.html": "ERROR,Not Found",
+  "http://www.dccollegesavings.com/pdf/dc_disclosure.pdf": "ERROR,Not Found"
+}

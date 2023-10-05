@@ -1,0 +1,7 @@
+{
+  "http://academic.research.microsoft.com/Author/152340/brad-barber": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://citec.repec.org/p/b/pba1389.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
+  "http://gsm.ucdavis.edu/center-investor-welfare-and-corporate-responsibility": "ERROR,Not Found",
+  "http://jfe.rochester.edu/winners.htm": "ERROR,No such host is known. (jfe.rochester.edu:80)",
+  "http://www.cfapubs.org/page/faj/all-graham-dodd-winners": "OTHER,Forbidden"
+}

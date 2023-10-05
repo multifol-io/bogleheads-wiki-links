@@ -1,0 +1,10 @@
+{
+  "http://news.morningstar.com/fund-category-returns/bank-loan/$FOCA$BL.aspx": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.investinginbonds.com/learnmore.asp?catid=9\u0026subcatid=52\u0026id=275": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.investorwords.com/6677/spread_duration.html": "ERROR,No such host is known. (www.investorwords.com:80)",
+  "http://www.standardandpoors.com/indices/sp-lsta-leverage-loan-100-index/en/us/?indexId=spfi--ll--usd----t-------": "ERROR,Not Found",
+  "http://www.treasurydirect.gov/instit/statreg/auctreg/faqfloatingnoterate.htm": "ERROR,Not Found",
+  "https://ecommerce.barcap.com/indices/index.dxml": "OTHER,The requested name is valid-- but no data of the requested type was found. (index.barcap.com:443)",
+  "https://personal.vanguard.com/pdf/icrpfr.pdf?cbdForceDomain=false": "ERROR,Not Found",
+  "https://www.ishares.com/us/literature/brochure/mechanics-of-flot-en-us.pdf": "ERROR,Not Found"
+}

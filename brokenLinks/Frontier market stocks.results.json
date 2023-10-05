@@ -1,0 +1,19 @@
+{
+  "http://guggenheiminvestments.com/products/etf/frn": "ERROR,Not Found",
+  "http://spreadsheets.google.com/pub?key=0Ao_KSkmSuU2rdE9kNE9jQlpPV1pJa0FoTHpWbGVuUkE\u0026output=PDF": "ERROR,Not Found",
+  "http://us.spindices.com/index-family/frontier-equity/all": "ERROR,Not Found",
+  "http://www.cfapubs.org/toc/rf/2011/2011/2": "OTHER,Forbidden",
+  "http://www.djindexes.com/mdsidx/downloads/analytics_and_research/Global_Equity_Handbook.pdf": "ERROR,No such host is known. (www.djindexes.com:80)",
+  "http://www.djindexes.com/symbolsandcalendars/?go=watchlist": "ERROR,No such host is known. (www.djindexes.com:80)",
+  "http://www.ftse.com/Indices/Country_Classification/index.jsp": "ERROR,Not Found",
+  "http://www.ftse.com/Indices/FTSE_Frontier_Indices/index.jsp": "ERROR,Not Found",
+  "http://www.ftse.com/Indices/index.jsp": "ERROR,Not Found",
+  "http://www.indexuniverse.com/publications/journalofindexes/joi-articles/4439-what-are-frontier-markets.html?fullart=1\u0026start=4": "OTHER,Forbidden",
+  "http://www.indexuniverse.com/publications/journalofindexes/joi-articles/4447-view-from-the-frontier.html?fullart=1\u0026start=7": "OTHER,Forbidden",
+  "http://www.indexuniverse.com/publications/journalofindexes/joi-articles/9432-developed-emerging-or-frontier-markets.html?fullart=1\u0026start=5": "OTHER,Forbidden",
+  "http://www.msci.com/products/indices/country_and_regional/fm/": "UPDATE LINK,redirected to http://www.msci.com/products/indexes/country_and_regional/fm/",
+  "http://www.msci.com/products/indices/country_and_regional/tradable/frontier_markets_100/": "UPDATE LINK,redirected to http://www.msci.com/products/indexes/country_and_regional/tradable/frontier_markets_100/",
+  "http://www.msci.com/resources/factsheets/index_fact_sheet/msci-frontier-markets-100-index.pdf": "UPDATE LINK,redirected to http://www.msci.com/documents/10199/8f8cc9c3-8298-46b7-899b-018c1fac80eb",
+  "http://www.msci.com/resources/factsheets/index_fact_sheet/msci-frontier-markets-index-net.pdf": "UPDATE LINK,redirected to http://www.msci.com/documents/10199/6839c945-a7ed-48a8-a716-a3984b4c6b73",
+  "https://advisors.vanguard.com/VGApp/iip/site/advisor/researchcommentary/article/IWE_InvResExploringNextFrontier": "ERROR,Not Found"
+}

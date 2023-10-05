@@ -1,0 +1,23 @@
+{
+  "https://finpage.blog/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://finpage.blog/2017/10/26/notes-from-bogleheads-16/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://finpage.blog/portfolio/dc-bogleheads/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://finpage.blog/portfolio/dfw-bogleheads/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://finpage.blog/portfolio/philadelphia-bogleheads-local-chapter/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://finpage.blog/portfolio/san-diego-bogleheads/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://moneywatch.bnet.com/investing/blog/irrational-investor/i-am-a-boglehead-and-will-be-posting-live-from-bogleheads-viii/578/?tag=col1;blog-river/": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch",
+  "https://moneywatch.bnet.com/investing/blog/irrational-investor/live-financial-wisdom-from-bogleheads-viii-day-two/577/?tag=col1;newer-post": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch",
+  "https://moneywatch.bnet.com/investing/blog/irrational-investor/live-finanical-wisdom-from-bogleheads-viii/582/?tag=col1;blog-river": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch",
+  "https://news.morningstar.com/articlenet/article.aspx?id=2447": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://news.morningstar.com/articlenet/article.aspx?id=4815": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://remarque.org/~grabiner/Taxes-and-Investing.pdf": "OTHER,No connection could be made because the target machine actively refused it. (remarque.org:443)",
+  "https://retirementresearcher.com/bogleheads-conference-2013/": "ERROR,Not Found",
+  "https://s901.photobucket.com/albums/ac212/Kathleenr88/?start=0\u0026mediafilter=images": "OTHER,Bad Gateway",
+  "https://socialize.morningstar.com/NewSocialize/asp/FullConv.asp?forumId=F100000015glastConvSeq=34793": "UPDATE LINK,redirected to http://www.morningstar.com/back_soon.html?aspxerrorpath=/NewSocialize/asp/FullConv.asp",
+  "https://www.angelfire.com/sd2/dh4pix": "UPDATE LINK,redirected to http://www.angelfire.com/sd2/dh4pix/",
+  "https://www.thestreet.com/story/12927377/1/a-visit-to-the-vanguard-mothership-with-the-bogleheads.html": "OTHER,Forbidden",
+  "https://www.thestreet.com/story/12933449/1/retirement-isnt-a-pipe-dream--and-heres-how-to-make-it-happen.html": "OTHER,Forbidden",
+  "https://www.thestreet.com/story/13326091/1/jack-bogle-trump-is-wrong-etfs-are-bogus-and-foreign-investing-is-useless.html": "OTHER,Forbidden",
+  "https://www.thestreet.com/story/13326163/1/if-you-re-a-boglehead-being-cheap-is-the-way-to-get-rich.html": "OTHER,Forbidden",
+  "https://www.thestreet.com/story/13772578/1/meet-the-ordinary-people-vanguard-s-jack-bogle-made-rich.html": "OTHER,Forbidden"
+}

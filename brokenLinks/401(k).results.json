@@ -1,0 +1,14 @@
+{
+  "http://apps.finra.org/Investor_Information/Smart/401k/000100.asp": "ERROR,No such host is known. (apps.finra.org:80)",
+  "http://www.ebri.org/pdf/publications/facts/0205fact.a.pdf": "ERROR,Not Found",
+  "http://www.irs.gov/Retirement-Plans/Plan-Participant,-Employee/Retirement-Topics---401(k)-and-Profit-Sharing-Plan-Contribution-Limits": "ERROR,Not Found",
+  "http://www.irs.gov/retirement/article/0,,id=120298,00.html": "ERROR,Not Found",
+  "http://www.irs.gov/retirement/participant/article/0,,id=151786,00.html": "ERROR,Not Found",
+  "http://www.irs.gov/retirement/participant/article/0,,id=151787,00.html": "ERROR,Not Found",
+  "http://www.themoneyalert.com/About.html": "ERROR,Not Found",
+  "https://institutional.vanguard.com/iam/pdf/CRR_company_stock.pdf": "ERROR,Not Found",
+  "https://institutional.vanguard.com/iam/pdf/CRR_costock_102003.pdf": "ERROR,Not Found",
+  "https://institutional.vanguard.com/iam/pdf/CRRADC.pdf": "ERROR,Not Found",
+  "https://institutional.vanguard.com/iam/pdf/RBA_052008_01.pdf": "ERROR,Not Found",
+  "https://institutional.vanguard.com/iam/pdf/VCRRPD.pdf": "ERROR,Not Found"
+}

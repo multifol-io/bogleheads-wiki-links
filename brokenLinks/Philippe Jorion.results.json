@@ -1,0 +1,9 @@
+{
+  "http://academic.research.microsoft.com/Author/10668724/philippe-jorion": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://citec.repec.org/p/j/pjo72.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
+  "http://www.afajof.org/details/page/2870731/Prizes.html": "ERROR,Not Found",
+  "http://www.cfapubs.org/doi/abs/10.2469/faj.v59.n5.2565": "OTHER,Forbidden",
+  "http://www.cfapubs.org/doi/abs/10.2469/faj.v68.n2.1": "OTHER,Forbidden",
+  "http://www.cfapubs.org/page/faj/all-graham-dodd-winners": "OTHER,An error occurred while sending the request.",
+  "https://www.paamco.com/Our-Firm/Pages/Leadership/Philippe-Jorion.aspx": "ERROR,Not Found"
+}

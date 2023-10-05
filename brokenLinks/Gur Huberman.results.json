@@ -1,0 +1,6 @@
+{
+  "http://academic.research.microsoft.com/Author/1043644/gur-huberman": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://citec.repec.org/p/h/phu98.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
+  "http://www.afajof.org/details/page/2870731/Prizes.html": "ERROR,Not Found",
+  "http://www4.gsb.columbia.edu/cbs-directory/detail/494745/Gur\u002BHuberman": "ERROR,No such host is known. (www4.gsb.columbia.edu:80)"
+}

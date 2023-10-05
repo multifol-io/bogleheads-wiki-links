@@ -1,0 +1,5 @@
+{
+  "http://210.34.45/cn/fm/Global%20%Stock20%Markets20%in20%the20%Twentieth20%CEntury.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://210.34.5.45/cn/fm/Global%20Stock%20Markets%20in%20the%20Twentieth%20Century.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.sec.gov/Archives/edgar/data/1476734/000119312510075953/dn1a.htm": "OTHER,Forbidden"
+}

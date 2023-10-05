@@ -1,0 +1,9 @@
+{
+  "http://guggenheiminvestments.com/products/etf/product-list#Pure%20Style": "ERROR,Not Found",
+  "http://spreadsheets.google.com/pub?key=pYSRNXThZbE7QGlqR2iU8BQ": "ERROR,Not Found",
+  "http://us.spindices.com/index-family/us-equity/market-cap": "ERROR,Not Found",
+  "http://web.wilshire.com/Indexes/USStyle/": "OTHER,The requested name is valid-- but no data of the requested type was found. (web.wilshire.com:80)",
+  "http://www.crsp.com/documentation/pdfs/equity-indexes/Equity-Indexes-Methodology-Guide.pdf": "ERROR,Not Found",
+  "http://www.djindexes.com/totalstockmarket/": "ERROR,No such host is known. (www.djindexes.com:80)",
+  "http://www.indexuniverse.com/data.html": "OTHER,Forbidden"
+}

@@ -1,0 +1,16 @@
+{
+  "http://uk.ishares.com/en/rc/stream/pdf/false/publish/repository/documents/kiid/kiid-ir-ishii-ishares-ftse-uk-all-stocks-gilt-gb-ie00b1fzsb30-en.pdf": "ERROR,Not Found",
+  "http://uk.ishares.com/en/rc/stream/pdf/false/publish/repository/documents/kiid/kiid-ir-ishiii-ishares-ftse-gilts-uk-0-5-gb-ie00b4wxjk79-en.pdf": "ERROR,Not Found",
+  "http://www.dmo.gov.uk/index.aspx?page=Gilts/About_Gilts": "Bad Request",
+  "http://www.ftse.com/Indices/FTSE_UK_Gilts_Indices/Index_Rules.jsp": "ERROR,Not Found",
+  "http://www.ftse.com/Indices/FTSE_UK_Gilts_Indices/index.jsp": "ERROR,Not Found",
+  "http://www.ftse.com/Indices/UK_Indices/Downloads/ASX.pdf": "ERROR,Not Found",
+  "http://www.ftse.com/Indices/UK_Indices/index.jsp": "ERROR,Not Found",
+  "http://www.ftse.com/objects/csv_to_table.jsp?infoCode=100a\u0026theseFilters=\u0026csvAll=\u0026theseColumns=Mw==\u0026theseTitles=\u0026tableTitle=FTSE%20100%20Index%20Constituents\u0026dl=\u0026p_encoded=1": "ERROR,Not Found",
+  "http://www.ftse.com/objects/csv_to_table.jsp?infoCode=250a\u0026theseFilters=\u0026csvAll=\u0026theseColumns=Mw==\u0026theseTitles=\u0026tableTitle=FTSE%20250%20Index%20Constituents\u0026dl=\u0026p_encoded=1": "ERROR,Not Found",
+  "http://www.ftse.com/objects/csv_to_table.jsp?infoCode=350a\u0026theseFilters=\u0026csvAll=\u0026theseColumns=Mw==\u0026theseTitles=\u0026tableTitle=FTSE%20350%20Index%20Constituents\u0026dl=\u0026p_encoded=1": "ERROR,Not Found",
+  "http://www.ftse.com/objects/csv_to_table.jsp?infoCode=alla\u0026theseFilters=\u0026csvAll=\u0026theseColumns=Mw==\u0026theseTitles=\u0026tableTitle=FTSE%20All-Share%20Index%20Constituents\u0026dl=\u0026p_encoded=1": "ERROR,Not Found",
+  "http://www.ftse.com/objects/csv_to_table.jsp?infoCode=asm\u0026theseFilters=\u0026csvAll=\u0026theseColumns=Mw==\u0026theseTitles=\u0026tableTitle=FTSE%20All-Small%20Index%20Constituents\u0026dl=\u0026p_encoded=1": "ERROR,Not Found",
+  "http://www.ftse.com/objects/csv_to_table.jsp?infoCode=fla\u0026theseFilters=\u0026csvAll=\u0026theseColumns=Mw==\u0026theseTitles=\u0026tableTitle=FTSE%20Fledgling%20Index%20Constituents\u0026dl=\u0026p_encoded=1": "ERROR,Not Found",
+  "http://www.ftse.com/objects/csv_to_table.jsp?infoCode=smla\u0026theseFilters=\u0026csvAll=\u0026theseColumns=Mw==\u0026theseTitles=\u0026tableTitle=FTSE%20SmallCap%20Index%20Constituents\u0026dl=\u0026p_encoded=1": "ERROR,Not Found"
+}

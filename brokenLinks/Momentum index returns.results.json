@@ -1,0 +1,19 @@
+{
+  "http://home.business.utah.edu/finmll/fin787/papers/famafrench1996.pdf": "ERROR,Not Found",
+  "http://quant.whatizit.com/wp-content/uploads/2011/04/1997-04-The-Interaction-of-Value-and-Momentum-Strategies.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://schwert.ssb.rochester.edu/f532/ff_JF08.pdf": "ERROR,No such host is known. (schwert.ssb.rochester.edu:80)",
+  "http://us.spindices.com/indices/strategy/sp-1500-positive-momentum-tilt-index": "ERROR,Not Found",
+  "http://www.aqrindex.com/AQR_Momentum_Indices/Data_Downloads/Content/default.fs": "ERROR,Not Found",
+  "http://www.aqrindex.com/AQR_Momentum_Indices/Momentum_Overview/Content/default.fs": "ERROR,Not Found",
+  "http://www.aqrindex.com/resources/docs/PDF/News/News_Case_for_Momentum.pdf": "ERROR,Not Found",
+  "http://www.aqrindex.com/resources/docs/PDF/Other/Index_Methodology.pdf?d=20130131031241": "ERROR,Not Found",
+  "http://www.cbsnews.com/8301-505123_162-57413875/how-the-four-stock-premiums-work/": "ERROR,Not Found",
+  "http://www.ftse.com/products/downloads/Russell-factor-long-only-indexes.pdf?455": "UPDATE LINK,redirected to http://research.ftserussell.com/products/indices/home/PageNotFound",
+  "http://www.ftse.com/products/indices/Russell-Axioma-Factor": "ERROR,Not Found",
+  "http://www.indexuniverse.com/sections/features/12951-russell-to-close-all-but-one-of-its-etfs.html?fullart=1\u0026start=2": "OTHER,Forbidden",
+  "http://www.ohio.edu/people/prevost/FIN%20623/Ancillary%20material%20and%20articles/On%20Persistence%20in%20Mutual%20Fund%20Performance.pdf": "ERROR,Not Found",
+  "https://doi.org/10.1111%2Fj.1540-6261.1997.tb03808.x": "OTHER,Forbidden",
+  "https://www.jstor.org/stable/2329556": "OTHER,Forbidden",
+  "https://www.msci.com/resources/factsheets/index_fact_sheet/msci-usa-momentum-index.pdf": "UPDATE LINK,redirected to http://www.msci.com/documents/10199/f3a22268-affd-478a-b7a7-50dc90fad923",
+  "https://www.researchgate.net/publication/237466351_The_Case_for_Momentum_Investing": "OTHER,Forbidden"
+}

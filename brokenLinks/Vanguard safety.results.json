@@ -1,0 +1,4 @@
+{
+  "http://investor.shareholder.com/jpmorganchase/faq.cfm": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://personal.vanguard.com/pdf/s317.pdf": "ERROR,Not Found"
+}

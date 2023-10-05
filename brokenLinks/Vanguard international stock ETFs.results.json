@@ -1,0 +1,18 @@
+{
+  "https://business.nasdaq.com/discover/nasdaq-story/index.html": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.etf.com/": "OTHER,Forbidden",
+  "https://www.etf.com/VEA": "OTHER,Forbidden",
+  "https://www.etf.com/VEU": "OTHER,Forbidden",
+  "https://www.etf.com/VGK": "OTHER,Forbidden",
+  "https://www.etf.com/VPL": "OTHER,Forbidden",
+  "https://www.etf.com/VSS": "OTHER,Forbidden",
+  "https://www.etf.com/VWO": "OTHER,Forbidden",
+  "https://www.etf.com/VXUS": "OTHER,Forbidden",
+  "https://www.nasdaq.com/symbol/VEA": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.nasdaq.com/symbol/VEU": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.nasdaq.com/symbol/VGK": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.nasdaq.com/symbol/VPL": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.nasdaq.com/symbol/VSS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.nasdaq.com/symbol/VWO": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.nasdaq.com/symbol/VXUS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+}

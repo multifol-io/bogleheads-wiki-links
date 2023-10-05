@@ -1,0 +1,5 @@
+{
+  "http://academic.research.microsoft.com/Author/2911401/clemens-sialm": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://citec.repec.org/p/s/psi59.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
+  "https://www.mccombs.utexas.edu/Directory/Profiles/Sialm-Clemens": "UPDATE LINK,redirected to http://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/clemens-sialm"
+}

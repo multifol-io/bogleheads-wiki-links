@@ -1,0 +1,16 @@
+{
+  "http://529.morningstar.com/state-map.action": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://apps.finra.org/investor_Information/Smart/529/000100.asp": "ERROR,No such host is known. (apps.finra.org:80)",
+  "http://ifap.ed.gov/ifap/iLibrary.jsp": "ERROR,Not Found",
+  "http://news.morningstar.com/articlenet/article.aspx?id=287783#page=0\u0026part=1": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.collegeillinois.org/PlansAndPricing/index.html": "OTHER,",
+  "http://www.collegesavings.com/csb/": "ERROR,Not Found",
+  "http://www.collegesavings.org/index.aspx": "ERROR,Not Found",
+  "http://www.irs.gov/newsroom/article/0,,id=211309,00.html": "ERROR,Not Found",
+  "http://www.irs.gov/newsroom/article/0,,id=213034,00.html": "ERROR,Not Found",
+  "http://www.morningstar.com/529/529Table.html": "ERROR,Not Found",
+  "http://www.taxfoundation.org/taxdata/show/228.html": "ERROR,No such host is known. (data:443)",
+  "http://www.tiaa-cref.org/products/education/529/index.html": "UPDATE LINK,redirected to http://www.tiaa.org/public/tcm/products/education/529",
+  "http://www.tiaa-cref.org/pubs/pdf/pension_protection_act.pdf": "ERROR,Not Found",
+  "https://www.virginia529.com/new-savers/prepaid/?utm_source=direct\u0026utm_campaign=prepaid\u0026utm_medium=301": "ERROR,Not Found"
+}

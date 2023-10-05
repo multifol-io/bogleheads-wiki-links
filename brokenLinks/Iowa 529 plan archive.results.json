@@ -1,0 +1,6 @@
+{
+  "http://529.morningstar.com/overview.action?state=IA\u0026planID=5PUSA0000E": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://a248.e.akamai.net/f/248/21630/7d/im.uprinv.com/rc/sr2/ia/enrollkit.pdf": "OTHER,Forbidden",
+  "https://collegesavingsiowa.s.upromise.com/": "ERROR,No such host is known. (collegesavingsiowa.s.upromise.com:443)",
+  "https://collegesavingsiowa.s.upromise.com/content/agebasedoptions.html": "ERROR,No such host is known. (collegesavingsiowa.s.upromise.com:443)"
+}

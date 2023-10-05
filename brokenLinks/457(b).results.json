@@ -1,0 +1,11 @@
+{
+  "http://www.irs.gov/retirement/article/0,,id=162416,00.html": "ERROR,Not Found",
+  "http://www.massachusetts.edu/treasurer/457smart.html": "ERROR,Not Found",
+  "http://www.nctreasurer.com/dsthome/RetirementSystems/Supplemental\u002BRetirement\u002BPlans": "ERROR,Not Found",
+  "http://www.ohiodc.org/SitePages/default.aspx": "ERROR,Not Found",
+  "http://www.rsa-al.gov/index.php/members/rsa-1/": "ERROR,Not Found",
+  "http://www.themoneyalert.com/About.html": "ERROR,Not Found",
+  "http://www.vadcpemployer.com/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.irs.gov/retirement-plans/non-governmental-457b-deferred-compensation-plans.": "ERROR,Not Found",
+  "https://www.myfloridadeferredcomp.com/SOFweb/performance.htm": "ERROR,Not Found"
+}

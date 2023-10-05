@@ -1,0 +1,5 @@
+{
+  "http://academic.research.microsoft.com/Author/1591685/allan-timmermann": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://citec.repec.org/p/t/pti8.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
+  "http://rady.ucsd.edu/faculty/directory/timmermann/": "UPDATE LINK,redirected to http://rady.ucsd.edu/index.html"
+}

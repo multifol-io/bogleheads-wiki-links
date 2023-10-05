@@ -1,0 +1,5 @@
+{
+  "http://www.lehman.com/fi/indices/": "ERROR,No such host is known. (www.lehman.com:80)",
+  "http://www.lehman.com/fi/indices/factsheets.htm": "ERROR,No such host is known. (www.lehman.com:80)",
+  "https://index.barcap.com/Home/Guides_and_Factsheets": "OTHER,The requested name is valid-- but no data of the requested type was found. (index.barcap.com:443)"
+}

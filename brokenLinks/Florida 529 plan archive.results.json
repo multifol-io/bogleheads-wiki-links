@@ -1,0 +1,6 @@
+{
+  "http://529.morningstar.com/overview.action?state=FL\u0026planID=5PUSA0001N": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.florida529plans.com/pdf/disclosure%20statement.pdf": "ERROR,Not Found",
+  "http://www.florida529plans.com/savings/options.html": "ERROR,Not Found",
+  "http://www.myfloridaprepaid.com/documents/pdf/investment/investment-disclosure-statement.pdf,": "ERROR,Not Found"
+}

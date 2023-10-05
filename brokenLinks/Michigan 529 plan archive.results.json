@@ -1,0 +1,5 @@
+{
+  "http://529.morningstar.com/overview.action?state=MI\u0026planID=5PUSA0000L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.misaves.com/ourplan/invest_options.html": "ERROR,Not Found",
+  "http://www.misaves.com/pdf/mi_discl.pdf": "ERROR,Not Found"
+}

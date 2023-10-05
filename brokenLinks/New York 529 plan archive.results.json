@@ -1,0 +1,6 @@
+{
+  "http://529.morningstar.com/overview.action?state=NY\u0026planID=5PUSA0002Z": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://a248.e.akamai.net/f/248/21630/7d/im.uprinv.com/rc/sr2/ny/enrollKit.pdf": "OTHER,Forbidden",
+  "https://cdn.unite529.com/f/248/21630/7d/im.uprinv.com/rc/sr2/ny/DisclosureBooklet.pdf": "ERROR,Not Found",
+  "https://uii.nysaves.s.upromise.com/content/agebased.html": "ERROR,No such host is known. (uii.nysaves.s.upromise.com:443)"
+}

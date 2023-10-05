@@ -1,0 +1,8 @@
+{
+  "http://529.morningstar.com/overview.action?state=RI\u0026planID=5PUSA00016": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.alliancebernstein.com/ri/home.aspx": "ERROR,Not Found",
+  "http://www.riheaa.org/cbf/match_grant.php": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.alliancebernstein.com/abcom/Product_Center/3_Vehicle/MF/CBF/Ind_Fund/CBF_Vanguard_International_Stock_Market_Index.htm?shareclass=RI": "ERROR,Not Found",
+  "https://www.alliancebernstein.com/abcom/Product_Center/3_Vehicle/MF/CBF/Ind_Fund/CBF_Vanguard_Total_Bond_Market_Index.htm?shareclass=RI": "ERROR,Not Found",
+  "https://www.alliancebernstein.com/abcom/Product_Center/3_Vehicle/MF/CBF/Ind_Fund/CBF_Vanguard_Total_Stock_Market_Index.htm?shareclass=RI": "ERROR,Not Found"
+}

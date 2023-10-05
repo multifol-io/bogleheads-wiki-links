@@ -1,0 +1,5 @@
+{
+  "ftp://ftp.sec.gov/edgar/docs/": "OTHER,The \u0027ftp\u0027 scheme is not supported.",
+  "http://www.sec.gov/cgi-bin/edgar_indices": "ERROR,Not Found",
+  "http://www.sec.gov/edgar/searchedgar/ftpusers.htm": "ERROR,Not Found"
+}

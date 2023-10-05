@@ -1,0 +1,8 @@
+{
+  "http://www.indexuniverse.com/sections/features/6685-rick-ferri-managing-the-biggest-risk-of-all.html": "OTHER,Forbidden",
+  "http://www.sec.gov/Archives/edgar/data/225997/000093247109000002/muni_final.htm": "OTHER,Forbidden",
+  "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000225997\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+  "http://www.sec.gov/cgi-bin/browse-edgar?type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings\u0026action=getcompany\u0026CIK=0000225997": "WARNING,Too Many Requests",
+  "http://www.standardandpoors.com/indices/sp-national-amt-free-municipal-bond-index/en/us/?indexId=spfi--mun-usd----t-------": "ERROR,Not Found",
+  "https://ecommerce.barcap.com/indices/index.dxml": "OTHER,The requested name is valid-- but no data of the requested type was found. (index.barcap.com:443)"
+}

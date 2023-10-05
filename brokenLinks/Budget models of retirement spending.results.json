@@ -1,0 +1,15 @@
+{
+  "ftp://ftp.bls.gov/pub/special.requests/cpi/cpiai.txt": "OTHER,The \u0027ftp\u0027 scheme is not supported.",
+  "http://advisor.morningstar.com/articles/fcarticle.asp?docId=4178": "ERROR,Not Found",
+  "http://crr.bc.edu/images/stories/Working_Papers/WP_2005-14.pdf": "ERROR,Not Found",
+  "http://ezinearticles.com/?Inflation---A-Retirees-Worst-Enemy\u0026id=1306235": "ERROR,No such host is known. (ezinearticles.com:80)",
+  "http://faculty.chicagobooth.edu/erik.hurst/research/retirement_consumption_survey_wharton.pdf": "ERROR,Not Found",
+  "http://rmictr.gsu.edu/Papers/RR08-1.pdf": "OTHER,The requested name is valid-- but no data of the requested type was found. (rmictr.gsu.edu:80)",
+  "http://works.bepress.com/cgi/viewcontent.cgi?article=1007\u0026context=lonniekstevans\u0026sei-redir=1#search=%22spending%20changes%20stock%20market%22": "ERROR,Not Found",
+  "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/Downloads/tables.pdf": "ERROR,Not Found",
+  "http://www.metlife.com/assets/ib/retirement/strategy/retirement-expense-worksheet.pdf": "ERROR,Not Found",
+  "http://www.moneytree.com/Products/TOTALPlanningSystem/tabid/77/Default.aspx": "ERROR,Not Found",
+  "http://www.myfinancialfreedomplan.com/796/retirement-planning-software/": "ERROR,Not Found",
+  "http://www.soa.org/files/pdf/research-2007-findings-phases.pdf": "ERROR,Not Found",
+  "http://www.vanguard.com/pdf/icrmda.pdf": "ERROR,Not Found"
+}

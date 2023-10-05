@@ -1,0 +1,9 @@
+{
+  "http://529.morningstar.com/overview.action?state=AR\u0026planID=5PUSA0003F": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.savingforcollege.com/529_news/?page=plan_news\u0026plan_news_id=888": "UPDATE LINK,redirected to http://www.savingforcollege.com/529-news/?page=plan_news\u0026plan_news_id=888",
+  "https://a248.e.akamai.net/f/248/21630/7d/im.uprinv.com/rc/sr2/ishares/program_description.pdf": "OTHER,Forbidden",
+  "https://ishares529.s.upromise.com/": "ERROR,No such host is known. (ishares529.s.upromise.com:443)",
+  "https://ishares529.s.upromise.com/content/assetallocation.html": "ERROR,No such host is known. (ishares529.s.upromise.com:443)",
+  "https://ishares529.s.upromise.com/content/customisharesportfolios.html": "ERROR,No such host is known. (ishares529.s.upromise.com:443)",
+  "https://ishares529.s.upromise.com/content/yearofenrollmentport.html": "ERROR,No such host is known. (ishares529.s.upromise.com:443)"
+}

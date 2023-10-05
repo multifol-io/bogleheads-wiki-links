@@ -1,0 +1,12 @@
+{
+  "http://www.fairmark.com/rothira/index.htm": "ERROR,Not Found",
+  "http://www.fairmark.com/rothira/index.htm#conversions": "ERROR,Not Found",
+  "http://www.irs.gov/publications/p590/ch02.html": "ERROR,Not Found",
+  "http://www.irs.gov/publications/p590/ch02.html#en_US_publink1000230961": "ERROR,Not Found",
+  "https://bridge.vanguard.com/brg/pdf/CRR_Roth_401k.pdf": "ERROR,No such host is known. (bridge.vanguard.com:443)",
+  "https://vanguard.com/pdf/s619.pdf": "ERROR,Not Found",
+  "https://vanguard.com/pdf/s619a.pdf": "ERROR,Not Found",
+  "https://www.ataxplan.com/bulletin-board/to-convert-or-not-to-convert-that-is-the-question/": "ERROR,Not Found",
+  "https://www.congress.gov/congressional-record/1997/7/31/senate-section/article/S8415-1": "OTHER,Forbidden",
+  "https://www.ici.org/research/stats/retirement/ret_21_q3": "ERROR,Not Found"
+}

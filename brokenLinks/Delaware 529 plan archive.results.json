@@ -1,0 +1,5 @@
+{
+  "http://529.morningstar.com/overview.action?state=DE\u0026planID=5PUSA0000B": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.savingforcollege.com/529_plan_details/": "OTHER,Bad Gateway",
+  "http://www.savingforcollege.com/529_plan_details/index.php?page=plan_details\u0026plan_id=10": "OTHER,Bad Gateway"
+}

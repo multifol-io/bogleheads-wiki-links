@@ -1,0 +1,7 @@
+{
+  "http://www.sec.gov/answers/dividen.htm": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://advisors.vanguard.com/insights/article/2020scheduleofdividenddistributions": "ERROR,Not Found",
+  "https://advisors.vanguard.com/insights/article/estimatedyearenddistributions": "ERROR,Not Found",
+  "https://advisors.vanguard.com/insights/article/preliminarycapitalgainsestimates": "ERROR,Not Found",
+  "https://www.schwabfunds.com/resource/schwab-funds-estimated-annual-distributions-2020": "OTHER,Forbidden"
+}

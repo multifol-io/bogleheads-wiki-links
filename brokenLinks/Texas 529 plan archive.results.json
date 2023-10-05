@@ -1,0 +1,6 @@
+{
+  "http://529.morningstar.com/overview.action?state=TX\u0026planID=5PUSA0001L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.texascollegesavings.com/digitalAssets/Texas-College-Allocation-Worksheet-17fc867e484d0210VgnVCM100000e82311ac____.pdf": "ERROR,Not Found",
+  "https://www.texascollegesavings.com/OFI529/Links.jsp?link=plndesc": "ERROR,Not Found",
+  "https://www.texascollegesavings.com/OFI529/PN/generated/en_us/PrimaryNavigation_10-18-07-124326.xml": "ERROR,Not Found"
+}

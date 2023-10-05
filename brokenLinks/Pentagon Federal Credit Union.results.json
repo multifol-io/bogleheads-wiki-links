@@ -1,0 +1,10 @@
+{
+  "https://netmember3.penfed.org/NetMember/Forms/OpenAccounts/Eligibility.aspx?MEMBERSHIP": "ERROR,No such host is known. (netmember3.penfed.org:443)",
+  "https://www.penfed.org/55-Adjustable-Rate-Mortgage/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.penfed.org/about-penfed": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.penfed.org/credit-cards/platinum-rewards-visa": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.penfed.org/deposit-anywhere/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.penfed.org/money-market-certificate/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.penfed.org/mortgage-center": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.penfed.org/Traditional-IRA-Certificates/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+}

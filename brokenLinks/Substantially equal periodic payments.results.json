@@ -1,0 +1,6 @@
+{
+  "http://finance.toolkit.com/financial_calculators/display.aspx?cal=Retire72Alt": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.brentmark.com/rr200262.htm": "ERROR,Not Found",
+  "http://www.irs.gov/app/picklist/list/federalRates.html": "ERROR,Not Found",
+  "http://www.vanguard.com/pdf/s164.pdf?2210025466": "ERROR,Not Found"
+}

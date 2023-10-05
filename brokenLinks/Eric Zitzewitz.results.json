@@ -1,0 +1,6 @@
+{
+  "http://academic.research.microsoft.com/Author/10682289/eric-zitzewitz": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://citec.repec.org/p/z/pzi23.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
+  "http://dartmouth.edu/faculty-directory/eric-w-zitzewitz": "OTHER,Forbidden",
+  "http://www.q-group.org/prize-winners/": "ERROR,Not Found"
+}

@@ -1,0 +1,6 @@
+{
+  "http://529.morningstar.com/overview.action?state=NM\u0026planID=5PUSA0000W": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.theeducationplan.com/litcenter/529/nmdirectsold/literature?site=den-prod-529-1\u0026plan=NMDirectSold": "ERROR,Not Found",
+  "https://www.theeducationplan.com/OFI529/AP/portfolio.do?style=investmentOptionsSummary#ageBasedl": "ERROR,Not Found",
+  "https://www.theeducationplan.com/OFI529/AP/portfolio.do?style=investmentOptionsSummary#customChoice": "ERROR,Not Found"
+}

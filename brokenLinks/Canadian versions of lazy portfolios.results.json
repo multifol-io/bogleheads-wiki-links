@@ -1,0 +1,11 @@
+{
+  "https://www.etfs.bmo.com/bmo-etfs/glance?fundId=72048": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch",
+  "https://www.etfs.bmo.com/bmo-etfs/glance?fundId=75742": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch",
+  "https://www.etfs.bmo.com/bmo-etfs/glance?fundId=92494": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch",
+  "https://www.etfs.bmo.com/bmo-etfs/glance?fundId=97630": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch",
+  "https://www.ndir.com/cgi-bin/PeriodicTableofAnnualReturns.cgi": "OTHER,No connection could be made because the target machine actively refused it. (www.ndir.com:443)",
+  "https://www.tdassetmanagement.com/fundDetails.form?fundId=3261\u0026prodGroupId=1\u0026lang=en\u0026site=TDCT": "OTHER,Service Unavailable",
+  "https://www.tdassetmanagement.com/fundDetails.form?fundId=3270\u0026prodGroupId=1\u0026lang=en\u0026site=TDCT": "OTHER,Service Unavailable",
+  "https://www.tdassetmanagement.com/fundDetails.form?fundId=4817\u0026prodGroupId=1\u0026lang=en\u0026site=TDCT": "OTHER,Service Unavailable",
+  "https://www.tdassetmanagement.com/fundDetails.form?fundId=4877\u0026prodGroupId=1\u0026lang=en\u0026site=TDCT": "OTHER,Service Unavailable"
+}

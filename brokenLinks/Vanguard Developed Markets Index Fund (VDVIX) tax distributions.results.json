@@ -1,0 +1,5 @@
+{
+  "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000923202\u0026type=N-30D\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden",
+  "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000923202\u0026type=N-CSR\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden",
+  "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000923202\u0026type=NSAR\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden"
+}

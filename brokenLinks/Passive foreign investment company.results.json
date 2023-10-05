@@ -1,0 +1,4 @@
+{
+  "https://www.nasdaq.com/investing/glossary/m/mark-to-market-accounting": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.nasdaq.com/investing/glossary/u/unrealized-capital-gain-loss": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+}

@@ -1,0 +1,9 @@
+{
+  "http://articles.marketwatch.com/2007-06-19/finance/30754812_1_fund-independence-rule-fund-boards-fund-companies": "ERROR,No such host is known. (articles.marketwatch.com:80)",
+  "http://blogs.wsj.com/totalreturn/2012/04/13/morningstar-challenges-study-that-questions-its-ratings/": "ERROR,Not Found",
+  "http://cart.morningstar.ca/quicktakes/stewardship/img/stewardship-methodology.pdf": "OTHER,410 Gone",
+  "http://corporate.morningstar.com/us/documents/stewardshipgradefunds/StewGradeMethodology_06-18-07.pdf": "UPDATE LINK,redirected to http://corporate.morningstar.com/us/html/pdf.htm?../documents/stewardshipgradefunds/StewGradeMethodology_06-18-07.pdf",
+  "http://news.morningstar.com/articlenet/article.aspx?id=115118": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.cafemutual.com/News/India-rated-B-in-Morningstar-global-investors-experience-survey~366~New~Industry~21": "ERROR,Not Found",
+  "https://personal.vanguard.com/bogle_site/sp20040105.html": "OTHER,Forbidden"
+}

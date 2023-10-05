@@ -1,0 +1,9 @@
+{
+  "http://knowledge.emory.edu/papers/794.pdf": "ERROR,Not Found",
+  "http://www.wisdomtree.com/etfs/fund-details.asp?etfid=25": "ERROR,Not Found",
+  "http://www.wisdomtree.com/etfs/fund-details.asp?etfid=53": "ERROR,Not Found",
+  "https://www.etf.com": "OTHER,Forbidden",
+  "https://www.schwabfunds.com/products/fndc": "OTHER,Forbidden",
+  "https://www.schwabfunds.com/products/schc": "OTHER,Forbidden",
+  "https://www.schwabfunds.com/products/sfilx": "OTHER,Forbidden"
+}

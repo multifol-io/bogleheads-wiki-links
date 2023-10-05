@@ -1,0 +1,7 @@
+{
+  "https://www.assetmanagement.hsbc.com/uk": "UPDATE LINK,redirected to http://www.assetmanagement.hsbc.com/",
+  "https://www.h-l.co.uk/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.moneysavingexpert.com/": "OTHER,Forbidden",
+  "https://www.trading212.com/": "OTHER,Forbidden",
+  "https://www.vanguard.co.uk/content/dam/intl/europe/documents/en/physical-and-synthetic-etf-structures-eu-en-pro.pdf": "ERROR,Not Found"
+}

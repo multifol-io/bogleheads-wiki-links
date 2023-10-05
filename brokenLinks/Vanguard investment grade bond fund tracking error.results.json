@@ -1,0 +1,4 @@
+{
+  "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106444\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+  "http://www.sec.gov/cgi-bin/browse-edgar?type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings\u0026action=getcompany\u0026CIK=0000106444": "WARNING,Too Many Requests"
+}

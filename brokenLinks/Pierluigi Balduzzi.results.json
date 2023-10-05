@@ -1,0 +1,6 @@
+{
+  "http://academic.research.microsoft.com/Author/64506/pierluigi-balduzzi": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://citec.repec.org/p/b/pba469.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
+  "https://www2.bc.edu/pierluigi-balduzzi": "OTHER,The requested name is valid-- but no data of the requested type was found. (www2.bc.edu:443)",
+  "https://www2.bc.edu/pierluigi-balduzzi/": "OTHER,The requested name is valid-- but no data of the requested type was found. (www2.bc.edu:443)"
+}

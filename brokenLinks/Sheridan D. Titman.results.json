@@ -1,0 +1,7 @@
+{
+  "http://academic.research.microsoft.com/Author/53639256/sheridan-d-titman": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://citec.repec.org/p/t/pti51.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
+  "http://gersteinfisher.com/who-we-are/academic-partners/": "ERROR,Not Found",
+  "http://www.afajof.org/details/page/2870731/Prizes.html": "ERROR,Not Found",
+  "http://www.businesswire.com/news/home/20130328005321/en/Sheridan-Titman-Ph.D.-Renowned-Academic-Quantitative-Investing": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+}

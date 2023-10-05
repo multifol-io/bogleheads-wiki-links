@@ -1,0 +1,4 @@
+{
+  "http://529.morningstar.com/overview.action?state=LA\u0026planID=5PUSA0000H": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.startsaving.la.gov/savings/pdf/START_Disclosure_Booklet.pdf": "ERROR,Not Found"
+}

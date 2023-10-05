@@ -1,0 +1,19 @@
+{
+  "http://news.morningstar.com/articlenet/article.aspx?id=178504": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://news.morningstar.com/articlenet/article.aspx?id=303206": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://news.morningstar.com/articlenet/article.aspx?id=637022": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.etf.com/sections/index-investor-corner/23275-ferri-avoid-being-an-out-of-style-investor.html?fullart=1\u0026start=4": "OTHER,Forbidden",
+  "http://www.icifactbook.org/fb_ch2.html#investor": "ERROR,Not Found",
+  "https://advisors.vanguard.com/VGApp/iip/site/advisor/researchcommentary/article/IWE_InvResAlpha": "ERROR,Not Found",
+  "https://advisors.vanguard.com/VGApp/iip/site/advisor/researchcommentary/article/IWE_InvResValueAdvisorsAlpha": "ERROR,Not Found",
+  "https://www.morningstar.com/funds/xnas/VBLTX/performance": "ERROR,Not Found",
+  "https://www.morningstar.com/funds/xnas/VDAIX/performance": "ERROR,Not Found",
+  "https://www.morningstar.com/funds/xnas/VFSVX/performance": "ERROR,Not Found",
+  "https://www.morningstar.com/funds/xnas/VFTSX/performance": "ERROR,Not Found",
+  "https://www.morningstar.com/funds/xnas/VFWIX/performance": "ERROR,Not Found",
+  "https://www.morningstar.com/funds/xnas/VGOVX/performance": "ERROR,Not Found",
+  "https://www.morningstar.com/funds/xnas/VHDYX/performance": "ERROR,Not Found",
+  "https://www.morningstar.com/funds/xnas/VTENX/performance": "ERROR,Not Found",
+  "https://www.morningstar.com/funds/xnas/VTWSX/performance": "ERROR,Not Found",
+  "https://www.morningstar.com/funds/xnas/VTXVX/performance": "ERROR,Not Found"
+}

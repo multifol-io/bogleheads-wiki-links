@@ -1,0 +1,5 @@
+{
+  "http://www.freddiemac.com/corporate/company_profile/": "ERROR,Not Found",
+  "http://www.wikinvest.com/stock/Freddie_Mac_(FMCC)": "ERROR,No such host is known. (www.wikinvest.com:80)",
+  "https://ecommerce.barcap.com/indices/index.dxml": "OTHER,The requested name is valid-- but no data of the requested type was found. (index.barcap.com:443)"
+}

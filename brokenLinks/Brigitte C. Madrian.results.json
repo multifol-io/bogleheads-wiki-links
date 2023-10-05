@@ -1,0 +1,5 @@
+{
+  "http://academic.research.microsoft.com/Author/535515/brigitte-c-madrian": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://citec.repec.org/p/m/pma384.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
+  "http://www.hks.harvard.edu/about/faculty-staff-directory/brigitte-madrian": "ERROR,Not Found"
+}

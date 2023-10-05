@@ -1,0 +1,9 @@
+{
+  "http://www.sipc.org/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.sipc.org/for-investors/investor-faqs/#excess-sipc-insurance": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.sipc.org/for-investors/investor-faqs/#money-market-mutual-funds": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.sipc.org/for-investors/what-sipc-protects": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.sipc.org/list-of-members": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.sipc.org/news-and-media/brochures": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.bloomberg.com/news/articles/2015-12-10/third-avenue-plans-to-liquidate-focused-credit-fund-after-losses%5Cpublisher=Bloomber": "ERROR,Not Found"
+}

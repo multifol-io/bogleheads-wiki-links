@@ -1,0 +1,12 @@
+{
+  "http://www.crsp.com/documentation/pdfs/equity-indexes/Equity-Indexes-Methodology-Guide.pdf": "ERROR,Not Found",
+  "http://www.crsp.com/indexes-pages/returns-and-constituents": "ERROR,Not Found",
+  "http://www.djindexes.com/": "ERROR,No such host is known. (www.djindexes.com:80)",
+  "http://www.djindexes.com/mdsidx/downloads/rulebooks/Dow_Jones_US_Total_Stock_Market_Indexes_Rulebook.pdf": "ERROR,No such host is known. (www.djindexes.com:80)",
+  "http://www.indexuniverse.com/publications/journalofindexes.html": "OTHER,Forbidden",
+  "http://www.indexuniverse.com/publications/journalofindexes/joi-articles/2622.html": "OTHER,Forbidden",
+  "http://www.wilshire.com/Indexes/Broad/Wilshire5000/": "ERROR,Not Found",
+  "http://www.wilshire.com/Indexes/calculator/": "ERROR,Not Found",
+  "https://institutional.vanguard.com/iam/pdf/ICRPBD.pdf?cbdForceDomain=true": "ERROR,Not Found",
+  "https://personal.vanguard.com/pdf/icrpi.pdf": "ERROR,Not Found"
+}

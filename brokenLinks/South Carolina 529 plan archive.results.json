@@ -1,0 +1,6 @@
+{
+  "http://529.morningstar.com/overview.action?state=SC\u0026planID=5PUSA00030": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.futurescholar.com/InvestmentChoices/InvestmentChoices_Age.htm": "OTHER,An error occurred while sending the request.",
+  "http://www.futurescholar.com/UserRelationship/UserRelationshipPage.htm": "OTHER,An error occurred while sending the request.",
+  "https://performance.columbiamanagement.com/content/columbia/pdf/FS_DIRECT_PROGRAM_DESCRIPTION_APRIL.PDF": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+}

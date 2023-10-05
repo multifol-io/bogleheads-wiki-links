@@ -1,0 +1,7 @@
+{
+  "http://crr.bc.edu/images/stories/Working_Papers/WP_2005-14.pdf": "ERROR,Not Found",
+  "http://spwfe.fpanet.org:10005/public/Unclassified%20Records/FPA%20Journal%20March%202008%20-%20Economics\u0027%20Approach%20to%20Financial%20Planning.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.bls/gov/cex": "ERROR,No such host is known. (www.bls:80)",
+  "http://www.pitecreative.com/staging/latesavers/partone.html": "OTHER,Forbidden",
+  "https://www.davidmblanchett.com/Inaccurate%20Precision%2006.15.12%20FINAL.pdf": "ERROR,Not Found"
+}

@@ -1,0 +1,8 @@
+{
+  "http://www.fairmark.com/mutual/stcl.htm": "ERROR,Not Found",
+  "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000225997\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+  "http://www.sec.gov/cgi-bin/browse-edgar?type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings\u0026action=getcompany\u0026CIK=0000225997": "OTHER,Forbidden",
+  "http://www.sec.gov/cgi-bin/browse-edgar?type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings\u0026action=getcompany\u0026CIK=0000225997": "OTHER,Forbidden",
+  "http://www.taxfoundation.org/taxdata/show/151.html": "ERROR,No such host is known. (data:443)",
+  "http://www.taxfoundation.org/taxdata/show/228.html": "ERROR,No such host is known. (data:443)"
+}

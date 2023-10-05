@@ -1,0 +1,8 @@
+{
+  "http://www.sec.gov/Archives/edgar/data/866252/000119312508092350/d485bpos.htm": "WARNING,Too Many Requests",
+  "http://www.transamerica.com/company_profile/about_transamerica/financial_overview.asp": "ERROR,Not Found",
+  "http://www.vanguard.com/pdf/z070.pdf": "ERROR,Not Found",
+  "https://personal.vanguard.com/us/LiteratureRequest?FW_Activity=ViewOnlineActivity\u0026litID=2210022525\u0026FW_Event=start\u0026view_mode=web\u0026usage_cat2=\u0026viewLitID=2210022525": "ERROR,No such host is known. (personal.vanguard.comnull:443)",
+  "https://personal.vanguard.com/us/LiteratureRequest?FW_Activity=ViewOnlineActivity\u0026litID=2210061192\u0026FW_Event=start\u0026view_mode=web\u0026usage_cat2=\u0026viewLitID=2210061192": "ERROR,No such host is known. (personal.vanguard.comnull:443)",
+  "https://www.transamerica.com/individual/what-we-do/about-us/": "ERROR,Not Found"
+}

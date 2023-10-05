@@ -1,0 +1,4 @@
+{
+  "http://529.morningstar.com/overview.action?state=OR\u0026planID=5PUSA00015": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://www.oregoncollegesavings.com/documents/or_disclosure.pdf": "UPDATE LINK,redirected to http://www.oregoncollegesavings.com/assets/docs/oregon-college-plan-disclosure-booklet.pdf"
+}

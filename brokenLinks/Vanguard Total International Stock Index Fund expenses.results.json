@@ -1,0 +1,6 @@
+{
+  "http://www.ftse.com/products/indices/geis-series": "ERROR,Not Found",
+  "http://www.msci.com/products/indexes/": "UPDATE LINK,redirected to http://www.msci.com/indexes",
+  "http://www.msci.com/products/indexes/country_and_regional/all_country/": "UPDATE LINK,redirected to http://www.msci.com/indexes",
+  "http://www.msci.com/products/indexes/country_and_regional/dm/": "UPDATE LINK,redirected to http://www.msci.com/indexes"
+}

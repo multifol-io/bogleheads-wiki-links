@@ -1,0 +1,6 @@
+{
+  "http://academic.research.microsoft.com/Author/2393982/andrew-w-lo": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://citec.repec.org/p/l/plo171.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
+  "http://www.cfapubs.org/page/faj/all-graham-dodd-winners": "OTHER,Forbidden",
+  "https://www.cfainstitute.org/learning/foundation/Pages/vertin_award.aspx": "ERROR,Not Found"
+}

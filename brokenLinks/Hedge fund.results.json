@@ -1,0 +1,7 @@
+{
+  "http://intra.som.umass.edu/msherman/pubs/LifeCycle.pdf": "ERROR,No such host is known. (intra.som.umass.edu:80)",
+  "http://www.cbsnews.com/8301-505123_162-57344189/the-way-to-predict-hedge-fund-returns/?tag=mncol;lst;1": "ERROR,Not Found",
+  "http://www.finalternatives.com/files/The%20A,B,Cs%20of%20Hedge%20Funds%20--%20Sept.%202006.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.rmi.gsu.edu/Research/downloads/HedgeFunds_Mar2006.pdf": "ERROR,Not Found",
+  "http://www.sec.gov/answers/hedge.htm": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+}

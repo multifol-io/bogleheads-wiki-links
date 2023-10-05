@@ -1,0 +1,11 @@
+{
+  "http://fic.wharton.upenn.edu/fic/papers/07/0725.pdf": "ERROR,Not Found",
+  "http://fic.wharton.upenn.edu/fic/Policy%20page/AnnuityTaxation1.pdf": "ERROR,Not Found",
+  "http://www.aaii.com/journal/200311/portstrategies.pdf": "OTHER,Forbidden",
+  "http://www.ifid.ca/pdf_workingpapers/WP2003JUN.pdf": "ERROR,Not Found",
+  "http://www.ifid.ca/pdf_workingpapers/WP2004Aug25.pdf": "ERROR,Not Found",
+  "http://www.irionline.org/pdfs/09AnnuityFactBook/2009AnnuityFactBook.pdf": "ERROR,Not Found",
+  "http://www.sec.gov/Archives/edgar/data/820627/000119312508096683/d485bpos.txt": "OTHER,Forbidden",
+  "http://www.sec.gov/Archives/edgar/data/866252/000119312509022610/d485apos.htm": "OTHER,Forbidden",
+  "https://institutional.vanguard.com/iam/pdf/CRRADC.pdf": "ERROR,Not Found"
+}

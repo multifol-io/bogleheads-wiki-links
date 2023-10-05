@@ -1,0 +1,7 @@
+{
+  "http://badmoneyadvice.com": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://badmoneyadvice.com/2009/02/iras-roth-and-other-kind.html": "OTHER,Service Unavailable",
+  "http://www.irs.gov/uac/Get-Credit-for-Your-Retirement-Savings-Contributions": "ERROR,Not Found",
+  "https://waysandmeans.house.gov/sites/democrats.waysandmeans.house.gov/files/documents/SECURE%20Act%20section%20by%20section.pdf": "ERROR,Not Found",
+  "https://www.investor.gov/introduction-investing/investing-basics/glossary/real-return": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+}

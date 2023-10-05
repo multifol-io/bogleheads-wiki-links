@@ -1,0 +1,6 @@
+{
+  "http://academic.research.microsoft.com/Author/1833381/russ-wermers": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://alex2.umd.edu/wermers/faj.v67.n6.5.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.cfapubs.org/page/faj/all-graham-dodd-winners": "OTHER,Forbidden",
+  "http://www.smith.umd.edu/faculty/rwermers/": "ERROR,Not Found"
+}

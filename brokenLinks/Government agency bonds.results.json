@@ -1,0 +1,10 @@
+{
+  "http://apps.finra.org/investor_information/smart/bonds/303000.asp": "ERROR,No such host is known. (apps.finra.org:80)",
+  "http://apps.finra.org/investor_information/smart/bonds/303100.asp": "ERROR,No such host is known. (apps.finra.org:80)",
+  "http://apps.finra.org/investor_information/smart/bonds/dialog_main.asp?P=BondGlossaryTerms.asp\u0026B=gse\u0026T=Glossary": "ERROR,No such host is known. (apps.finra.org:80)",
+  "http://www.fanniemae.com/markets/debt/index.jhtml?p=Debt\u002BSecurities": "ERROR,Not Found",
+  "http://www.investinginbonds.com/learnmore.asp?catid=11": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.investinginbonds.com/learnmore.asp?catid=5\u0026subcatid=21": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.investinginbonds.com/learnmore.asp?catid=9\u0026subcatid=94": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://ecommerce.barcap.com/indices/index.dxml?pageId=9": "OTHER,The requested name is valid-- but no data of the requested type was found. (index.barcap.com:443)"
+}

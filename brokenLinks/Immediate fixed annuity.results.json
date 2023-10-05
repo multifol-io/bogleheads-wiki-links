@@ -1,0 +1,20 @@
+{
+  "http://fic.wharton.upenn.edu/fic/papers/06/0614.pdf": "ERROR,Not Found",
+  "http://www.aaii.com/journal/article/the-role-of-inflation-indexed-annuities?acc=o": "OTHER,Forbidden",
+  "http://www.advisorone.com/2009/09/01/annuity-analytics-how-much-to-allocate-to-annuitie": "ERROR,No such host is known. (www.advisorone.com:80)",
+  "http://www.advisorsexcel.com/downloads/2011FactBook.pdf": "ERROR,Not Found",
+  "http://www.annuity-insurers.org/Resources/History/History-of-annuities.aspx": "OTHER,Forbidden",
+  "http://www.cfapubs.org/doi/pdf/10.2470/rf.v2013.n1.1": "OTHER,Forbidden",
+  "http://www.ebri.org/pdf/programs/policyforums/CPI_Fixed_Annuities_Value.pdf": "ERROR,Not Found",
+  "http://www.gao.gov/new.items/d11400.pdf": "UPDATE LINK,redirected to http://www.gao.gov/pdf/product/new-items-d11400",
+  "http://www.irionline.org/pdfs/09AnnuityFactBook/2009AnnuityFactBook.pdf": "ERROR,Not Found",
+  "http://www.tiaa-cref.org/institute/research/dialogue/rd_48.html": "UPDATE LINK,redirected to http://www.tiaa.org/public/institute/research/dialogue/rd_48",
+  "http://www.tiaa-cref.org/institute/research/dialogue/rd_74.html": "UPDATE LINK,redirected to http://www.tiaa.org/public/institute/research/dialogue/rd_74",
+  "http://www.tiaa-cref.org/institute/research/trends_issues/ti_annuities_1006.html": "UPDATE LINK,redirected to http://www.tiaa.org/public/institute/research/trends_issues/ti_annuities_1006",
+  "http://www.tiaa-cref.org/ucm/groups/content/@ap_ucm_p_tcp/documents/document/tiaa04016217.pdf": "OTHER,Service Unavailable",
+  "http://www.tiaa-crefinstitute.org/ucm/groups/content/@ap_ucm_p_tcp_docs/documents/document/tiaa02029429.pdf": "OTHER,Service Unavailable",
+  "https://personal.vanguard.com/pdf/icruia.pdf": "ERROR,Not Found",
+  "https://www.incomesolutions.com/InstPricing.aspx": "ERROR,Not Found",
+  "https://www.incomesolutions.com/ISAnnuityTypes.aspx": "ERROR,Not Found",
+  "https://www.researchgate.net/publication/228798083_Merging_asset_allocation_and_longevity_insurance_An_optimal_perspective_on_payout_annuities": "OTHER,Forbidden"
+}

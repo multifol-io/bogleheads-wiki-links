@@ -1,0 +1,6 @@
+{
+  "http://529.morningstar.com/overview.action?state=HI\u0026planID=5PUSA0001J": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://a248.e.akamai.net/f/248/21630/7d/uii.s.upromise.com/rc/sr2/hawaii/programDescription.pdf": "OTHER,Forbidden",
+  "https://hi529.s.upromise.com/": "ERROR,No such host is known. (hi529.s.upromise.com:443)",
+  "https://hi529.s.upromise.com/content/investments.html": "ERROR,No such host is known. (hi529.s.upromise.com:443)"
+}

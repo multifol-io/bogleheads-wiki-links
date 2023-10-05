@@ -1,0 +1,10 @@
+{
+  "http://spreadsheets.google.com/ccc?key==0Ao_KSkmSuU2rdG9kRFJjRnR0M3ZUTE9PUVZFZGZ3Tnc": "ERROR,Not Found",
+  "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=000003640\u0026type=N-CSR\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden",
+  "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=N-30D\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden",
+  "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=N-CSR\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden",
+  "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=NSAR\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden",
+  "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=00000364052\u0026type=N-CSR\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden",
+  "http://www.sec.gov/cgi-bin/browse-edgar?type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings\u0026action=getcompany\u0026CIK=000003640": "OTHER,Forbidden",
+  "http://www.sec.gov/cgi-bin/browse-edgar?type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings\u0026action=getcompany\u0026CIK=00000364059": "OTHER,Forbidden"
+}

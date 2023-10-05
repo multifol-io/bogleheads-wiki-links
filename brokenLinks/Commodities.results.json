@@ -1,0 +1,17 @@
+{
+  "http://mfs.rutgers.edu/MFC/MFC12/mfcindex/files/MSCRIPT2005/MFC-021.pdf": "OTHER,No connection could be made because the target machine actively refused it. (mfs.rutgers.edu:80)",
+  "http://www.cftc.gov/ConsumerProtection/Resources/index.htm": "OTHER,Forbidden",
+  "http://www.crbtrader.com/crbindex/": "OTHER,Forbidden",
+  "http://www.djindexes.com/commodity/?go=literature": "ERROR,No such host is known. (www.djindexes.com:80)",
+  "http://www.iinews.com/site/pdfs/JAI_Summer_2000_Greer.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.investorsolutions.com/news/299/112/Commodities-As-An-Asset-Class/": "ERROR,Not Found",
+  "http://www.investorsolutions.com/news/309/112/Not-All-Commodity-Indexes-Are-Created-Equal-Part-One-of-a-Two-Part-Series/": "ERROR,Not Found",
+  "http://www.ipathetn.com/US/16/en/details.app?instrumentId=1193": "ERROR,Not Found",
+  "http://www.jeremysiegel.com/index.cfm/fuseaction/Resources.ViewResource/type/article/resourceID/6601.cfm": "ERROR,Not Found",
+  "http://www.vanguard.com/pdf/icrcom.pdf?2210031801": "ERROR,Not Found",
+  "http://www.vanguard.com/pdf/s552.pdf?221002207": "ERROR,Not Found",
+  "https://personal.vanguard.com/pdf/ISGCTIPS.pdf": "ERROR,Not Found",
+  "https://www.etf.com/sections/features-and-news/k-1-taxes-hurdle-commodity-etfs": "OTHER,Forbidden",
+  "https://www.investopedia.com/terms/c/commodityfuturescontract.asp.": "ERROR,Not Found",
+  "https://www.spglobal.com/spdji/en/documents/research/research-rethinking-commodities.pdf": "ERROR,Not Found"
+}

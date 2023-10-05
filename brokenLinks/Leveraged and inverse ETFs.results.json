@@ -1,0 +1,8 @@
+{
+  "http://www.direxionfunds.com/signs": "ERROR,Not Found",
+  "http://www.indexuniverse.com/publications/journalofindexes/joi-articles/6414-understanding-returns-of-leveraged-and-inverse-funds.html?showall=\u0026fullart=1\u0026start=7": "OTHER,Forbidden",
+  "http://www.proshares.com/about/index.html": "ERROR,Not Found",
+  "http://www.proshares.com/considerations_geared_investing.html": "ERROR,Not Found",
+  "http://www.proshares.com/media/documents/geared_fund_performance.pdf": "ERROR,Not Found",
+  "https://finpage.blog/2019/12/12/leveraging-sp-500-quantitative-analysis/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+}

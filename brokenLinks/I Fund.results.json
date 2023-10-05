@@ -1,0 +1,7 @@
+{
+  "https://personal.vanguard.com/us/LiteratureRequest?FW_Activity=ViewOnlineActivity\u0026litID=2210061661\u0026FW_Event=start\u0026cbdForceDomain=false": "ERROR,No such host is known. (personal.vanguard.comnull:443)",
+  "https://www.frtib.gov/MeetingMinutes/2017/2017Nov.pdf": "ERROR,Not Found",
+  "https://www.frtib.gov/MeetingMinutes/2018/2018Dec.pdf": "ERROR,Not Found",
+  "https://www.frtib.gov/MeetingMinutes/2020/2020May13.pdf": "ERROR,Not Found",
+  "https://www.tsp.gov/investmentfunds/fundsheets/fundPerformance_I.shtml": "OTHER,Forbidden"
+}

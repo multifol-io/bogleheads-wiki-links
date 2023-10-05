@@ -1,0 +1,5 @@
+{
+  "http://academic.research.microsoft.com/Author/2858736/edward-tower": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://citec.repec.org/p/t/pto131.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
+  "http://econ.duke.edu/people?Uil=edward.tower\u0026subpage=profile": "ERROR,Not Found"
+}

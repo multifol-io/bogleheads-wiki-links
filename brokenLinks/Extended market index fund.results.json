@@ -1,0 +1,4 @@
+{
+  "http://portfolios.morningstar.com/fund/summary?t=VEXMX\u0026region=usa\u0026culture=en_US": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.djindexes.com/totalstockmarket/": "ERROR,No such host is known. (www.djindexes.com:80)"
+}

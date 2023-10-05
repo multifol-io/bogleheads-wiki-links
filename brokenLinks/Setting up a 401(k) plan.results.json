@@ -1,0 +1,13 @@
+{
+  "http://www.401kplanschool.com/documents/401k_pyramid.pdf": "ERROR,No such host is known. (www.401kplanschool.com:80)",
+  "http://www.403bplanschool.com/documents/403b_pyramid.pdf": "ERROR,No such host is known. (www.403bplanschool.com:80)",
+  "http://www.prudentllc.com/download/Scott04-05-07.pdf": "ERROR,Not Found",
+  "http://www.prudentllc.com/download/Scott05-03-07.pdf": "ERROR,Not Found",
+  "http://www.prudentllc.com/download/Scott06-05-08.pdf": "ERROR,Not Found",
+  "http://www.prudentllc.com/download/Scott06-07-07.pdf": "ERROR,Not Found",
+  "http://www.prudentllc.com/download/Scott07-05-07.pdf": "ERROR,Not Found",
+  "http://www.prudentllc.com/download/Scott08-02-07.pdf": "ERROR,Not Found",
+  "http://www.prudentllc.com/download/Scott10-04-07.pdf": "ERROR,Not Found",
+  "http://www.prudentllc.com/download/Scott11-01-07.pdf": "ERROR,Not Found",
+  "https://institutional.vanguard.com/iam/pdf/SRCFEREA.pdf?cbdForceDomain=false": "ERROR,Not Found"
+}

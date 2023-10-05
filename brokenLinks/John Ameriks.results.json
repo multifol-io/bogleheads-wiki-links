@@ -1,0 +1,5 @@
+{
+  "http://academic.research.microsoft.com/Author/51484913/john-ameriks": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://citec.repec.org/p/a/pam72.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
+  "https://institutional.vanguard.com/VGApp/iip/site/institutional/researchcommentary/expert/JohnAmeriks": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+}

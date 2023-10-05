@@ -1,0 +1,9 @@
+{
+  "http://990finder.foundationcenter.org/990results.aspx?action=Find\u0026fn=\u0026st=\u0026ei=274067736": "OTHER,Forbidden",
+  "http://apps.irs.gov/app/eos/pub78Search.do?ein1=274067736\u0026names=\u0026city=\u0026state=All...\u0026country=US\u0026deductibility=all\u0026dispatchMethod=searchCharities\u0026submitName=Search": "OTHER,Forbidden",
+  "http://www.boston.com/business/personalfinance/articles/2006/10/25/planning_ahead_can_help_keep_holiday_spending_out_of_the_red/": "ERROR,Not Found",
+  "http://www.indexuniverse.com/sections/features/3599.html": "OTHER,Forbidden",
+  "http://www.trademarkia.com/bogleheads-76706567.html": "OTHER,Forbidden",
+  "http://www.usnews.com/blogs/new-money/2008/6/6/of-diehards-and-bogleheads.html": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.usnews.com/blogs/new-money/2008/8/11/investing-advice-from-the-bogleheads.html": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+}

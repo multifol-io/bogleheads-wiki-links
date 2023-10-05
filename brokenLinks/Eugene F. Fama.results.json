@@ -1,0 +1,8 @@
+{
+  "http://academic.research.microsoft.com/Author/993000/eugene-fama": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://citec.repec.org/p/f/pfa110.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
+  "http://faculty.chicagogsb.edu/eugene.fama/research/index.htm": "ERROR,No such host is known. (faculty.chicagogsb.edu:80)",
+  "http://jfe.rochester.edu/winners.htm": "ERROR,No such host is known. (jfe.rochester.edu:80)",
+  "http://www.afajof.org/details/page/2870731/Prizes.html": "ERROR,Not Found",
+  "https://www.cfainstitute.org/learning/products/publications/dig/Pages/dig.v37.n2.4595.aspx": "ERROR,Not Found"
+}

@@ -1,0 +1,6 @@
+{
+  "http://finance.yahoo.com/news/profunds-announces-mutual-fund-share-200000808.html": "ERROR,Not Found",
+  "http://guggenheiminvestments.com/products/mutual-funds/share-splits": "ERROR,Not Found",
+  "http://www.thestreet.com/story/668251/1/do-mutual-funds-ever-split-their-shares.html": "OTHER,Forbidden",
+  "https://www.americancentury.com/content/americancentury/direct/en/investment-planning/tax-center/reverse-share-split.html": "OTHER,Bad Gateway"
+}

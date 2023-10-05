@@ -1,0 +1,10 @@
+{
+  "http://calvertgroup.com/sri-index-faq.html": "ERROR,No such host is known. (calvertgroup.com:80)",
+  "http://djindexes.com/sustainability/": "ERROR,No such host is known. (djindexes.com:80)",
+  "http://www.calvertgroup.com/sri-index-faq.html": "ERROR,No such host is known. (www.calvertgroup.com:80)",
+  "http://www.ftse.com/Indices/FTSE4Good_Index_Series/Downloads/indexrules.pdf": "ERROR,Not Found",
+  "http://www.ftse.com/Indices/FTSE4Good_Index_Series/index.jsp": "ERROR,Not Found",
+  "http://www.msci.com/products/indices/thematic/esg/": "UPDATE LINK,redirected to http://www.msci.com/products/indexes/thematic/esg/",
+  "http://www.msci.com/resources/factsheets/index_fact_sheet/msci-kld-400-social-index.pdf": "UPDATE LINK,redirected to http://www.msci.com/documents/10199/904492e6-527e-4d64-9904-c710bf1533c6",
+  "http://www.msci.com/resources/factsheets/index_fact_sheet/msci-usa-esg-select-index.pdf": "UPDATE LINK,redirected to http://www.msci.com/documents/10199/5b30f74d-8bdd-4efd-9824-c77c05eb64d8"
+}

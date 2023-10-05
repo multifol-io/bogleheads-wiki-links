@@ -1,0 +1,4 @@
+{
+  "https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/consumer-financial-services/key-information-documents-packaged-retail-and-insurance-based-investment-products-priips_en": "ERROR,Not Found",
+  "https://ishares.eu/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+}

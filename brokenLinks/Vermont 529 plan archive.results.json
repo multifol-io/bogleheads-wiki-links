@@ -1,0 +1,5 @@
+{
+  "http://529.morningstar.com/overview.action?state=VT\u0026planID=5PUSA0001A": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.vheip.org/documents/vt_disclosure.pdf": "ERROR,Not Found",
+  "http://www.vheip.org/portfolios/portfolios.shtml#managed": "ERROR,Not Found"
+}

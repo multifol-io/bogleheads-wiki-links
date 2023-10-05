@@ -1,0 +1,4 @@
+{
+  "http://academic.research.microsoft.com/Author/2346978/daniel-kahneman": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://citec.repec.org/p/k/pka60.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors"
+}

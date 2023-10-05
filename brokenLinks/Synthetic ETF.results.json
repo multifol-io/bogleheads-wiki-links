@@ -1,0 +1,11 @@
+{
+  "http://europe.etf.com/europe/features-a-news/7859-regulators-consider-ban-on-retail-purchases-of-synthetic-etfs.html?showall=\u0026fullart=1\u0026start=2": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://europe.etf.com/index.php": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://monevator.com/2011/04/26/synthetic-etf-risks/": "ERROR,Not Found",
+  "http://monevator.com/2011/05/17/how-a-synthetic-etf-works/": "ERROR,Not Found",
+  "http://www.bogleheads.org/forum/viewtopic.php?p=1079476#1079476": "ERROR,Not Found",
+  "http://www.etf.com/sections/blog/9106-a-game-changer.html?iu=1": "OTHER,Forbidden",
+  "http://www.imf.org/external/about.htm": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.imf.org/external/pubs/ft/gfsr/2011/01/pdf/text.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.indexuniverse.com/": "OTHER,Forbidden"
+}

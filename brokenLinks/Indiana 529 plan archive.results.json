@@ -1,0 +1,5 @@
+{
+  "http://529.morningstar.com/overview.action?state=IN\u0026planID=5PUSA0000D": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://a248.e.akamai.net/f/248/21630/7d/im.uprinv.com/rc/sr2/indiana/enrollkit.pdf": "OTHER,Forbidden",
+  "https://collegechoicedirect.s.upromise.com/site": "ERROR,No such host is known. (collegechoicedirect.s.upromise.com:443)"
+}

@@ -1,0 +1,7 @@
+{
+  "http://529.morningstar.com/overview.action?state=AK\u0026planID=5PUSA00002": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://529.morningstar.com/overview.action?state=AK\u0026planID=5PUSA00003": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.uacollegesavings.com/public/ua529/Our-Plan/Investment-Options/ACT-Portfolio": "ERROR,Not Found",
+  "http://www.uacollegesavings.com/public/ua529/Our-Plan/Investment-Options/Enrollment-Based-Portfolios": "ERROR,Not Found",
+  "http://www.uacollegesavings.com/ua529/Shared/PDFs/Final_UA_Disclosure.pdf": "ERROR,Not Found"
+}

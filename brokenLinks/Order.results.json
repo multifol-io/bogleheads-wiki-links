@@ -1,0 +1,4 @@
+{
+  "http://news.morningstar.com/articlenet/article.aspx?id=337005": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "https://personal.vanguard.com/pdf/ISGETF.pdf": "ERROR,Not Found"
+}

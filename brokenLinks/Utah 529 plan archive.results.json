@@ -1,0 +1,21 @@
+{
+  "http://529.morningstar.com/overview.action?state=UT\u0026planID=5PUSA00019": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.uesp.org/": "ERROR,No such host is known. (www.uesp.org:80)",
+  "http://www.uesp.org/Investment-Info/Age-Based-Investment-Options.aspx": "ERROR,No such host is known. (www.uesp.org:80)",
+  "http://www.uesp.org/Investment-Info/Investment-Options/20-Equity-80-Fixed-Income.aspx": "ERROR,No such host is known. (www.uesp.org:80)",
+  "http://www.uesp.org/Investment-Info/Investment-Options/70-Equity-30-Fixed-Income.aspx": "ERROR,No such host is known. (www.uesp.org:80)",
+  "http://www.uesp.org/Investment-Info/Investment-Options/Age-Based-Aggressive-Domestic.aspx": "ERROR,No such host is known. (www.uesp.org:80)",
+  "http://www.uesp.org/Investment-Info/Investment-Options/Age-Based-Aggressive-Global.aspx": "ERROR,No such host is known. (www.uesp.org:80)",
+  "http://www.uesp.org/Investment-Info/Investment-Options/Age-Based-Conservative.aspx": "ERROR,No such host is known. (www.uesp.org:80)",
+  "http://www.uesp.org/Investment-Info/Investment-Options/Age-Based-Moderate.aspx": "ERROR,No such host is known. (www.uesp.org:80)",
+  "http://www.uesp.org/Investment-Info/Investment-Options/Customized-Static.aspx": "ERROR,No such host is known. (www.uesp.org:80)",
+  "http://www.uesp.org/Investment-Info/Investment-Options/Equity-10-International.aspx": "ERROR,No such host is known. (www.uesp.org:80)",
+  "http://www.uesp.org/Investment-Info/Investment-Options/Equity%E2%80%9430-International.aspx": "ERROR,No such host is known. (www.uesp.org:80)",
+  "http://www.uesp.org/Investment-Info/Investment-Options/Fixed-Income.aspx": "ERROR,No such host is known. (www.uesp.org:80)",
+  "http://www.uesp.org/Investment-Info/Option-12-Calculator.aspx": "ERROR,No such host is known. (www.uesp.org:80)",
+  "http://www.uesp.org/Investment-Info/Static-Investment-Options.aspx": "ERROR,No such host is known. (www.uesp.org:80)",
+  "http://www.uesp.org/matchingprogram.html": "ERROR,No such host is known. (www.uesp.org:80)",
+  "http://www.uesp.org/pdfs/Program_Description.aspx": "ERROR,No such host is known. (www.uesp.org:80)",
+  "https://my529.org/equity-100-domestic/": "ERROR,Not Found",
+  "https://my529.org/fdic-insured/": "ERROR,Not Found"
+}

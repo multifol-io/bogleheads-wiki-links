@@ -1,0 +1,8 @@
+{
+  "http://academic.research.microsoft.com/Author/567941/andrew-ang": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
+  "http://citec.repec.org/p/a/pan374.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
+  "http://www.ai-cio.com/channel/NEWSMAKERS/Prof-Andrew-Ang-to-Lead-BlackRock-s-Factor-Based-Strategies/": "UPDATE LINK,redirected to http://www.ai-cio.com/news/prof-andrew-ang-to-lead-blackrocks-factor-based-strategies/",
+  "http://www.businesswire.com/news/home/20051010005528/en/PanAgora-Asset-Management-Announces-Crowell-Award-Winner": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.columbia.edu/~aa610/": "ERROR,Not Found",
+  "http://www.q-group.org/prize-winners/": "ERROR,Not Found"
+}

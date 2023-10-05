@@ -1,0 +1,14 @@
+{
+  "http://news.morningstar.com/articlenet/article.aspx?id=566257\u0026pgid=rss": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://news.morningstar.com/articlenet/article.aspx?id=566768": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://news.morningstar.com/articlenet/article.aspx?id=605387": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://news.morningstar.com/articlenet/article.aspx?id=635019": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://news.morningstar.com/articlenet/article.aspx?id=699522": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://news.morningstar.com/articlenet/article.aspx?id=700173": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+  "http://www.morningstar.com/Cover/videoCenter.aspx?id=397220": "ERROR,Not Found",
+  "http://www.morningstar.com/cover/videocenter.aspx?id=541725": "ERROR,Not Found",
+  "http://www.morningstar.com/cover/videocenter.aspx?id=600617": "ERROR,Not Found",
+  "http://www.morningstar.com/cover/videocenter.aspx?id=609586": "ERROR,Not Found",
+  "http://www.napfa.org/tips_tools/article.asp?CATEGORY_ID=12\u0026TT_ID=76": "ERROR,Not Found",
+  "http://www.sdradio.net/2012/09/ray-lucia-responds-to-sec-query.html": "OTHER,Forbidden"
+}
