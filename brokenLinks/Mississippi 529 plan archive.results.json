@@ -1,5 +1,0 @@
-{
-  "http://529.morningstar.com/plan-list.action?state=MS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://http://www.ms529.com/documents/ms_disclosure.pdf": "ERROR,No such host is known. (http:80)",
-  "http://www.collegesavingsms.com/ourplan/invest_options.html#managed": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
-}

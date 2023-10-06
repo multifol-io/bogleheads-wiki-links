@@ -1,8 +1,0 @@
-{
-  "http://academic.research.microsoft.com/Author/56725/frank-j-fabozzi": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
-  "http://citec.repec.org/p/f/pfa323.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
-  "http://som.yale.edu/news/news/frank-fabozzi-receives-c-stewart-sheppard-award-cfa-institute": "ERROR,Not Found",
-  "http://www.frankfabozzi.com/index.html": "ERROR,Not Found",
-  "http://www.wiley.com/WileyCDA/Section/id-300232.html?sort=DATE\u0026sortDirection=DESC\u0026page=1": "ERROR,Not Found",
-  "https://www.cfainstitute.org/learning/foundation/Pages/vertin_award.aspx": "ERROR,Not Found"
-}

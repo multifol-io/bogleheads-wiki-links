@@ -1,9 +1,0 @@
-{
-  "http://academic.research.microsoft.com/Author/309444/wayne-e-ferson": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
-  "http://citec.repec.org/p/f/pfe32.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
-  "http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=17139": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www-bcf.usc.edu/~ferson/": "ERROR,No such host is known. (bcf.usc.edu:443)",
-  "http://www-bcf.usc.edu/~ferson//": "ERROR,No such host is known. (bcf.usc.edu:443)",
-  "http://www.cfapubs.org/page/faj/all-graham-dodd-winners": "OTHER,Forbidden",
-  "http://www.jstor.org/stable/4479957": "OTHER,Forbidden"
-}

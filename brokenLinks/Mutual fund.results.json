@@ -1,6 +1,0 @@
-{
-  "https://investor.gov/investing-basics/investment-products/mutual-funds": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://spreadsheets.google.com/pub?key=pYSRNXThZbE4dZLcTFcvqRA": "ERROR,Not Found",
-  "https://ssrn.com/abstract=2251726": "OTHER,Gone",
-  "https://www.law.uc.edu/CCL/InvCoRls/rule2a-7.html": "ERROR,Not Found"
-}

@@ -1,8 +1,0 @@
-{
-  "http://fortune.com/fortune500/charles-schwab/": "ERROR,Not Found",
-  "https://www.aboutschwab.com": "OTHER,Forbidden",
-  "https://www.morningstar.com/instant-x-ray": "ERROR,Not Found",
-  "https://www.schwabassetmanagement.com/insights/insights/insights/insights/node/3781": "OTHER,Forbidden",
-  "https://www.schwabassetmanagement.com/insights/insights/insights/insights/node/3946": "OTHER,Forbidden",
-  "https://www.sec.gov/Archives/edgar/data/316709/000031670918000009/schw-12312017x10k.htm": "OTHER,Forbidden"
-}

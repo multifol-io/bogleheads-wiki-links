@@ -1,7 +1,0 @@
-{
-  "http://529.morningstar.com/overview.action?state=ND\u0026planID=5PUSA00011": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://collegesave4u.s.upromise.com/": "ERROR,No such host is known. (collegesave4u.s.upromise.com:443)",
-  "https://collegesave4u.s.upromise.com/content/benefits_ndresidents.html": "ERROR,No such host is known. (collegesave4u.s.upromise.com:443)",
-  "https://collegesave4u.s.upromise.com/content/formslit.html": "ERROR,No such host is known. (collegesave4u.s.upromise.com:443)",
-  "https://collegesave4u.s.upromise.com/content/investments.html": "ERROR,No such host is known. (collegesave4u.s.upromise.com:443)"
-}

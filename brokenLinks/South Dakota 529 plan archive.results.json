@@ -1,5 +1,0 @@
-{
-  "http://529.morningstar.com/overview.action?state=SD\u0026planID=5PUSA0001K": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www.collegeaccess529.com/Allianz%20Documents/CAPDS_SD-D_070110.pdf": "ERROR,Not Found",
-  "http://www.collegeaccess529.com/Pages/AgeBased.aspx": "ERROR,Not Found"
-}

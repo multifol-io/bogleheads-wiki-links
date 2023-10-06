@@ -1,7 +1,0 @@
-{
-  "http://academic.research.microsoft.com/Author/64982/harry-m-markowitz": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
-  "http://citec.repec.org/p/m/pma73.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
-  "http://rady.ucsd.edu/faculty/directory/markowitz/": "ERROR,Not Found",
-  "https://www.informs.org/Recognize-Excellence/INFORMS-Prizes-Awards/John-von-Neumann-Theory-Prize": "ERROR,Not Found",
-  "https://www.jstor.org/stable/2975974?seq=1#page_scan_tab_contents": "OTHER,Forbidden"
-}

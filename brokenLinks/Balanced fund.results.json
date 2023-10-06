@@ -1,6 +1,0 @@
-{
-  "http://news.morningstar.com/fund-category-returns/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://personal.vanguard.com/pdf/icrrbp.pdf": "ERROR,Not Found",
-  "https://vanguard.com/pdf/icrria.pdf": "ERROR,Not Found",
-  "https://www.vanguard.com/pdf/s908.pdf": "ERROR,Not Found"
-}

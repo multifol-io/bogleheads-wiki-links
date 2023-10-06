@@ -1,9 +1,0 @@
-{
-  "http://www.pa529.com/pdf/GSP-2011-2012-RateCard.pdf": "ERROR,Not Found",
-  "http://www.pa529.com/pdf/GSP-Disclosure-Statement.pdf": "ERROR,Not Found",
-  "http://www.pa529.com/save-gsp-faq.html": "ERROR,Not Found",
-  "http://www.pa529.com/save-gsp.html": "ERROR,Not Found",
-  "http://www.portal.state.pa.us/portal/server.pt/gat": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://fafsa.ed.gov/FAFSA/app/schoolSearch?locale=en_EN": "OTHER,The requested name is valid-- but no data of the requested type was found. (fafsa.ed.gov:443)",
-  "https://pa529gsp.s.upromise.com/gsptpl/auth/loginFormAction.do?tplcb=/gsptpl/acctmaint/acctList.do": "ERROR,No such host is known. (pa529gsp.s.upromise.com:443)"
-}

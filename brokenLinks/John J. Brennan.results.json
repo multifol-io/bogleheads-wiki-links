@@ -1,8 +1,0 @@
-{
-  "http://ir.americanexpress.com/file/Index?KeyFile=37662389": "ERROR,Not Found",
-  "http://www.finra.org/about/former-chairmen-board-governors": "ERROR,Not Found",
-  "https://www.ge.com/about-us/leadership/profiles/john-j-brennan": "ERROR,Not Found",
-  "https://www.vanguardcharitable.org/who_we_are/history": "ERROR,Not Found",
-  "https://www.vanguardcharitable.org/who_we_are/our_trustees": "UPDATE LINK,redirected to http://www.vanguardcharitable.org//about-us",
-  "https://www.vanguardinvestments.com.au/retail/ret/about-us/history-of-vanguard.jsp": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
-}

@@ -1,9 +1,0 @@
-{
-  "http://210.34.5.45/cn/fm/Global%20Stock%20Markets%20in%20the%20Twentieth%20Century.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://blog.stonestreetadvisors.com/wp-content/uploads/2011/07/credit_suisse_global_investment_yearbook_2011.pdf": "ERROR,No such host is known. (blog.stonestreetadvisors.com:80)",
-  "http://ciber.fuqua.duke.edu/~charvey/Teaching/BA453_2004/Dimson_Irrational_optimism.pdf": "ERROR,No such host is known. (ciber.fuqua.duke.edu:80)",
-  "http://faculty-gsb.stanford.edu/nagel/pdfs/UK_VG.pdf": "ERROR,Not Found",
-  "http://faculty.london.edu/edimson/assets/documents/UKfin.pdf": "ERROR,Not Found",
-  "http://www.economonitor.com/blog/2009/02/credit-suisse-global-investment-returns-yearbook/": "OTHER,Forbidden",
-  "http://www.london.edu/newsandevents/news/2010/02/Credit_Suisse_Global_Investment_Returns_Yearbook_2010_1077.html": "UPDATE LINK,redirected to http://www.london.edu/news-and-events/news"
-}

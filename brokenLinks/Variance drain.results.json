@@ -1,7 +1,0 @@
-{
-  "http://dx.doi.org/10.2139/ssrn.2027471": "UPDATE LINK,redirected to http://www.ssrn.com/abstract=2027471",
-  "http://ssrn.com/abstract=202747": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www.contingencies.org/janfeb09/trade.pdf": "ERROR,Not Found",
-  "http://www.iijournals.com/doi/abs/10.3905/jpm.1995.409536#sthash.JVY5Rhgf.dpbs": "ERROR,Not Found",
-  "https://www.soa.org/Library/Newsletters/Pension-Section-News/2016/may/psn-2016-05-iss89-mccaulay.aspx": "ERROR,Not Found"
-}

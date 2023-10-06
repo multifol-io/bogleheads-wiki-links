@@ -1,4 +1,0 @@
-{
-  "http://529.morningstar.com/overview.action?state=ME\u0026planID=5PUSA0000I": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://www.enroll529.com/PDF/NEXTGEN_CD_AcctApplication.pdf": "ERROR,No such host is known. (www.enroll529.com:443)"
-}

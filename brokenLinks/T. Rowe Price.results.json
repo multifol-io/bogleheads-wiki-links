@@ -1,6 +1,0 @@
-{
-  "http://corporate.troweprice.com/ccw/home.do": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://corporate.troweprice.com/ccw/home/ourCompany/aboutUs/history.do": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://individual.troweprice.com/public/Retail/Products-\u0026-Services/Savings-Bank": "ERROR,Not Found",
-  "http://quicktake.morningstar.com/FundNet/SecFiling.aspx?Symbol=PBDIX\u0026Country=USA": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
-}

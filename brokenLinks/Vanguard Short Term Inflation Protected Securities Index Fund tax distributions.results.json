@@ -1,6 +1,0 @@
-{
-  "https://finpage.blog/2016/12/04/a-three-fund-portfolio-tailored-for-stable-retirement-spending/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000836906\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-  "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000836906\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-  "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000836906\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests"
-}

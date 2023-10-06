@@ -1,6 +1,0 @@
-{
-  "https://public.dreyfus.com/product/0073/overview": "ERROR,No such host is known. (public.dreyfus.com:443)",
-  "https://public.dreyfus.com/product/0113/overview": "ERROR,No such host is known. (public.dreyfus.com:443)",
-  "https://www.americancentury.com/content/americancentury/direct/en/investment-products/mutual-funds/mutual-fund-details/summary/inflation-adjusted-bond.html": "OTHER,Bad Gateway",
-  "https://www.northerntrust.com/wealth-management/united-states/services/investing/mutual-funds/funds-performance/equity-index/NGREX": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
-}

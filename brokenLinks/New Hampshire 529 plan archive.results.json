@@ -1,4 +1,0 @@
-{
-  "http://529.morningstar.com/overview.action?state=NH\u0026planID=5PUSA0000T": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www.savingforcollege.com/529_plan_details/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
-}

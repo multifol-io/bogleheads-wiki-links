@@ -1,9 +1,0 @@
-{
-  "http://ambest.com/resource/glossary.html": "ERROR,Not Found",
-  "http://lwd.dol.state.nj.us/labor/tdi/tdiindex.html": "OTHER,Not found",
-  "http://www.dlt.state.ri.us/tdi/Faq4qhp.htm": "ERROR,No such host is known. (www.dlt.state.ri.us:80)",
-  "http://www.dtrh.gobierno.pr/index.asp": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www.dtrh.gobierno.pr/pdf/num139.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www.wcb.ny.gov/content/main/offthejob/db-overview.jsp": "ERROR,Not Found",
-  "http://www3.ambest.com/consumers/ConsumerInfo.aspx?site=4\u0026Page=11": "UPDATE LINK,redirected to http://consumers.ambest.com/ConsumerInfo.aspx?site=4\u0026Page=11"
-}

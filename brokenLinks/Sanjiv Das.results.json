@@ -1,5 +1,0 @@
-{
-  "http://academic.research.microsoft.com/Author/569479/sanjiv-ranjan-das": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
-  "http://algo.scu.edu/~sanjivdas/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://citec.repec.org/p/d/pda527.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors"
-}

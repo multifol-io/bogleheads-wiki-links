@@ -1,7 +1,0 @@
-{
-  "http://www.tsp.gov/": "OTHER,Forbidden",
-  "https://www.govtrack.us/congress/bills/115/hr3031": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://www.tsp.gov/bulletins/19-6/": "OTHER,Forbidden",
-  "https://www.tsp.gov/PDF/formspubs/tspfs10.pdf": "OTHER,Forbidden",
-  "https://www.tsp.gov/whatsnew/Content/index.html#withdrawalbill": "OTHER,Forbidden"
-}

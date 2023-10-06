@@ -1,5 +1,0 @@
-{
-  "http://529.morningstar.com/overview.action?state=AL\u0026planID=5PUSA0001H": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www.collegecounts529.com/agebased.asp": "ERROR,Not Found",
-  "http://www.collegecounts529.com/target.asp": "ERROR,Not Found"
-}

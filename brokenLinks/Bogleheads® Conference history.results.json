@@ -1,6 +1,0 @@
-{
-  "http://news.morningstar.com/articlenet/article.aspx?id=2447": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://finpage.blog/portfolio/dc-bogleheads/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://finpage.blog/portfolio/dfw-bogleheads/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://finpage.blog/portfolio/san-diego-bogleheads/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
-}

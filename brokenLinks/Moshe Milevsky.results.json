@@ -1,7 +1,0 @@
-{
-  "http://academic.research.microsoft.com/Author/2592777/moshe-arye-milevsky": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
-  "http://research.schulich.yorku.ca/client/schulich/FacultyProfile.nsf/webpagekey/moshe\u002Bmilevsky?OpenDocument": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www.cfapubs.org/page/faj/all-graham-dodd-winners": "OTHER,Forbidden",
-  "http://www.financialpro.org/foundation/awards/blackawards.htm": "ERROR,Not Found",
-  "http://www.ifid.ca/research.htm": "ERROR,Not Found"
-}

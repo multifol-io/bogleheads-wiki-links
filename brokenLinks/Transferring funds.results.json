@@ -1,7 +1,0 @@
-{
-  "http://www.diamondmindinc.com/wp-content/uploads/2014/10/ACH-Processing-and-Reconciliation-Guide.pdf": "ERROR,Not Found",
-  "http://www.ippay.com/downloads/ACH_101.pdf": "ERROR,Not Found",
-  "https://frbservices.org/fedwire/index.html": "ERROR,Not Found",
-  "https://moneyrep.iaacu.org/2014/05/ach-vs-wire-vs-electronic-transfer-what-is-the-difference/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://www.nacha.org/ach-network/administration-fees": "ERROR,Not Found"
-}

@@ -1,8 +1,0 @@
-{
-  "http://www.tesouro.fazenda.gov.br/": "ERROR,No such host is known. (www.tesouro.fazenda.gov.br:80)",
-  "https://brasilcapital.com/": "OTHER,Forbidden",
-  "https://home.kpmg/xx/en/home/insights/2011/12/brazil-income-tax.html": "ERROR,Not Found",
-  "https://www.gov.br/trabalho-e-previdencia/pt-br/assuntos/previdencia-complementar/mais-informacoes/arquivos/pbefrgps.pdf": "OTHER,Forbidden",
-  "https://www.itau.com.br": "OTHER,Forbidden",
-  "https://www.itnow.com.br": "OTHER,Forbidden"
-}

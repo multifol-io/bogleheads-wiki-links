@@ -1,8 +1,0 @@
-{
-  "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000736054\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-  "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000736054\u0026type=N-CSR\u0026dateb=\u0026count=40\u0026scd=filings": "WARNING,Too Many Requests",
-  "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000736054\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-  "http://www.vanguard.com/pdf/usgo_2012.pdf?cbdForceDomain=false": "ERROR,Not Found",
-  "https://personalp.vanguard.com/us/insights/taxcenter/qualified-dividend-income-2004": "ERROR,No such host is known. (personalp.vanguard.com:443)",
-  "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000736054\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests"
-}

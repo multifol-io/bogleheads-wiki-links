@@ -1,8 +1,0 @@
-{
-  "https://spreadsheets.google.com/pub?key=pYSRNXThZbE4dZLcTFcvqRA": "ERROR,Not Found",
-  "https://www.ici.org/system/files/attachments/2015_factbook.pdfhttps://www.ici.org/system/files/attachments/2015_factbook.pdf": "ERROR,Not Found",
-  "https://www.investor.gov/introduction-investing/investing-basics/role-sec/laws-govern-securities-industry#invcoact1940": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://www.sec.gov/Archives/edgar/data/794105/000093247103000266/bondindex02inprog.txt": "OTHER,Forbidden",
-  "https://www.vanguard.com/pdf/icrcs.pdf": "ERROR,Not Found",
-  "https://www.vanguard.com/pdf/indexmyths.pdf": "ERROR,Not Found"
-}

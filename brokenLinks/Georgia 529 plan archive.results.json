@@ -1,5 +1,0 @@
-{
-  "http://529.morningstar.com/overview.action?state=GA\u0026planID=5PUSA0001U": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www.path2college529.com/ourplan/invest_options.html": "ERROR,Not Found",
-  "http://www.path2college529.com/pdf/ga_discl.pdf": "ERROR,Not Found"
-}

@@ -1,7 +1,0 @@
-{
-  "http://academic.research.microsoft.com/Author/1155414/richard-thaler": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
-  "http://citec.repec.org/p/t/pth67.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
-  "http://faculty.chicagobooth.edu/Richard.Thaler/index.html": "ERROR,Not Found",
-  "http://www.chicagobooth.edu/about/newsroom/press-releases/2012/2012-05-17": "ERROR,Not Found",
-  "http://www.fullerthaler.com/Default.aspx": "ERROR,Not Found"
-}

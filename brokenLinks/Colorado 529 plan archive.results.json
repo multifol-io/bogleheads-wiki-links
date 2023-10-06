@@ -1,5 +1,0 @@
-{
-  "http://529.morningstar.com/overview.action?state=CO\u0026planID=5PUSA00034": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://a248.e.akamai.net/f/248/21630/7d/uii.s.upromise.com/rc/co/images/pdf/plandisclosure.pdf": "OTHER,Forbidden",
-  "https://cdn.unite529.com/f/248/21630/7d/im.uprinv.com/rc/sr2/co/statementinsert092016.pdf": "ERROR,Not Found"
-}

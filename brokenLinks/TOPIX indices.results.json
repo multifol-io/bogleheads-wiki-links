@@ -1,6 +1,0 @@
-{
-  "http://quote.tse.or.jp/tse/qsearch.exe?F=listing/Ereitlist": "ERROR,No such host is known. (quote.tse.or.jp:80)",
-  "http://www.tse.or.jp/english/market/topix/calculation.html": "ERROR,No such host is known. (www.tse.or.jp:80)",
-  "http://www.tse.or.jp/english/market/topix/data/b7gje60000003vna-att/topixroie1212.pdf": "ERROR,No such host is known. (www.tse.or.jp:80)",
-  "http://www.tse.or.jp/english/market/topix/index.html": "ERROR,No such host is known. (www.tse.or.jp:80)"
-}

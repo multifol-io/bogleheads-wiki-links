@@ -1,4 +1,0 @@
-{
-  "http://529.morningstar.com/overview.action?state=WI\u0026planID=5PUSA0001E": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www.edvest.com/documents/wi_disclosure.pdf": "ERROR,Not Found"
-}

@@ -1,8 +1,0 @@
-{
-  "http://news.morningstar.com/articlenet/article.aspx?id=178504": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://www.morningstar.com/funds/xnas/VCVLX/performance": "ERROR,Not Found",
-  "https://www.morningstar.com/funds/xnas/VCVSX/performance": "ERROR,Not Found",
-  "https://www.morningstar.com/funds/xnas/VMRGX/performance": "ERROR,Not Found",
-  "https://www.morningstar.com/funds/xnas/VPGDX/performance": "ERROR,Not Found",
-  "https://www.morningstar.com/funds/xnas/VUVLX/performance": "ERROR,Not Found"
-}

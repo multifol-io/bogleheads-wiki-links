@@ -1,9 +1,0 @@
-{
-  "http://corporate1.morningstar.com/us/products/indexes/": "ERROR,Not Found",
-  "http://us.spindices.com/indices/fixed-income/sp-global-developed-sovereign-bond-index-usd": "ERROR,Not Found",
-  "http://www.ftse.com/products/indices/Global-Bonds": "ERROR,Not Found",
-  "https://finpage.blog/tag/global-investment/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://index.barcap.com/Benchmark_Indices/Aggregate/Bond_Indices": "OTHER,The requested name is valid-- but no data of the requested type was found. (index.barcap.com:443)",
-  "https://index.barcap.com/Benchmark_Indices/Inflation-Linked": "OTHER,The requested name is valid-- but no data of the requested type was found. (index.barcap.com:443)",
-  "https://index.barcap.com/Home/Guides_and_Factsheets": "OTHER,The requested name is valid-- but no data of the requested type was found. (index.barcap.com:443)"
-}

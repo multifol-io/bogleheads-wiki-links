@@ -1,6 +1,0 @@
-{
-  "http://529.morningstar.com/overview.action?state=PA\u0026planID=5PUSA00039": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www.pa529.com/lib/pdf/IP-Disclosure-Statement.pdf": "ERROR,Not Found",
-  "http://www.pa529.com/save-ip-investments.html": "ERROR,Not Found",
-  "http://www.portal.state.pa.us/portal/server.pt/gateway/PTARGS_0_2_636191_0_0_18/pit_bulletin_2006-04.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
-}

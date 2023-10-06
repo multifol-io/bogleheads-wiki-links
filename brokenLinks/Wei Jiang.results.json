@@ -1,7 +1,0 @@
-{
-  "http://citec.repec.org/p/j/pji126.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
-  "http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=287969": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www.afajof.org/details/page/2870731/Prizes.html": "ERROR,Not Found",
-  "http://www.q-group.org/prize-winners/": "ERROR,Not Found",
-  "http://www4.gsb.columbia.edu/cbs-directory/detail/494746/Wei%20Jiang": "ERROR,No such host is known. (www4.gsb.columbia.edu:80)"
-}

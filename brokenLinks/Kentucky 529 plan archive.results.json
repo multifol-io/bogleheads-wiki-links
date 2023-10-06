@@ -1,5 +1,0 @@
-{
-  "http://529.morningstar.com/overview.action?state=KY\u0026planID=5PUSA0000G": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www.kysaves.com/pdf/ky_discl.pdf": "ERROR,Not Found",
-  "http://www.kysaves.com/portfolios/index.shtml#managed": "ERROR,Not Found"
-}

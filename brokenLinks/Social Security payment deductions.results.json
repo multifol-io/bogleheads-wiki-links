@@ -1,8 +1,0 @@
-{
-  "https://uscode.house.gov/view.xhtml?path=/prelim@title26/subtitleC\u0026edition=prelim": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://uscode.house.gov/view.xhtml?path=/prelim@title26\u0026edition=prelim": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://uscode.house.gov/view.xhtml?path=/prelim@title42/chapter7/subchapter18\u0026edition=prelim": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://uscode.house.gov/view.xhtml?path=/prelim@title42/chapter7/subchapter2\u0026edition=prelim": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://uscode.house.gov/view.xhtml?path=/prelim@title42/chapter7\u0026edition=prelim": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://uscode.house.gov/view.xhtml?path=/prelim@title42\u0026edition=prelim": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
-}

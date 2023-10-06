@@ -1,5 +1,0 @@
-{
-  "http://529.morningstar.com/overview.action?state=MN\u0026planID=5PUSA0001Q": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://mnsaves.org/documents/mn_disclosure.pdf": "ERROR,Not Found",
-  "http://www.mnsaves.org/portfolios/index.shtml#managed": "ERROR,Not Found"
-}

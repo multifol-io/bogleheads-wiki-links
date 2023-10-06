@@ -1,7 +1,0 @@
-{
-  "http://academic.research.microsoft.com/Author/3787/william-f-sharpe": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
-  "http://citec.repec.org/p/s/psh27.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
-  "http://www.cfapubs.org/page/faj/all-graham-dodd-winners": "OTHER,Forbidden",
-  "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1964.tb02865.x": "OTHER,Forbidden",
-  "https://www.cfainstitute.org/learning/foundation/Pages/vertin_award.aspx": "ERROR,Not Found"
-}

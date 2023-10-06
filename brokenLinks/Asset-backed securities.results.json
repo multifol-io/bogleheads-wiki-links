@@ -1,9 +1,0 @@
-{
-  "http://www.barcap.com/About\u002BBarclays\u002BCapital/Press\u002BOffice/News\u002Breleases/News,1554,Barclays\u002BCapital\u002BLaunches\u002BPan\u002BEuropean\u002BABS\u002BBenchmark\u002BIndices": "ERROR,Not Found",
-  "http://www.investinginbonds.com/learnmore.asp?catid=5\u0026subcatid=16\u0026id=10": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www.investinginbonds.com/learnmore.asp?catid=5\u0026subcatid=16\u0026id=14": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www.investinginbonds.com/learnmore.asp?catid=5\u0026subcatid=16\u0026id=15": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "http://www.investinginbonds.com/learnmore.asp?catid=5\u0026subcatid=16\u0026id=19": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-  "https://ecommerce.barcap.com/indices/index.dxml": "OTHER,The requested name is valid-- but no data of the requested type was found. (index.barcap.com:443)",
-  "https://public.dreyfus.com/documents/manual/misc/periodic-table_0511.pdf": "ERROR,No such host is known. (public.dreyfus.com:443)"
-}
