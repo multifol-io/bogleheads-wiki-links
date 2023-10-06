@@ -1,6 +1,6 @@
 {
   "tool": "github.com/bogle-tools/site/tree/main/tools/WikiLinks",
-  "timestamp": "2023-10-06T09:53:21.0374594-07:00",
+  "timestamp": "2023-10-06T16:06:26.0118313-07:00",
   "results": {
     "401(k)": {
       "http://apps.finra.org/Investor_Information/Smart/401k/000100.asp": "ERROR,No such host is known. (apps.finra.org:80)",
@@ -19,14 +19,14 @@
     "403(b)": {
       "http://www.asppa.org/Document-Vault/PDFs/EE/The-Source-PDF.aspx": "ERROR,Not Found",
       "http://www.irs.gov/Retirement-Plans/Retirement-Plans-FAQs-regarding-403(b)-Tax-Sheltered-Annuity-Plans": "ERROR,Not Found",
-      "http://www.prudentllc.com/download/Scott04-05-07.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://www.prudentllc.com/download/Scott05-03-07.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://www.prudentllc.com/download/Scott06-05-08.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://www.prudentllc.com/download/Scott06-07-07.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://www.prudentllc.com/download/Scott07-05-07.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://www.prudentllc.com/download/Scott08-02-07.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://www.prudentllc.com/download/Scott10-04-07.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://www.prudentllc.com/download/Scott11-01-07.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "http://www.prudentllc.com/download/Scott04-05-07.pdf": "ERROR,Not Found",
+      "http://www.prudentllc.com/download/Scott05-03-07.pdf": "ERROR,Not Found",
+      "http://www.prudentllc.com/download/Scott06-05-08.pdf": "ERROR,Not Found",
+      "http://www.prudentllc.com/download/Scott06-07-07.pdf": "ERROR,Not Found",
+      "http://www.prudentllc.com/download/Scott07-05-07.pdf": "ERROR,Not Found",
+      "http://www.prudentllc.com/download/Scott08-02-07.pdf": "ERROR,Not Found",
+      "http://www.prudentllc.com/download/Scott10-04-07.pdf": "ERROR,Not Found",
+      "http://www.prudentllc.com/download/Scott11-01-07.pdf": "ERROR,Not Found",
       "http://www.themoneyalert.com/About.html": "ERROR,Not Found",
       "https://ecommerce.asppa-net.org/Store/ProductDetail/productId/2755965": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch"
     },
@@ -104,8 +104,7 @@
       "https://www.theeducationplan.com/doc/The_Education_Plan_Plan_Description.pdf": "ERROR,Not Found",
       "https://www.theeducationplan.com/OFI529/": "ERROR,Not Found",
       "https://www.usaa.com/inet/wc/investing-529-plan-main": "ERROR,Not Found",
-      "https://www.waddell.com/find-investments/ivy-wr-investment-products/ivy-invested-529-plan": "OTHER,Forbidden",
-      "https://www3.troweprice.com/usis/personal-investing/products-and-services/college-savings-plans/t-rowe-price-college-savings-plan.html": "OTHER,An error occurred while sending the request."
+      "https://www.waddell.com/find-investments/ivy-wr-investment-products/ivy-invested-529-plan": "OTHER,Forbidden"
     },
     "529 plans indexed options": {
       "http://529.morningstar.com/overview.action?state=AL\u0026planID=5PUSA0001H": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
@@ -160,6 +159,8 @@
       "http://files.collegesavingsmd.org/cip_disclosure.pdf#page=4": "ERROR,Not Found",
       "http://ifap.ed.gov/ifap/iLibrary.jsp": "ERROR,Not Found",
       "http://pa529.com/save-ip.html": "ERROR,Not Found",
+      "http://personal.fidelity.com/planning/college/content/landing_az.shtml": "OTHER,Forbidden",
+      "http://personal.fidelity.com/planning/college/content/landing_nh.shtml": "OTHER,Forbidden",
       "http://tnstars.com/assets/ProgramDisclosureBooklet.pdf": "ERROR,Not Found",
       "http://www.collegeaccess529.com/Allianz%20Documents/CAPDN_PDS_FA_070110.pdf": "ERROR,Not Found",
       "http://www.collegeaccess529.com/Pages/Home.aspx": "ERROR,Not Found",
@@ -241,9 +242,6 @@
       "http://www.uacollegesavings.com/public/ua529/Our-Plan/Investment-Options/Enrollment-Based-Portfolios": "ERROR,Not Found",
       "http://www.uacollegesavings.com/ua529/Shared/PDFs/Final_UA_Disclosure.pdf": "ERROR,Not Found"
     },
-    "All About Asset Allocation": {
-      "http://www.amazon.com/s/?search-alias=aps\u0026tag=bogleheads.org-20\u0026field-keywords=Bogleheads": "OTHER,Service Unavailable"
-    },
     "Allan G. Timmermann": {
       "http://academic.research.microsoft.com/Author/1591685/allan-timmermann": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
       "http://citec.repec.org/p/t/pti8.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
@@ -271,10 +269,12 @@
       "https://www.cfainstitute.org/learning/foundation/Pages/vertin_award.aspx": "ERROR,Not Found"
     },
     "Approximating Vanguard target date funds": {
+      "https://individual.troweprice.com/public/Retail": "OTHER,An error occurred while sending the request.",
       "https://ipro.americancentury.com/ipro/product/mf/summary/954.jsp#ARYIX": "ERROR,Not Found",
       "https://www.morningstar.com/instant-x-ray": "ERROR,Not Found"
     },
     "Archive of current events for 2008": {
+      "http://www.bloomberg.com/avp/avp.htm?clipSRC=mms://media2.bloomberg.com/cache/v3mkRmhxPlcE.asf": "ERROR,Not Found",
       "http://www.businesswire.com/portal/site/google/?ndmViewId=news_view\u0026newsId=20080708005274\u0026newsLang=en": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.foxbusiness.com/video/index.html?playerId=videolandingpage\u0026streamingFormat=FLASH\u0026referralObject=1793868\u0026referralPlaylistId=2d2af83f2f3c015a63ad3b0fbc8b9419a7b14bad": "ERROR,Not Found",
       "http://www.foxbusiness.com/video/index.html?playerId=videolandingpage\u0026streamingFormat=FLASH\u0026referralObject=2160471\u0026referralPlaylistId=1292d14d0e3afdcf0b31500afefb92724c08f046": "ERROR,Not Found",
@@ -299,7 +299,7 @@
       "http://www.indexuniverse.com/sections/features/4633-october-3-october-9.html?Itemid=5": "OTHER,Forbidden",
       "http://www.indexuniverse.com/sections/features/4659-etf-watch-october-10-october-16.html": "OTHER,Forbidden",
       "http://www.indexuniverse.com/sections/features/4792-etf-watch-october-31-november-6.html": "OTHER,Forbidden",
-      "http://www.indexuniverse.com/sections/features/4829--etf-watch-november-7-november-13.html?utm_source=newsletter\u0026utm_medium=email\u0026utm_campaign=ETFWatch\u0026Itemid=5": "ERROR,Not Found",
+      "http://www.indexuniverse.com/sections/features/4829--etf-watch-november-7-november-13.html?utm_source=newsletter\u0026utm_medium=email\u0026utm_campaign=ETFWatch\u0026Itemid=5": "OTHER,Forbidden",
       "http://www.indexuniverse.com/sections/features/4940-etf-watch-november-14-november-20.html": "OTHER,Forbidden",
       "http://www.indexuniverse.com/sections/features/5024-etf-watch-november-21-december-3.html": "OTHER,Forbidden",
       "http://www.indexuniverse.com/sections/features/5053-etf-watch-december-3-december-11.html?Itemid=5": "OTHER,Forbidden",
@@ -311,7 +311,7 @@
       "http://www.savingsbonds.gov/instit/annceresult/press/preanre/2008/A_20080814_2.pdf": "OTHER,An error occurred while sending the request.",
       "http://www.savingsbonds.gov/instit/annceresult/press/preanre/2008/A_20080825_1.pdf": "OTHER,An error occurred while sending the request.",
       "http://www.savingsbonds.gov/instit/annceresult/press/preanre/2008/A_20080825_2.pdf": "OTHER,An error occurred while sending the request.",
-      "https://personal.vanguard.com/us/news?artihttp://www.savingsbonds.gov/instit/annceresult/press/preanre/2008/A_20080825_2.pdfcle=/freshness/News_and_Views/news_ALL_econ_08152008_ALL.jsp": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027."
+      "http://www.successfulinvestingradio.com/Recordings/SIR062208.mp3": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
     },
     "Archive of current events for 2009": {
       "http://fora.tv/2009/04/01/John_Bogle_The_Free_Markets_Moral_Crisis": "ERROR,Not Found",
@@ -336,7 +336,7 @@
       "http://www.indexuniverse.com/sections/features/5644-etf-watch-march-26-march-31.html": "OTHER,Forbidden",
       "http://www.indexuniverse.com/sections/features/5702-etf-watch-april-9-april-15.html?utm_source=newsletter\u0026utm_medium=email\u0026utm_campaign=ETFWatch": "OTHER,Forbidden",
       "http://www.indexuniverse.com/sections/features/5768-etf-watch-april-16-april-22.html?utm_source=newsletter\u0026utm_medium=email\u0026utm_campaign=ETFWatch": "OTHER,Forbidden",
-      "http://www.indexuniverse.com/sections/features/5784-etf-watch-april-23-april-29.html?utm_source=newsletter\u0026utm_medium=email\u0026utm_campaign=ETFWatch": "ERROR,Not Found",
+      "http://www.indexuniverse.com/sections/features/5784-etf-watch-april-23-april-29.html?utm_source=newsletter\u0026utm_medium=email\u0026utm_campaign=ETFWatch": "OTHER,Forbidden",
       "http://www.indexuniverse.com/sections/features/5811-etf-watch-april-30-may-6.html": "OTHER,Forbidden",
       "http://www.indexuniverse.com/sections/features/5835-etf-watch-may-7-may-13-.html?utm_source=newsletter\u0026utm_medium=email\u0026utm_campaign=ETFWatch": "OTHER,Forbidden",
       "http://www.indexuniverse.com/sections/features/5882-etf-watch-may-15-may-21.html": "OTHER,Forbidden",
@@ -385,7 +385,7 @@
       "http://www.indexuniverse.com/publications/etf-watch/7643-etf-watch-may-23-june-5.html": "OTHER,Forbidden",
       "http://www.indexuniverse.com/publications/etf-watch/7662-etf-watch-june-6-june-12.html": "OTHER,Forbidden",
       "http://www.indexuniverse.com/publications/etf-watch/7740-etf-watch-june-13-june-26.html": "OTHER,Forbidden",
-      "http://www.indexuniverse.com/publications/etf-watch/7761-etf-watch-june-27-july-3.html": "OTHER,Forbidden",
+      "http://www.indexuniverse.com/publications/etf-watch/7761-etf-watch-june-27-july-3.html": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027DecryptError\u0027.",
       "http://www.indexuniverse.com/publications/etf-watch/7785-etf-watch-jul-4-july-10.html": "OTHER,Forbidden",
       "http://www.indexuniverse.com/publications/etf-watch/7839-etf-watch-july-18-july-24.html": "OTHER,Forbidden",
       "http://www.indexuniverse.com/publications/etf-watch/7888-etf-watch-july-25--july-31.html": "OTHER,Forbidden",
@@ -415,7 +415,8 @@
       "http://www.investmentnews.com/apps/pbcs.dll/article?AID=/20100226/FREE/100229904/0/CHART": "ERROR,Not Found"
     },
     "Arizona 529 plan archive": {
-      "http://529.morningstar.com/overview.action?state=AZ\u0026planID=5PUSA00032": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+      "http://529.morningstar.com/overview.action?state=AZ\u0026planID=5PUSA00032": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "http://personal.fidelity.com/planning/college/content/landing_az.shtml.cvsr": "OTHER,Forbidden"
     },
     "Arkansas 529 plan archive": {
       "http://529.morningstar.com/overview.action?state=AR\u0026planID=5PUSA00008": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
@@ -434,7 +435,12 @@
     },
     "Art": {
       "http://ssrn.com/abstract=29438": "OTHER,Gone",
-      "http://www.ppge.ufrgs.br/giacomo/arquivos/econ-cultura/mei-moses-2006.pdf": "OTHER,No connection could be made because the target machine actively refused it. (www.ppge.ufrgs.br:80)"
+      "http://www.ppge.ufrgs.br/giacomo/arquivos/econ-cultura/mei-moses-2006.pdf": "OTHER,No connection could be made because the target machine actively refused it. (www.ppge.ufrgs.br:80)",
+      "https://www.bogleheads.org/forum/viewtopic.php?t=150019": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
+      "https://www.bogleheads.org/forum/viewtopic.php?t=291233": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
+      "https://www.bogleheads.org/forum/viewtopic.php?t=305109": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
+      "https://www.bogleheads.org/forum/viewtopic.php?t=371804": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
+      "https://www.bogleheads.org/forum/viewtopic.php?t=79210": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027."
     },
     "Assessing risk tolerance": {
       "https://annual.cfainstitute.org/2015/04/27/beyond-the-questionnaire-new-tools-for-risk-profiling/": "OTHER,Service Unavailable"
@@ -484,9 +490,6 @@
     "Average net assets": {
       "http://www.sec.gov/Archives/edgar/data/857489/000093247110003745/answer103110.fil": "OTHER,Forbidden"
     },
-    "Backdoor Roth": {
-      "http://www.vanguard.com/pdf/ISGIRA9.pdf": "ERROR,Not Found"
-    },
     "Balanced fund": {
       "http://news.morningstar.com/fund-category-returns/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://personal.vanguard.com/pdf/icrrbp.pdf": "ERROR,Not Found",
@@ -510,7 +513,7 @@
       "https://www.nobelprize.org/mediaplayer/index.php?id=531": "ERROR,Not Found",
       "https://www.princeton.edu/~kahneman/publications.html": "ERROR,Not Found",
       "https://www.rand.org/content/dam/rand/pubs/papers/2008/P2173.pdf": "OTHER,Forbidden",
-      "https://www.rmi.gsu.edu/FSR/abstracts/v11_arts/Vol11_A07.pdf": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch"
+      "https://www.rmi.gsu.edu/FSR/abstracts/v11_arts/Vol11_A07.pdf": "OTHER,The requested name is valid-- but no data of the requested type was found. (www.rmi.gsu.edu:443)"
     },
     "Benchmarking managed payout funds": {
       "http://www.sec.gov/Archives/edgar/data/889519/000093247112004219/valleyforge485b042012.htm": "OTHER,Forbidden",
@@ -538,6 +541,7 @@
       "http://www.etf.com/sections/etf-league-tables/etf-league-table-2016-12-30": "OTHER,Forbidden",
       "http://www.indexuniverse.com/sections/news/14818-ishares-cuts-fees-on-6-funds-unveils-core.html": "OTHER,Forbidden",
       "http://www.orange.mu/kinews/afp/business/141712/barclays-buys-hvb-s-indexchange-unit-for-240-million-euros.html": "ERROR,No such host is known. (www.orange.mu:80)",
+      "http://www.pionline.com/article/20130110/DAILYREG/130119995/blackrocks-ishares-to-buy-credit-suisses-etf-unit": "OTHER,Forbidden",
       "https://www.ishares.com/us/literature/press-release/product-update-ishares-morningstar-us-equity-style-box-etfs.pdf": "ERROR,Not Found"
     },
     "Bloomberg Barclays US Aggregate Bond Index": {
@@ -549,8 +553,7 @@
       "https://index.barcap.com/index.dxml?pageId=9": "OTHER,The requested name is valid-- but no data of the requested type was found. (index.barcap.com:443)",
       "https://index.barcap.com/indices/action/indexDownload?id=-4dc127143d5fed8061d77026cd51ffdd": "OTHER,The requested name is valid-- but no data of the requested type was found. (index.barcap.com:443)",
       "https://index.barcap.com/indices/action/indexDownload?id=-cd39a682e66c4320a4f351cae1cdbb9\u0026pageId=9": "OTHER,The requested name is valid-- but no data of the requested type was found. (index.barcap.com:443)",
-      "https://www.bbhub.io/indices/sites/2/2016/08/2017-02-08-Factsheet-US-Aggregate.pdf.": "ERROR,Not Found",
-      "https://www.bloomberg.com/company/announcements/bloomberg-acquisition-barclays-brais/": "ERROR,Not Found"
+      "https://www.bbhub.io/indices/sites/2/2016/08/2017-02-08-Factsheet-US-Aggregate.pdf.": "ERROR,Not Found"
     },
     "Bogleheads\u0027 Guide To Investing": {
       "http://www.amazon.com/s/?search-alias=aps\u0026tag=bogleheads.org-20\u0026field-keywords=Bogleheads": "OTHER,Service Unavailable"
@@ -681,7 +684,9 @@
     },
     "Broker": {
       "http://www.afajof.org/details/video/7693561/2015-Presidential-Address.html": "ERROR,Not Found",
-      "http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/index.htm": "ERROR,Not Found"
+      "http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/index.htm": "ERROR,Not Found",
+      "http://www.sec.gov/": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
+      "http://www.sec.gov/answers/openaccount.htm": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027."
     },
     "Bruce N. Lehmann": {
       "http://academic.research.microsoft.com/Author/9173855/bruce-n-lehmann": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
@@ -765,13 +770,17 @@
       "https://www.etfs.bmo.com/bmo-etfs/glance?fundId=92494": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch",
       "https://www.etfs.bmo.com/bmo-etfs/glance?fundId=97630": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch",
       "https://www.ndir.com/cgi-bin/PeriodicTableofAnnualReturns.cgi": "OTHER,No connection could be made because the target machine actively refused it. (www.ndir.com:443)",
-      "https://www.tdassetmanagement.com/fundDetails.form?fundId=3261\u0026prodGroupId=1\u0026lang=en\u0026site=TDCT": "OTHER,Service Unavailable",
-      "https://www.tdassetmanagement.com/fundDetails.form?fundId=3270\u0026prodGroupId=1\u0026lang=en\u0026site=TDCT": "OTHER,Service Unavailable",
-      "https://www.tdassetmanagement.com/fundDetails.form?fundId=4817\u0026prodGroupId=1\u0026lang=en\u0026site=TDCT": "OTHER,Service Unavailable",
-      "https://www.tdassetmanagement.com/fundDetails.form?fundId=4877\u0026prodGroupId=1\u0026lang=en\u0026site=TDCT": "OTHER,Service Unavailable"
+      "https://www.tdassetmanagement.com/fundDetails.form?fundId=3261\u0026prodGroupId=1\u0026lang=en\u0026site=TDCT": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.tdassetmanagement.com/fundDetails.form?fundId=3270\u0026prodGroupId=1\u0026lang=en\u0026site=TDCT": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.tdassetmanagement.com/fundDetails.form?fundId=4817\u0026prodGroupId=1\u0026lang=en\u0026site=TDCT": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.tdassetmanagement.com/fundDetails.form?fundId=4877\u0026prodGroupId=1\u0026lang=en\u0026site=TDCT": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
     },
     "Capital gains distribution": {
       "http://www.indexuniverse.com/docs/110411IU_ETF_Taxation_v5A_%20j9.pdf": "OTHER,Forbidden"
+    },
+    "Capitulation": {
+      "https://www.investopedia.com/articles/analyst/080702.asp": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027DecryptError\u0027.",
+      "https://www.investopedia.com/ask/answers/189.asp": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027DecryptError\u0027."
     },
     "Cash drag": {
       "http://www.cfapubs.org/doi/abs/10.2469/faj.v70.n3.9": "OTHER,Forbidden",
@@ -868,10 +877,12 @@
       "http://www.standardandpoors.com/indices/sp-commercial-paper-index/en/us/?indexId=spfi--cp--usd----t-------": "ERROR,Not Found"
     },
     "Commodities": {
+      "http://investments.pimco.com/Products/pages/287.aspx?ShareClassCode=INSTL": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://mfs.rutgers.edu/MFC/MFC12/mfcindex/files/MSCRIPT2005/MFC-021.pdf": "OTHER,No connection could be made because the target machine actively refused it. (mfs.rutgers.edu:80)",
       "http://www.cftc.gov/ConsumerProtection/Resources/index.htm": "OTHER,Forbidden",
       "http://www.crbtrader.com/crbindex/": "OTHER,Forbidden",
       "http://www.djindexes.com/commodity/?go=literature": "ERROR,No such host is known. (www.djindexes.com:80)",
+      "http://www.futuresindustry.org/fi-magazine-home.asp?v=p\u0026iss=153\u0026a=1037": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.iinews.com/site/pdfs/JAI_Summer_2000_Greer.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.investorsolutions.com/news/299/112/Commodities-As-An-Asset-Class/": "ERROR,Not Found",
       "http://www.investorsolutions.com/news/309/112/Not-All-Commodity-Indexes-Are-Created-Equal-Part-One-of-a-Two-Part-Series/": "ERROR,Not Found",
@@ -888,6 +899,11 @@
       "http://www.amazon.com/s/?search-alias=aps\u0026tag=bogleheads.org-20\u0026field-keywords=Bogleheads": "OTHER,Service Unavailable"
     },
     "Comparing CDs": {
+      "http://www.bogleheads.org/forum/viewtopic.php?f=10\u0026t=131084": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
+      "http://www.bogleheads.org/forum/viewtopic.php?p=817693": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
+      "http://www.bogleheads.org/forum/viewtopic.php?t=57838": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
+      "http://www.bogleheads.org/forum/viewtopic.php?t=59888": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
+      "http://www.bogleheads.org/forum/viewtopic.php?t=59943": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
       "http://www.fdic.gov/deposit/deposits/certificate/index.html": "UPDATE LINK,redirected to http://www.fdic.gov/resources/deposit-insurance/understanding-deposit-insurance/"
     },
     "Connecticut 529 plan archive": {
@@ -947,9 +963,7 @@
       "http://www.imf.org/external/np/sta/wgsd/pdf/051309.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
     },
     "Delaware 529 plan archive": {
-      "http://529.morningstar.com/overview.action?state=DE\u0026planID=5PUSA0000B": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://www.savingforcollege.com/529_plan_details/": "OTHER,Bad Gateway",
-      "http://www.savingforcollege.com/529_plan_details/index.php?page=plan_details\u0026plan_id=10": "OTHER,Bad Gateway"
+      "http://529.morningstar.com/overview.action?state=DE\u0026planID=5PUSA0000B": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
     },
     "Dental insurance": {
       "http://www.be-insurance-savvy.com/insurance-glossary.html": "ERROR,No such host is known. (www.be-insurance-savvy.com:80)"
@@ -979,6 +993,7 @@
       "http://ambest.com/resource/glossary.html": "ERROR,Not Found",
       "http://lwd.dol.state.nj.us/labor/tdi/tdiindex.html": "OTHER,Not found",
       "http://www.dlt.state.ri.us/tdi/Faq4qhp.htm": "ERROR,No such host is known. (www.dlt.state.ri.us:80)",
+      "http://www.dol.gov/owcp/dfec/regs/compliance/wc.htm": "UPDATE LINK,redirected to http://www.dol.gov/agencies/owcp/wc",
       "http://www.dtrh.gobierno.pr/index.asp": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.dtrh.gobierno.pr/pdf/num139.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.wcb.ny.gov/content/main/offthejob/db-overview.jsp": "ERROR,Not Found",
@@ -1039,6 +1054,7 @@
       "https://www.morningstar.com/instant-x-ray": "ERROR,Not Found"
     },
     "EU investing": {
+      "https://docplayer.net/47245735-Spdr-etfs-tax-reference-guide.html": "OTHER,Bad Gateway",
       "https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/consumer-financial-services/key-information-documents-packaged-retail-and-insurance-based-investment-products-priips_en": "ERROR,Not Found",
       "https://ishares.eu/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
     },
@@ -1123,7 +1139,8 @@
       "http://www.successions-europe.eu/en/netherlands/topics": "ERROR,Not Found",
       "http://www.successions-europe.eu/en/united-kingdom/topics": "ERROR,Not Found",
       "http://www.tax.ri.gov/taxforms/estate.php": "ERROR,Not Found",
-      "http://www.tennessee.gov/revenue/tntaxes/inherit.shtml": "OTHER,Forbidden"
+      "http://www.tennessee.gov/revenue/tntaxes/inherit.shtml": "OTHER,Forbidden",
+      "https://www.irs.gov/businesses/international-businesses/canada-tax-treaty-documents": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
     },
     "Estate planning": {
       "https://www.liskow.com/PublicationFiles/Hester%20article.pdf": "ERROR,Not Found"
@@ -1144,6 +1161,7 @@
       "http://www.indexuniverse.com/docs/110411IU_ETF_Taxation_v5A_%20j9.pdf": "OTHER,Forbidden",
       "http://www.nasdaq.com/investing/etfs/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.sec.gov/answers/etf.htm": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://web.archive.org/web/20210328154335/https://am.jpmorgan.com/blob-gim/1383272223898/83456/1323416812894_Debunking-myths-about-ETF-liquidity.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.etf.com/about-us.html": "OTHER,Forbidden",
       "https://www.etf.com/etf-education-ce.html": "OTHER,Forbidden",
       "https://www.etf.com/etfanalytics/etf-finder": "OTHER,Forbidden",
@@ -1231,10 +1249,12 @@
       "https://www.irs.gov/uac/American-Opportunity-Tax-Credit:-Questions-and-Answers": "ERROR,Not Found"
     },
     "Fidelity": {
+      "http://personal.fidelity.com/products/checking/content/autoinvest.shtml.cvsr?refpr=CMGTOC009": "OTHER,Forbidden",
       "http://www.djindexes.com/totalstockmarket/?go=literature": "ERROR,No such host is known. (www.djindexes.com:80)",
       "https://www.fidelity.com/about-fidelity/individual-investing/fidelity-rewrites-the-rules-of-investing-to-deliver-unparalleled-value-and-simplicity-to-investors": "ERROR,Not Found"
     },
     "Fidelity: one stop shop": {
+      "http://personal.fidelity.com/accounts/services/depwith/2frameindex.shtml": "ERROR,Not Found",
       "https://olui2.fs.ml.com/publish/content/application/pdf/gwmol/merrilllynchself-directedcmaaccountagreement.pdf%7C": "ERROR,Not Found",
       "https://vanguard.com/pdf/PVPDFCL_022019.pdf": "ERROR,Not Found"
     },
@@ -1333,7 +1353,8 @@
       "http://advisor.morningstar.com/articles/article.asp?s=0\u0026docId=17632\u0026pgNo=1": "ERROR,Not Found",
       "http://aging.senate.gov/hearing_detail.cfm?id=319426\u0026": "ERROR,Not Found",
       "http://media.pimco-global.com/pdfs/pdf/VP001-050107%20Better%20Glidepath.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://personal.fidelity.com/products/funds/content/DesignYourPortfolio/freedomfunds.shtml.": "ERROR,Not Found",
+      "http://personal.fidelity.com/products/funds/content/DesignYourPortfolio/freedomfunds.shtml.": "OTHER,Forbidden",
+      "http://personal.fidelity.com/products/funds/content/DesignYourPortfolio/target_timelinefunds_freedom.shtml.cvsr": "OTHER,Forbidden",
       "http://www.djindexes.com/mdsidx/downloads/meth_info/Dow_Jones_Target_Date_Indexes_Methodology.pdf": "ERROR,No such host is known. (www.djindexes.com:80)",
       "http://www.djindexes.com/mdsidx/portfolio/index.cfm?event=showPortfolioUSTargetDate": "ERROR,No such host is known. (www.djindexes.com:80)",
       "http://www.fa-mag.com/component/content/article/1827.html?magazineID=1\u0026issue=89\u0026Itemid=73": "OTHER,Forbidden",
@@ -1373,6 +1394,9 @@
     "Global fund": {
       "https://index.barcap.com/Benchmark_Indices/Aggregate/Bond_Indices": "OTHER,The requested name is valid-- but no data of the requested type was found. (index.barcap.com:443)"
     },
+    "GnuCash": {
+      "https://www.gnucash.org/oldnews.phtml": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+    },
     "Gold": {
       "http://www.indexuniverse.com/publications/journalofindexes/joi-articles/8239-rediscovering-gold-as-an-asset-class.html": "OTHER,Forbidden",
       "http://www.mint.ca/store/mint/about-the-mint/our-products-1200028": "ERROR,Not Found",
@@ -1388,9 +1412,6 @@
       "http://www.investinginbonds.com/learnmore.asp?catid=5\u0026subcatid=21": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.investinginbonds.com/learnmore.asp?catid=9\u0026subcatid=94": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://ecommerce.barcap.com/indices/index.dxml?pageId=9": "OTHER,The requested name is valid-- but no data of the requested type was found. (index.barcap.com:443)"
-    },
-    "Greek pension fund performance": {
-      "http://ssrn.com/abstract=1394457": "OTHER,Gone"
     },
     "Gur Huberman": {
       "http://academic.research.microsoft.com/Author/1043644/gur-huberman": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
@@ -1419,7 +1440,7 @@
       "http://intra.som.umass.edu/msherman/pubs/LifeCycle.pdf": "ERROR,No such host is known. (intra.som.umass.edu:80)",
       "http://www.cbsnews.com/8301-505123_162-57344189/the-way-to-predict-hedge-fund-returns/?tag=mncol;lst;1": "ERROR,Not Found",
       "http://www.finalternatives.com/files/The%20A,B,Cs%20of%20Hedge%20Funds%20--%20Sept.%202006.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://www.rmi.gsu.edu/Research/downloads/HedgeFunds_Mar2006.pdf": "ERROR,Not Found",
+      "http://www.rmi.gsu.edu/Research/downloads/HedgeFunds_Mar2006.pdf": "OTHER,The requested name is valid-- but no data of the requested type was found. (www.rmi.gsu.edu:80)",
       "http://www.sec.gov/answers/hedge.htm": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
     },
     "Henri Servaes": {
@@ -1460,15 +1481,21 @@
     "IRA": {
       "http://www.irs.gov/formspubs/content/0,,id=177976,00.html": "ERROR,Not Found"
     },
+    "I Bonds vs TIPS": {
+      "http://personal.fidelity.com/products/trading/Commissions_Margin_Rates/Commissions_Margin_Rates_Bonds.shtml.cvsr": "OTHER,Forbidden"
+    },
     "I Fund": {
       "https://personal.vanguard.com/us/LiteratureRequest?FW_Activity=ViewOnlineActivity\u0026litID=2210061661\u0026FW_Event=start\u0026cbdForceDomain=false": "ERROR,No such host is known. (personal.vanguard.comnull:443)",
       "https://www.frtib.gov/MeetingMinutes/2017/2017Nov.pdf": "ERROR,Not Found",
       "https://www.frtib.gov/MeetingMinutes/2018/2018Dec.pdf": "ERROR,Not Found",
       "https://www.frtib.gov/MeetingMinutes/2020/2020May13.pdf": "ERROR,Not Found",
+      "https://www.pionline.com/article/20190204/PRINT/190209965/for-largest-us-retirement-fund-the-skys-the-limit": "OTHER,Forbidden",
       "https://www.tsp.gov/investmentfunds/fundsheets/fundPerformance_I.shtml": "OTHER,Forbidden"
     },
     "Idaho 529 plan archive": {
       "http://529.morningstar.com/overview.action?state=ID\u0026planID=5PUSA0000C": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "http://www.savingforcollege.com/529_plan_details/": "OTHER,Bad Gateway",
+      "http://www.savingforcollege.com/compare_529_plans/index.php?page=select_plans\u0026plan_type_id=1": "OTHER,Bad Gateway",
       "https://idsaves.s.upromise.com/": "ERROR,No such host is known. (idsaves.s.upromise.com:443)",
       "https://idsaves.s.upromise.com/content/investments_agebasedoptions.html": "ERROR,No such host is known. (idsaves.s.upromise.com:443)",
       "https://idsaves.s.upromise.com/content/resources_formsandlit.html": "ERROR,No such host is known. (idsaves.s.upromise.com:443)"
@@ -1486,8 +1513,9 @@
       "http://www.ebri.org/pdf/programs/policyforums/CPI_Fixed_Annuities_Value.pdf": "ERROR,Not Found",
       "http://www.gao.gov/new.items/d11400.pdf": "UPDATE LINK,redirected to http://www.gao.gov/pdf/product/new-items-d11400",
       "http://www.irionline.org/pdfs/09AnnuityFactBook/2009AnnuityFactBook.pdf": "ERROR,Not Found",
+      "http://www.ssa.gov/oact/NOTES/as120/LifeTables_Body.html": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
       "http://www.tiaa-cref.org/institute/research/dialogue/rd_48.html": "UPDATE LINK,redirected to http://www.tiaa.org/public/institute/research/dialogue/rd_48",
-      "http://www.tiaa-cref.org/institute/research/dialogue/rd_74.html": "UPDATE LINK,redirected to http://www.tiaa.org/public/institute/research/dialogue/rd_74",
+      "http://www.tiaa-cref.org/institute/research/dialogue/rd_74.html": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
       "http://www.tiaa-cref.org/institute/research/trends_issues/ti_annuities_1006.html": "UPDATE LINK,redirected to http://www.tiaa.org/public/institute/research/trends_issues/ti_annuities_1006",
       "http://www.tiaa-cref.org/ucm/groups/content/@ap_ucm_p_tcp/documents/document/tiaa04016217.pdf": "OTHER,Service Unavailable",
       "http://www.tiaa-crefinstitute.org/ucm/groups/content/@ap_ucm_p_tcp_docs/documents/document/tiaa02029429.pdf": "OTHER,Service Unavailable",
@@ -1508,7 +1536,8 @@
       "https://institutional.vanguard.com/iam/pdf/CRRADC.pdf": "ERROR,Not Found"
     },
     "Income-Related Monthly Adjustment Amount (IRMAA)": {
-      "https://www.medicare.gov/forms-help-other-resources/mail-you-get-about-medicare/initial-irmaa-determination": "ERROR,Not Found"
+      "https://www.medicare.gov/forms-help-other-resources/mail-you-get-about-medicare/initial-irmaa-determination": "ERROR,Not Found",
+      "https://yourmedicare.com/how-do-i-submit-an-appeal-for-my-irmaa-decision/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
     },
     "Incubator funds": {
       "http://www.afajof.org/afa/forthcoming/5379.pdf": "ERROR,Not Found",
@@ -1582,8 +1611,8 @@
     "Insurance float": {
       "http://www.fool.com/server/printarticle.aspx?file=/personal-finance/insurance/2006/12/05/insurance-industry-basics-float.aspx": "ERROR,Not Found"
     },
-    "Interactive Brokers": {
-      "https://investors.interactivebrokers.com/download/investors/investorpresentation-june-2015.pdf": "ERROR,Not Found"
+    "Intelligent Asset Allocator": {
+      "http://www.amazon.com/s/?search-alias=aps\u0026tag=bogleheads.org-20\u0026field-keywords=Bogleheads": "OTHER,Service Unavailable"
     },
     "International REITs": {
       "http://blog.helpingadvisors.com/2011/03/01/the-global-reach-of-reits/": "ERROR,No such host is known. (blog.helpingadvisors.com:80)",
@@ -1632,7 +1661,6 @@
       "http://appsso.eurostat.ec.europa.eu/nui/show.do": "OTHER,Forbidden",
       "http://www.beschermingsfonds.be/en/mod_systeme.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch",
       "http://www.mijngeldenik.be/nl/spaarboekje/soorten-spaarrekeningen": "ERROR,Not Found",
-      "http://www.wikifin.be/nl/themas/pensioenen/pensioensparen/fiscaliteit": "ERROR,Not Found",
       "https://home.kpmg/xx/en/home/insights/2011/12/belgium-income-tax.html": "ERROR,Not Found",
       "https://index.barcap.com/Home/Guides_and_Factsheets": "OTHER,The requested name is valid-- but no data of the requested type was found. (index.barcap.com:443)",
       "https://translate.google.com/translate?hl=en\u0026sl=nl\u0026tl=en\u0026u=http://www.mijngeldenik.be/nl/spaarboekje/wat-levert-een-spaarrekening-op\u0026sandbox=1": "ERROR,Not Found",
@@ -1692,6 +1720,7 @@
       "http://www.pensioenfederatie.nl/Document/Publicaties/English%20publications/Nederlandse_pensioensysteem_Engelstalige_versie.pdf": "ERROR,Not Found",
       "http://www.pensioenfederatie.nl/over_ons/Pages/default.aspx": "ERROR,Not Found",
       "https://thinketfs.nl/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.irs.gov/businesses/international-businesses/netherlands-tax-treaty-documents": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.ishares.com/nl/individual/nl/literature/brochure/taxation-dutch-resident-investors-nl-en.pdf?siteEntryPassthrough=true": "ERROR,Not Found"
     },
     "Investing from the UK": {
@@ -1815,6 +1844,7 @@
       "https://www.congress.gov/nomination/114th-congress/476": "OTHER,Forbidden"
     },
     "Leverage": {
+      "http://personal.fidelity.com/products/trading/Commissions_Margin_Rates/Margin_Borrowing_How_Margin_Works.shtml.cvsr": "OTHER,Forbidden",
       "http://www.finra.org/Investors/ProtectYourself/InvestorAlerts/MutualFunds/P119778": "ERROR,Not Found"
     },
     "Leveraged and inverse ETFs": {
@@ -1984,7 +2014,7 @@
       "https://www.etf.com/channels/whitford-asset-management-etfs": "OTHER,Forbidden",
       "https://www.etf.com/channels/wisdomtree-etfs": "OTHER,Forbidden",
       "https://www.etfmg.com/funds/": "ERROR,Not Found",
-      "https://www.eventsharesfunds.com/plcy": "UPDATE LINK,redirected to http://www.eventsharesfunds.com/plcy/",
+      "https://www.eventsharesfunds.com/plcy": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.flexshares.com/individual": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.ici.org/research/stats/factbook": "ERROR,Not Found",
       "https://www.marketvectorsetns.com/": "OTHER, Received an unexpected EOF or 0 bytes from the transport stream.",
@@ -1993,6 +2023,7 @@
       "https://www.quantxfunds.com/": "ERROR,No such host is known. (www.quantxfunds.com:443)",
       "https://www.renaissancecapital.com/IPO-Investing": "ERROR,Not Found",
       "https://www.salt-funds.com/?_ga=2.105183617.307015941.1555628440-2130213618.1555628440": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.thehousingetf.com/homz": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.tigershares.com/product/TTTN": "ERROR,No such host is known. (www.tigershares.com:443)",
       "https://www.valideafunds.com/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.vcm.com/investment-professionals/victoryshares-etfs": "ERROR,Not Found"
@@ -2036,7 +2067,63 @@
       "https://www.invescopowershares.com/products/overview.aspx?ticker=dbb": "OTHER,No connection could be made because the target machine actively refused it. (www.invescopowershares.com:443)",
       "https://www.invescopowershares.com/products/overview.aspx?ticker=PCY": "OTHER,No connection could be made because the target machine actively refused it. (www.invescopowershares.com:443)",
       "https://www.invescopowershares.com/products/overview.aspx?ticker=PHB": "OTHER,No connection could be made because the target machine actively refused it. (www.invescopowershares.com:443)",
-      "https://www.ishares.com/us/products/239627/ishares-msci-eafe-smallcap-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239423/ishares-10-year-credit-bond-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239450/ishares-05-year-tips-bond-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239451/ishares-13-year-credit-bond-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239452/ishares-13-year-treasury-bond-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239456/ishares-710-year-treasury-bond-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239458/ishares-core-total-us-bond-market-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239465/ishares-mbs-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239507/ishares-us-energy-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239508/ishares-us-financials-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239514/ishares-us-industrials-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239520/ishares-us-real-estate-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239522/ishares-us-technology-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239523/ishares-us-telecommunications-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239534/ishares-floating-rate-bond-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239536/ishares-china-largecap-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239561/ishares-gold-trust-fund": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239594/ishares-msci-acwi-ex-us-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239607/ishares-msci-australia-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239609/ishares-msci-austria-capped-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239612/ishares-msci-brazil-capped-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239614/ishares-msci-bric-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239615/ishares-msci-canada-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239622/ishares-msci-eafe-growth-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239648/ishares-msci-france-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239650/ishares-msci-germany-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239657/ishares-msci-hong-kong-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239669/ishares-msci-malaysia-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239670/ishares-msci-mexico-capped-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239674/ishares-msci-pacific-ex-japan-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239678/ishares-msci-singapore-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239681/ishares-msci-south-korea-capped-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239684/ishares-msci-sweden-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239685/ishares-msci-switzerland-capped-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239686/ishares-msci-taiwan-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239707/ishares-russell-1000-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239710/ishares-russell-2000-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239712/ishares-russell-2000-value-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239719/ishares-russell-midcap-value-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239725/ishares-sp-500-growth-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239726/ishares-core-sp-500-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239736/ishares-europe-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239739/ishares-global-consumer-discretionary-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239740/ishares-global-consumer-staples-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239741/ishares-global-energy-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239742/ishares-global-financials-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239748/ishares-global-materials-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239751/ishares-global-telecom-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239753/ishares-global-utilities-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239761/ishares-latin-america-40-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239762/ishares-sp-midcap-400-growth-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239764/ishares-sp-midcap-400-value-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239772/ishares-shortterm-national-amtfree-muni-bond-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239773/ishares-sp-smallcap-600-growth-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239829/ishares-13-year-international-treasury-bond-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239830/ishares-international-treasury-bond-etf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ishares.com/us/products/239855/ishares-silver-trust-fund": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.pimcoetfs.com/FundInfo/Pages/CORP.aspx": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.pimcoetfs.com/FundInfo/Pages/PIMCO1-3YearUSTreasuryIndexFund.aspx": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.pimcoetfs.com/FundInfo/Pages/PIMCO15\u002BYearUSTIPSIndexFund.aspx": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
@@ -2073,9 +2160,6 @@
       "http://law.freeadvice.com/resources/statelaws_probate_oregon.htm": "OTHER,Gone",
       "http://mdcourts.gov/orphanscourt/faqs.html": "UPDATE LINK,redirected to http://mdcourts.gov/orphanscourt/faqs/",
       "http://mdcourts.gov/orphanscourt/general.html": "UPDATE LINK,redirected to http://mdcourts.gov/orphanscourt/general/",
-      "http://probate.cuyahogacounty.us/faq/faq_estates.htm": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://probate.shelbycountytn.gov/faq_probate.htm": "UPDATE LINK,redirected to http://www.shelbycountytn.gov/227/Probate-Court",
-      "http://probate.shelbycountytn.gov/index.htm": "UPDATE LINK,redirected to http://www.shelbycountytn.gov/227/Probate-Court",
       "http://vba.affiniscape.com/associations/11069/files/adminguide.pdf": "OTHER,Forbidden",
       "http://www.ag.state.mn.us/Consumer/Seniors/Probate/Default.asp": "ERROR,Not Found",
       "http://www.bernco.gov/welcome-to-probate-court-2887/": "OTHER,Forbidden",
@@ -2099,7 +2183,6 @@
       "http://www.gaprobate.org/": "OTHER,Forbidden",
       "http://www.georgiacourts.org/index.php?option=com_content\u0026view=article\u0026id=168\u0026Itemid=0": "ERROR,No such host is known. (www.georgiacourts.org:80)",
       "http://www.in.gov/judiciary/index.htm": "UPDATE LINK,redirected to http://www.in.gov/courts/",
-      "http://www.iowacourtsonline.org/District_Courts/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.jefflorenzo.com/id71.html": "ERROR,Not Found",
       "http://www.jud.ct.gov/probate/faq.html": "ERROR,Not Found",
       "http://www.judicial.state.sc.us/probateCourt/probateMap.cfm": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027112\u0027.",
@@ -2133,7 +2216,7 @@
     "List of US state security regulators": {
       "http://attorneygeneral.delaware.gov/consumers/investmented/": "ERROR,Not Found",
       "http://finance.idaho.gov/Securities/Securities.aspx": "ERROR,Not Found",
-      "http://sos.georgia.gov/securities/https://etax.dor.ga.gov/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "http://sos.georgia.gov/securities/https://etax.dor.ga.gov/": "OTHER,Forbidden",
       "http://www.bishca.state.vt.us/securities/securities-division": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.cbs.state.or.us/external/dfcs/": "ERROR,Not Found",
       "http://www.com.ohio.gov/secu/": "ERROR,Not Found",
@@ -2156,149 +2239,159 @@
       "http://www.sosnc.com/": "ERROR,No such host is known. (www.sosnc.com:80)"
     },
     "List of non-US domiciled ETFs": {
-      "https://finance.yahoo.com/quote/2B7S.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/AGGG.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/AGGH.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/AGGH.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/AGGU.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/AMAL.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/AMAL.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/AMAP.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/ASWE.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/CBE3.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/CE31.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/CSBGE3.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/CSBGE3.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/DBZB.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/EIMI.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/EIMI.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/EIMI.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/ERNE.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/ERNE.L": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
-      "https://finance.yahoo.com/quote/ERNE.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/ERNE.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/EMIM.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/ERN1.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/EUN3.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/EUNA.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/EUNL.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/EUNU.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/IBCA.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/IBGS.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/IBGS.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/IBGS.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/IBGS.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/IBTE.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/IE15.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/IGLA.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/IGLA.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/IGLH.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/IGLO.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/IGSD.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/IS3M.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/IGLO.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/IS3J.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/IS3N.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/ISAC.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/ISEM.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/ISEM.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/ISUS.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/ISUS.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/ISWD.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/ISWD.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/IU0E.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/IU0E.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/IUSN.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/IUSQ.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/IV3GE.PA": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/IV3GF.PA": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/IVWRL.PA": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/IWDA.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/IWDA.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/SAGG.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/SDIG.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/SDIG.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/SDIA.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/SDIA.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/SDIG.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/SE15.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/SE15.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/SE15.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/SGLU.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/SPPW.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/SSAC.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/SWDA.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/SWDA.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/SWLD.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/SWDA.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/SWRD.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/SWRD.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/SWRD.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/SYBW.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/TBIL.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/TRD3.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/TRE3.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/TRS3.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/TRS3.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/TSY3.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/V20A.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/V20D.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/V3AA.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/V3AA.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/V3AA.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/V3AA.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/V3AA.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/V3AB.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/V3AL.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/V3AL.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/V3AM.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/V3GE.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/V3GE.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/V3GF.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/V3AL.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/V3AL.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/V3GE.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/V3GF.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/V3GP.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/V3GS.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/V40A.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/V40A.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/V40D.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/V40D.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/V60A.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/V60D.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/V80D.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/VAGE.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/V60D.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/V80A.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/V80A.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/V80D.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/VAGF.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/VDUC.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/VAGF.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/VGWL.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/VNGA20.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/VNGA40.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/VNGA60.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/VNGA80.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/VNGD20.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/VNGD40.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/VNGD60.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/VNGD80.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/VUSC.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/VUSC.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/VUSC.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/VUSC.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/VWRA.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/VWRL.AS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/VWCE.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/VWCE.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/VWRL.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/VWRL.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/VWRL.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/VWRP.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/XG7S.DE": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/XG7S.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/XG7S.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://finance.yahoo.com/quote/XG7S.SW": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/WLDS.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://finance.yahoo.com/quote/WSML.L": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://finance.yahoo.com/quote/XGSH.MI": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.boerse-frankfurt.de/en/etf/IE00B6R52259": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.boerse-frankfurt.de/en/etf/IE00B4L5Y983": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.boerse-frankfurt.de/en/etf/IE00B4L60045": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.boerse-frankfurt.de/en/etf/IE00BCRY5Y77": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.boerse-frankfurt.de/en/etf/IE00BCRY6557": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.boerse-frankfurt.de/en/etf/IE00BF2FNG46": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.boerse-frankfurt.de/en/etf/IE00BF4RFH31": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.boerse-frankfurt.de/en/etf/IE00BFY0GT14": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.boerse-frankfurt.de/en/etf/IE00BG47KB92": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.boerse-frankfurt.de/en/etf/IE00BKM4GZ66": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.boerse-frankfurt.de/en/etf/IE00BMVB5P51": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.boerse-frankfurt.de/en/etf/IE00BNG8L278": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.boerse-frankfurt.de/en/etf/IE00BNG8L385": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.boerse-stuttgart.de/en/products/etps/etfs/stuttgart/IE00B3VTMJ91": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.boerse-stuttgart.de/en/products/etps/etfs/stuttgart/IE00BC7GZJ81": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.boerse-stuttgart.de/en/products/etps/etfs/stuttgart/IE00BCRY6557": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.boerse-stuttgart.de/en/products/etps/etfs/stuttgart/IE00BKM4GZ66": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.boerse-stuttgart.de/en/products/etps/etfs/stuttgart/LU0908508731": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.justetf.com/en/etf-profile.html?isin=IE00B14X4Q57#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.justetf.com/en/etf-profile.html?isin=IE00B6R52259#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.boerse-frankfurt.de/en/etf/IE00BG5QQ390": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.boerse-frankfurt.de/en/etf/IE00BMVB5M21": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.boerse-frankfurt.de/en/etf/IE00BNDS1P30": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.boerse-frankfurt.de/en/etf/LU0908508731": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.google.com/finance/quote/V20D:FRA": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027DecryptError\u0027.",
+      "https://www.google.com/finance/quote/XG7S:LON": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.justetf.com/en/etf-profile.html?isin=IE00BCRY5Y77#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.justetf.com/en/etf-profile.html?isin=IE00BDBRDM35#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.justetf.com/en/etf-profile.html?isin=IE00BDFK1573#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.justetf.com/en/etf-profile.html?isin=IE00BDFK3H31#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.justetf.com/en/etf-profile.html?isin=IE00BFY0GT14#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.justetf.com/en/etf-profile.html?isin=IE00BK5BQT80#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.justetf.com/en/etf-profile.html?isin=IE00BK7Y2P34#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.justetf.com/en/etf-profile.html?isin=IE00BKM4GZ66#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5K07#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5P51#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.justetf.com/en/etf-profile.html?isin=IE00BNDS1X14#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.justetf.com/en/etf-profile.html?isin=IE00BNG8L278#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.justetf.com/en/etf-profile.html?isin=IE00BYXYYP94#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.justetf.com/en/etf-profile.html?isin=LU0908508731#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.six-group.com/en/products-services/the-swiss-stock-exchange/market-data/etf/etf-explorer/etf-detail.IE00B6R52259USD4.html#/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.six-group.com/en/products-services/the-swiss-stock-exchange/market-data/etf/etf-explorer/etf-detail.IE00BC7GZJ81CHF4.html#/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.six-group.com/en/products-services/the-swiss-stock-exchange/market-data/etf/etf-explorer/etf-detail.IE00BNDS1R53CHF4.html#/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.six-group.com/en/products-services/the-swiss-stock-exchange/market-data/etf/etf-explorer/etf-detail.IE00BYXYYP94CHF4.html#/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "https://www.six-group.com/en/products-services/the-swiss-stock-exchange/market-data/etf/etf-explorer/etf-detail.IE00BZ043R46USD4.html#/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+      "https://www.justetf.com/en/etf-profile.html?isin=IE00BMVB5Q68#overview": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.six-group.com/en/products-services/the-swiss-stock-exchange/market-data/etf/etf-explorer/etf-detail.IE00B3VTMJ91EUR4.html#/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00B296QM64": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00B3F81409": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00B3F81K65": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00B3RBWM25": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00B3VTMJ91": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00B4L5Y983": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00B4L60045": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00B6R52259": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BC7GZJ81": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BCRY5Y77": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BDBRDM35": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BDD48R20": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BDFK1573": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BDFK3H31": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BF4RFH31": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BFY0GT14": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BG47KJ78": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BG5QQ390": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BJXRT698": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BK5BQT80": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BK7Y2P34": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BKM4GZ66": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BMVB5K07": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BMVB5L14": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BMVB5M21": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BMVB5N38": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BMVB5P51": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BMVB5Q68": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BMVB5R75": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BMYMHS24": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BNDS1P30": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BNDS1Q47": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BNDS1R53": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BNDS1S60": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BNDS1T77": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BNDS1V99": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BNDS1X14": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BNG8L278": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BNG8L385": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BYXYYP94": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BYZ28V50": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=IE00BZ043R46": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=LU0378818131": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.teletrader.com/ts=LU0908508731": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
     },
     "List of state insurance commissioners websites": {
       "http://disb.dc.gov/disr/frames.asp?doc=/disr/lib/disr/pdf/consumer_guide_auto.pdf": "ERROR,Not Found",
@@ -2331,12 +2424,12 @@
       "http://insuranceca.iowa.gov/home_auto/index.html": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://insuranceca.iowa.gov/index.html": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://insuranceca.iowa.gov/life_annuities/index.html": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://mn.gov/commerce/insurance/": "UPDATE LINK,redirected to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=4cdb2a7f-3e63-4b5c-a370-9634be27207d\u0026ssb=75799243976\u0026ssc=https%3A%2F%2Fmn.gov%2Fcommerce%2Finsurance%2F\u0026ssi=5bedd466-bf56-440c-b1f3-0b81f6cf3f59\u0026ssk=support@shieldsquare.com\u0026ssm=20084672825787780100356188347257\u0026ssn=c5a61b29967f030fb9225ffe3aa88cf851abbca8650c-5439-479a-998380\u0026sso=79079657-5b7f861abf5df70fdfe30fc806cb68528b47dea1deac8107\u0026ssp=91253228431696315637169638020275538\u0026ssq=82381363793266818492137932050636616567988\u0026ssr=NzEuMjI3LjIzNi4yNTM=\u0026sst=Mozilla/5.0 (compatible; AcmeInc/1.0)\u0026ssu=\u0026ssv=\u0026ssw=\u0026ssx=W10=",
-      "http://mn.gov/commerce/insurance/consumers/": "UPDATE LINK,redirected to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=79da1f87-e600-4550-a94b-711368085668\u0026ssb=75799243976\u0026ssc=https%3A%2F%2Fmn.gov%2Fcommerce%2Finsurance%2Fconsumers%2F\u0026ssi=25da6abf-bf56-4006-8bf0-8d233df24a79\u0026ssk=support@shieldsquare.com\u0026ssm=20084672825787780250356188347257\u0026ssn=c5a61b29dd42ecefcf79944583b18cf851abbca8650c-5439-479a-998380\u0026sso=79079657-5b7f861abf5df70fdfe3c6f3d8cf4c4d91b113dcdeac8107\u0026ssp=91253228431696315637169638020275538\u0026ssq=82381363793266818492137932050636616567988\u0026ssr=NzEuMjI3LjIzNi4yNTM=\u0026sst=Mozilla/5.0 (compatible; AcmeInc/1.0)\u0026ssu=\u0026ssv=\u0026ssw=\u0026ssx=W10=",
-      "http://mn.gov/commerce/insurance/topics/auto-leisure/": "UPDATE LINK,redirected to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=d6b2bfe8-39e3-433b-a3d4-3c9131ac3626\u0026ssb=75799243976\u0026ssc=https%3A%2F%2Fmn.gov%2Fcommerce%2Finsurance%2Ftopics%2Fauto-leisure%2F\u0026ssi=a411458c-bf56-4650-b524-ab3ae0fce701\u0026ssk=support@shieldsquare.com\u0026ssm=20084672825787780130356188347257\u0026ssn=c5a61b2904c72dc75b009b9c151b8cf851abbca8650c-5439-479a-998380\u0026sso=79079657-5b7f861abf5df70fdfe30439f0f9343aad9e7db3deac8107\u0026ssp=91253228431696315637169638020275538\u0026ssq=82381363793266818492137932050636616567988\u0026ssr=NzEuMjI3LjIzNi4yNTM=\u0026sst=Mozilla/5.0 (compatible; AcmeInc/1.0)\u0026ssu=\u0026ssv=\u0026ssw=\u0026ssx=W10=",
-      "http://mn.gov/commerce/insurance/topics/home-property/": "UPDATE LINK,redirected to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=1075100d-90e8-43be-b6c5-1703ba166096\u0026ssb=75799243976\u0026ssc=https%3A%2F%2Fmn.gov%2Fcommerce%2Finsurance%2Ftopics%2Fhome-property%2F\u0026ssi=522fe2d8-bf56-457f-8d32-8c4ec5f1d4e0\u0026ssk=support@shieldsquare.com\u0026ssm=20084672825787780160356188347257\u0026ssn=c5a61b291be3dade5978080394e98cf851abbca8650c-5439-479a-998380\u0026sso=79079657-5b7f861abf5df70fdfe37f16d35fbb6e7994194fdeac8107\u0026ssp=91253228431696315637169638020275538\u0026ssq=82381363793266818492137932050636616567988\u0026ssr=NzEuMjI3LjIzNi4yNTM=\u0026sst=Mozilla/5.0 (compatible; AcmeInc/1.0)\u0026ssu=\u0026ssv=\u0026ssw=\u0026ssx=W10=",
-      "http://mn.gov/commerce/insurance/topics/life-annuities/": "UPDATE LINK,redirected to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=e0191b26-b741-4922-a977-56b7d877a981\u0026ssb=75799243976\u0026ssc=https%3A%2F%2Fmn.gov%2Fcommerce%2Finsurance%2Ftopics%2Flife-annuities%2F\u0026ssi=fb096093-bf56-415f-9a37-27e46ed02ee9\u0026ssk=support@shieldsquare.com\u0026ssm=20084672825787780220356188347257\u0026ssn=c5a61b29cc7b61ba1012cecf820c8cf851abbca8650c-5439-479a-998380\u0026sso=79079657-5b7f861abf5df70fdfe352f2db504cdf108d43e8deac8107\u0026ssp=91253228431696315637169638020275538\u0026ssq=82381363793266818492137932050636616567988\u0026ssr=NzEuMjI3LjIzNi4yNTM=\u0026sst=Mozilla/5.0 (compatible; AcmeInc/1.0)\u0026ssu=\u0026ssv=\u0026ssw=\u0026ssx=W10=",
-      "http://mn.gov/commerce/insurance/topics/medical/health-insurance/index.jsp": "UPDATE LINK,redirected to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=38353e39-6602-492a-b292-d02bf5775086\u0026ssb=75799243976\u0026ssc=https%3A%2F%2Fmn.gov%2Fcommerce%2Finsurance%2Ftopics%2Fmedical%2Fhealth-insurance%2Findex.jsp\u0026ssi=314e5232-bf56-48d2-8233-903bbcb1374f\u0026ssk=support@shieldsquare.com\u0026ssm=20084672825787780190356188347257\u0026ssn=c5a61b292d548bf15e6dcaad9b388cf851abbca8650c-5439-479a-998380\u0026sso=79079657-5b7f861abf5df70fdfe3aeb374ba63ab51771b23deac8107\u0026ssp=91253228431696315637169638020275538\u0026ssq=82381363793266818492137932050636616567988\u0026ssr=NzEuMjI3LjIzNi4yNTM=\u0026sst=Mozilla/5.0 (compatible; AcmeInc/1.0)\u0026ssu=\u0026ssv=\u0026ssw=\u0026ssx=W10=",
+      "http://mn.gov/commerce/insurance/": "UPDATE LINK,redirected to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=dcab88f8-38cc-4ca1-9891-96fd989a43b0\u0026ssb=11851298775\u0026ssc=https%3A%2F%2Fmn.gov%2Fcommerce%2Finsurance%2F\u0026ssi=b1f49f33-bf56-4321-9e08-9cd38152baab\u0026ssk=support@shieldsquare.com\u0026ssm=42040558323566043108540503240938\u0026ssn=2cfeebcef0da8c16d7201e680e37d57a386a0ecae793-a378-422a-995247\u0026sso=9207c0fb-9e1ef69ad4aec160dad4a9d0a5210e4306d9f476bbd2e429\u0026ssp=46474595311696644640169668079425847\u0026ssq=89699991632075333318016320395168074621576\u0026ssr=NzEuMjI3LjIzNi4yNTM=\u0026sst=Mozilla/5.0 (compatible; AcmeInc/1.0)\u0026ssu=\u0026ssv=\u0026ssw=\u0026ssx=W10=",
+      "http://mn.gov/commerce/insurance/consumers/": "UPDATE LINK,redirected to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=80469825-e1ba-489f-ab05-70d2da3614db\u0026ssb=35649253321\u0026ssc=https%3A%2F%2Fmn.gov%2Fcommerce%2Finsurance%2Fconsumers%2F\u0026ssi=faeb71a6-bf56-46aa-911c-7313fc3ddc58\u0026ssk=support@shieldsquare.com\u0026ssm=24203478206315145165715264494731\u0026ssn=1e23969c68359458bb7419b757c0c26d25600ecae793-a378-422a-979a73\u0026sso=02e670fb-9e1ef69ad4ae0248c49b24a8bf636d8104f7be8621903b60\u0026ssp=10798072391696620010169664482709643\u0026ssq=45743291632189317058716320573989099322131\u0026ssr=NzEuMjI3LjIzNi4yNTM=\u0026sst=Mozilla/5.0 (compatible; AcmeInc/1.0)\u0026ssu=\u0026ssv=\u0026ssw=\u0026ssx=W10=",
+      "http://mn.gov/commerce/insurance/topics/auto-leisure/": "UPDATE LINK,redirected to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=4177b9f2-fcc0-49b8-b190-a514e5cc71af\u0026ssb=11851298775\u0026ssc=https%3A%2F%2Fmn.gov%2Fcommerce%2Finsurance%2Ftopics%2Fauto-leisure%2F\u0026ssi=06c4bb7b-bf56-4c75-8e53-e9ca97da4841\u0026ssk=support@shieldsquare.com\u0026ssm=42040558323566043138540503240938\u0026ssn=2cfeebce4903b1433c2fec45ec65d57a386a0ecae793-a378-422a-995247\u0026sso=9207c0fb-9e1ef69ad4aec160dad4d4250e57a3b7fb6deaf8bbd2e429\u0026ssp=46474595311696644640169668079425847\u0026ssq=89699991632075333318016320395168074621576\u0026ssr=NzEuMjI3LjIzNi4yNTM=\u0026sst=Mozilla/5.0 (compatible; AcmeInc/1.0)\u0026ssu=\u0026ssv=\u0026ssw=\u0026ssx=W10=",
+      "http://mn.gov/commerce/insurance/topics/home-property/": "UPDATE LINK,redirected to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=9c85be81-dc6f-434e-932c-46a345252056\u0026ssb=35649253321\u0026ssc=https%3A%2F%2Fmn.gov%2Fcommerce%2Finsurance%2Ftopics%2Fhome-property%2F\u0026ssi=21017d67-bf56-41a8-b776-73a0009218de\u0026ssk=support@shieldsquare.com\u0026ssm=24203478206315145195715264494731\u0026ssn=1e23969ca400771a72394fd1c2d2c26d25600ecae793-a378-422a-979a73\u0026sso=02e670fb-9e1ef69ad4ae0248c49be1aa862d5e045bfb921821903b60\u0026ssp=10798072391696620010169664482709643\u0026ssq=45743291632189317058716320573989099322131\u0026ssr=NzEuMjI3LjIzNi4yNTM=\u0026sst=Mozilla/5.0 (compatible; AcmeInc/1.0)\u0026ssu=\u0026ssv=\u0026ssw=\u0026ssx=W10=",
+      "http://mn.gov/commerce/insurance/topics/life-annuities/": "UPDATE LINK,redirected to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=82df4aae-f7d0-4c3e-aa25-6d743552d5bf\u0026ssb=35649253321\u0026ssc=https%3A%2F%2Fmn.gov%2Fcommerce%2Finsurance%2Ftopics%2Flife-annuities%2F\u0026ssi=e396b1ec-bf56-4a84-9baf-f10b113eac67\u0026ssk=support@shieldsquare.com\u0026ssm=24203478206315145225715264494731\u0026ssn=1e23969ce7555e715db7138be20fc26d25600ecae793-a378-422a-979a73\u0026sso=02e670fb-9e1ef69ad4ae0248c49b224acd086fe11013a8ee21903b60\u0026ssp=10798072391696620010169664482709643\u0026ssq=45743291632189317058716320573989099322131\u0026ssr=NzEuMjI3LjIzNi4yNTM=\u0026sst=Mozilla/5.0 (compatible; AcmeInc/1.0)\u0026ssu=\u0026ssv=\u0026ssw=\u0026ssx=W10=",
+      "http://mn.gov/commerce/insurance/topics/medical/health-insurance/index.jsp": "UPDATE LINK,redirected to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=9e269266-bbf7-4ef3-a313-1a67c593522c\u0026ssb=35649253321\u0026ssc=https%3A%2F%2Fmn.gov%2Fcommerce%2Finsurance%2Ftopics%2Fmedical%2Fhealth-insurance%2Findex.jsp\u0026ssi=f2e85b5c-bf56-4a3b-81d8-88ade4844894\u0026ssk=support@shieldsquare.com\u0026ssm=24203478206315145255715264494731\u0026ssn=1e23969ce410388423f538662429c26d25600ecae793-a378-422a-979a73\u0026sso=02e670fb-9e1ef69ad4ae0248c49b3efbff35e7f870883f7121903b60\u0026ssp=10798072391696620010169664482709643\u0026ssq=45743291632189317058716320573989099322131\u0026ssr=NzEuMjI3LjIzNi4yNTM=\u0026sst=Mozilla/5.0 (compatible; AcmeInc/1.0)\u0026ssu=\u0026ssv=\u0026ssw=\u0026ssx=W10=",
       "http://www.bishca.state.vt.us/health-care/consumer-information/health-insurance-publications-and-websites": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.bishca.state.vt.us/insurance/insurance-consumer/consumer-services": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.bishca.state.vt.us/insurance/insurance-consumer/consumers-guide-homeowner-insurance": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
@@ -2513,7 +2606,7 @@
     },
     "MSCI EAFE index": {
       "http://www.msci.com/about/history.html": "UPDATE LINK,redirected to http://www.msci.com/our-story",
-      "http://www.msci.com/products/indices/licensing/msci_eafe/": "UPDATE LINK,redirected to http://www.msci.com/products/indexes/licensing/msci_eafe/",
+      "http://www.msci.com/products/indices/licensing/msci_eafe/": "OTHER,Bad Gateway",
       "http://www.rickferri.com/blog/investments/basics-of-asset-allocation-part-2-of-2/": "ERROR,Not Found"
     },
     "Main Page": {
@@ -2530,6 +2623,9 @@
     },
     "Managing a windfall": {
       "https://www.stephenlnelson.com/WindfallFinancialPlanning.htm": "UPDATE LINK,redirected to http://stephenlnelson.com/articles/windfall-financial-planning/"
+    },
+    "Margin": {
+      "http://personal.fidelity.com/products/trading/Commissions_Margin_Rates/Margin_Borrowing_How_Margin_Works.shtml.cvsr": "OTHER,Forbidden"
     },
     "Mark Grinblatt": {
       "http://academic.research.microsoft.com/Author/875290/mark-grinblatt": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
@@ -2563,7 +2659,8 @@
       "http://www.collegesavingsmd.org/uploadedFiles/About_Us/2011-2012%20Enrollment%20Kit.pdf": "ERROR,Not Found"
     },
     "Massachusetts 529 plan archive": {
-      "http://529.morningstar.com/overview.action?state=MA\u0026planID=5PUSA0000K": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+      "http://529.morningstar.com/overview.action?state=MA\u0026planID=5PUSA0000K": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "http://personal.fidelity.com/planning/college/content/investment_options.shtml": "OTHER,Forbidden"
     },
     "Massimo Massa": {
       "http://academic.research.microsoft.com/Author/674059/massimo-massa": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
@@ -2637,6 +2734,7 @@
       "http://ezinearticles.com/?What-Are-The-Real-Costs-Of-Selling-A-Home?\u0026id=139629": "ERROR,No such host is known. (ezinearticles.com:80)",
       "http://legis.wisconsin.gov/lfb/Pages/default.aspx": "ERROR,Not Found",
       "http://legis.wisconsin.gov/lfb/publications/Miscellaneous/Documents/2012_07_25Individual%20Income%20Tax%20Provisions%20in%20the%20States.pdf": "ERROR,Not Found",
+      "http://www.amazon.com/s/?search-alias=aps\u0026tag=bogleheads.org-20\u0026field-keywords=Bogleheads": "OTHER,Service Unavailable",
       "http://www.defensetravel.dod.mil/Docs/Fact_Sheet_BAH.pdf": "OTHER,An error occurred while sending the request.",
       "http://www.defensetravel.dod.mil/Docs/Fact_Sheet_OHA.pdf": "OTHER,An error occurred while sending the request.",
       "http://www.defensetravel.dod.mil/site/bah.cfm": "OTHER,An error occurred while sending the request.",
@@ -2716,6 +2814,7 @@
       "https://www.montanasaves.com/content/investments_options.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors"
     },
     "Mortgage-backed security": {
+      "http://www.amazon.com/s/?search-alias=aps\u0026tag=bogleheads.org-20\u0026field-keywords=Bogleheads": "OTHER,Service Unavailable",
       "http://www.investinginbonds.com/learnmore.asp?catid=3\u0026id=383": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
     },
     "Moshe Milevsky": {
@@ -2729,6 +2828,9 @@
       "https://investor.gov/investing-basics/investment-products/mutual-funds": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://spreadsheets.google.com/pub?key=pYSRNXThZbE4dZLcTFcvqRA": "ERROR,Not Found",
       "https://ssrn.com/abstract=2251726": "OTHER,Gone",
+      "https://www.ici.org/pdf/2010_factbook.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ici.org/pdf/2016_factbook.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "https://www.ici.org/pdf/2020_factbook.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.law.uc.edu/CCL/InvCoRls/rule2a-7.html": "ERROR,Not Found"
     },
     "Mutual fund share split": {
@@ -2752,6 +2854,7 @@
       "https://www.sec.gov/Archives/edgar/data/736054/000093247117006112/0000932471-17-006112.txt": "OTHER,Forbidden"
     },
     "Mutual funds for Bogleheads": {
+      "http://personal.fidelity.com/products/checking/content/autoinvest.shtml.cvsr?refpr=CMGTOC009": "OTHER,Forbidden",
       "http://www.djindexes.com/totalstockmarket/?go=literature": "ERROR,No such host is known. (www.djindexes.com:80)",
       "https://www.fidelity.com/about-fidelity/individual-investing/fidelity-rewrites-the-rules-of-investing-to-deliver-unparalleled-value-and-simplicity-to-investors": "ERROR,Not Found",
       "https://www.schwabassetmanagement.com/insights/insights/insights/insights/node/3946": "OTHER,Forbidden"
@@ -2779,7 +2882,7 @@
     },
     "New Hampshire 529 plan archive": {
       "http://529.morningstar.com/overview.action?state=NH\u0026planID=5PUSA0000T": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://www.savingforcollege.com/529_plan_details/": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+      "http://personal.fidelity.com/planning/college/content/landing_az.shtml.cvsr": "OTHER,Forbidden"
     },
     "New Jersey 529 plan archive": {
       "http://529.morningstar.com/overview.action?state=NJ\u0026planID=5PUSA0000U": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
@@ -2810,8 +2913,7 @@
       "http://www.owen.vanderbilt.edu/faculty-and-research/faculty-directory/faculty-profile.cfm?id=86": "OTHER,Forbidden"
     },
     "Non-US investor\u0027s guide to navigating US tax traps": {
-      "https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/consumer-financial-services/key-information-documents-packaged-retail-and-insurance-based-investment-products-priips_en": "ERROR,Not Found",
-      "https://www.natlawreview.com/article/future-united-states-chile-bilateral-tax-treaty-remains-uncertain": "OTHER,Service Unavailable"
+      "https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/consumer-financial-services/key-information-documents-packaged-retail-and-insurance-based-investment-products-priips_en": "ERROR,Not Found"
     },
     "Nonresident alien investors and Ireland domiciled ETFs": {
       "https://www.etf.com/etf-education-center/21034-understanding-etf-liquidity.html": "OTHER,Forbidden"
@@ -2831,7 +2933,7 @@
     },
     "Northern Funds": {
       "http://quicktake.morningstar.com/FundFamily/Snapshot.asp?Country=USA\u0026Symbol=0C00001J8I": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://www.northernfunds.com/pws/jsp/display2.jsp?XML=http://web-xp2c-pws/xml/performance_funds.xml\u0026TYPE=performance\u0026fundtype=all": "ERROR,Not Found",
+      "http://www.northernfunds.com/pws/jsp/display2.jsp?XML=http://web-xp2c-pws/xml/performance_funds.xml\u0026TYPE=performance\u0026fundtype=all": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.northerntrust.com/pws/jsp/display2.jsp?TYPE=interior\u0026XML=pages/nt/1204/1334686866260_807.xml": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.northerntrust.com/pws/jsp/display2.jsp?XML=pages/nt/0402/45790422_3688.xml\u0026TYPE=interior": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.northerntrust.com/pws/jsp/display2.jsp?XML=pages/nt/0404/50191373_1576.xml\u0026TYPE=interior": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
@@ -2849,6 +2951,9 @@
     },
     "Oklahoma 529 plan archive": {
       "http://529.morningstar.com/overview.action?state=OK\u0026planID=5PUSA00014": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+    },
+    "Only Investment Guide": {
+      "http://www.amazon.com/s/?search-alias=aps\u0026tag=bogleheads.org-20\u0026field-keywords=Bogleheads": "OTHER,Service Unavailable"
     },
     "Order": {
       "http://news.morningstar.com/articlenet/article.aspx?id=337005": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
@@ -2925,7 +3030,7 @@
       "http://www.afajof.org/details/page/2870731/Prizes.html": "ERROR,Not Found",
       "http://www.cfapubs.org/doi/abs/10.2469/faj.v59.n5.2565": "OTHER,Forbidden",
       "http://www.cfapubs.org/doi/abs/10.2469/faj.v68.n2.1": "OTHER,Forbidden",
-      "http://www.cfapubs.org/page/faj/all-graham-dodd-winners": "OTHER,An error occurred while sending the request.",
+      "http://www.cfapubs.org/page/faj/all-graham-dodd-winners": "OTHER,Forbidden",
       "https://www.paamco.com/Our-Firm/Pages/Leadership/Philippe-Jorion.aspx": "ERROR,Not Found"
     },
     "Pierluigi Balduzzi": {
@@ -2974,7 +3079,7 @@
     "Probate": {
       "http://probateestate.org/": "ERROR,No such host is known. (probateestate.org:80)",
       "http://www.azcourts.gov/Portals/83/pdf/StateComparisonAttyFees.pdf%20": "ERROR,Not Found",
-      "http://www.efmoody.com/estate/probate.html": "ERROR,Not Found",
+      "http://www.efmoody.com/estate/probate.html": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.ksbar.org/?page=probate": "UPDATE LINK,redirected to http://ksbar.org/?page=probate"
     },
     "Progressive tax": {
@@ -2987,6 +3092,7 @@
       "https://www.congress.gov/bill/114th-congress/house-bill/2029": "OTHER,Forbidden"
     },
     "Qualified dividend": {
+      "http://personal.fidelity.com/planning/tax/distributions/qdi.shtml.cvsr": "OTHER,Forbidden",
       "https://fairmark.com/investment-taxation/mutual-fund-tax-guide/ordinary-dividends/": "ERROR,Not Found"
     },
     "Randolph B. Cohen": {
@@ -3016,6 +3122,9 @@
       "http://apps.finra.org/calcs/1/rmd": "ERROR,No such host is known. (apps.finra.org:80)",
       "http://www.irs.gov/publications/p590/ch01.html#en_US_2013_publink1000230753": "ERROR,Not Found",
       "http://www.newyorklife.com/newyorklife.com/General/FileLink/Static%20Files/file/other/RetireDistrib_mainstay.html": "ERROR,Not Found"
+    },
+    "Retirement Income Redesigned": {
+      "http://www.amazon.com/s/?search-alias=aps\u0026tag=bogleheads.org-20\u0026field-keywords=Bogleheads": "OTHER,Service Unavailable"
     },
     "Retirement calculators and spending": {
       "http://spwfe.fpanet.org:10005/public/Unclassified%20Records/FPA%20Journal%20June%202005%20-%20Reality%20Retirement%20Planning_%20A%20New%20Paradigm%20for%20an%20Old%20Science.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
@@ -3052,6 +3161,7 @@
       "http://www.hcad.org/Resources/Exemptions/TaxDeferral.asp": "ERROR,Not Found",
       "http://www.hecmcounselors.org/sites/default/files/uploads/pdfs/HO111%20Manual_FINAL_11082011.pdf": "Bad Request",
       "http://www.mass.gov/dor/docs/dls/publ/brochures/proptaxdef.pdf": "ERROR,Not Found",
+      "http://www.nashville.gov/Trustee/Tax-Deferral.aspx": "ERROR,Not Found",
       "http://www.reversereview.com/magazine/spotlight-a-historical-timeline-of-the-hecm-program.html": "ERROR,Not Found",
       "https://tax.idaho.gov/i-1053.cfm": "ERROR,Not Found"
     },
@@ -3072,6 +3182,12 @@
       "http://faculty.chicagobooth.edu/Richard.Thaler/index.html": "ERROR,Not Found",
       "http://www.chicagobooth.edu/about/newsroom/press-releases/2012/2012-05-17": "ERROR,Not Found",
       "http://www.fullerthaler.com/Default.aspx": "ERROR,Not Found"
+    },
+    "Rick Ferri": {
+      "http://www.amazon.com/s/?search-alias=aps\u0026tag=bogleheads.org-20\u0026field-keywords=Bogleheads": "OTHER,Service Unavailable"
+    },
+    "Rick Van Ness": {
+      "http://www.amazon.com/s/?search-alias=aps\u0026tag=bogleheads.org-20\u0026field-keywords=Bogleheads": "OTHER,Service Unavailable"
     },
     "Risk and return: an introduction": {
       "https://personal.vanguard.com/us/LiteratureRequest?FW_Activity=ViewOnlineActivity\u0026vendorID=S537\u0026FW_Event=start\u0026search_mode=true\u0026cbdForceDomain=false": "ERROR,No such host is known. (personal.vanguard.comnull:443)",
@@ -3180,6 +3296,9 @@
       "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001064642\u0026type=N-CSRS\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001064642\u0026type=485\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden"
     },
+    "SPIVA scorecards": {
+      "http://us.spindices.com/multimedia-center/what-is-spiva": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+    },
     "Salary Reduction Simplified Employee Pension Plan": {
       "http://www.irs.gov/Retirement-Plans/Operating-a-SARSEP": "ERROR,Not Found"
     },
@@ -3197,6 +3316,7 @@
     "Securities lending": {
       "http://dx.doi.org/10.2139/ssrn.2101604": "UPDATE LINK,redirected to http://www.ssrn.com/abstract=2101604",
       "http://www.mfdf.org/images/uploads/about_files/Laborers_Local_265_v_iShares.pdf": "ERROR,Not Found",
+      "http://www.pionline.com/article/20081013/PRINTSUB/310139968": "OTHER,Forbidden",
       "http://www.rmahq.org/securities-lending/best-practices": "ERROR,Not Found",
       "http://www.securitieslendingtimes.com/securitieslendingnews/article.php?article_id=218025": "ERROR,Not Found",
       "https://personal.vanguard.com/pdf/icrsl.pdf": "ERROR,Not Found",
@@ -3250,6 +3370,7 @@
       "http://knowledge.emory.edu/papers/794.pdf": "ERROR,Not Found",
       "http://us.spindices.com/index-family/us-equity/market-cap": "ERROR,Not Found",
       "http://www.indexuniverse.com/data.html": "OTHER,Forbidden",
+      "http://www.quantitativeinvestment.com/documents/common.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.rydex-sgi.com/products/etfs/home/etf_profiles.rails#pureStyle": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.wilshire.com/Indexes/USStyle/": "ERROR,Not Found",
       "http://www.wilshire.com/Indexes/Wilshire/": "ERROR,Not Found",
@@ -3309,8 +3430,6 @@
     },
     "State income taxes": {
       "http://ador.alabama.gov/incometax/ITindex2.html": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://www.mass.gov/dor": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
-      "http://www.mass.gov/dor/": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
       "http://www.mass.gov/dor/businesses/help-and-resources/legal-library/tirs/tirs-by-years/2015-releases/tir-15-11.html": "ERROR,Not Found",
       "http://www.revenue.pa.gov/FormsandPublications/PAPersonalIncomeTaxGuide/Documents/pitguide_chapter_07.pdf": "OTHER,NOT FOUND",
       "http://www.revenue.state.pa.us/portal/server.pt/community/revenue_home/10648": "ERROR,No such host is known. (www.revenue.state.pa.us:80)",
@@ -3342,10 +3461,6 @@
     },
     "Stock prices are still far too low": {
       "http://www.aei.org/issue/economics/financial-services/stock-prices-are-still-far-too-low/": "ERROR,Not Found"
-    },
-    "Stretch IRA": {
-      "https://www.bogleheads.org/forum/viewtopic.php?t=309380": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
-      "https://www.bogleheads.org/forum/viewtopic.php?t=46642": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027."
     },
     "Substantially equal periodic payments": {
       "http://finance.toolkit.com/financial_calculators/display.aspx?cal=Retire72Alt": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
@@ -3391,17 +3506,21 @@
       "http://www.indexuniverse.com/": "OTHER,Forbidden"
     },
     "Systematic investing": {
+      "http://personal.fidelity.com/products/checking/content/autoinvest.shtml": "OTHER,Forbidden",
       "http://www.finra.org/Investors/ProtectYourself/InvestorAlerts/MutualFunds/p012785": "ERROR,Not Found",
       "http://www.law.cornell.edu/wex/investor_protection_guide_systematic_investment_plan_sip": "ERROR,Not Found"
     },
     "T. Rowe Price": {
       "http://corporate.troweprice.com/ccw/home.do": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://corporate.troweprice.com/ccw/home/ourCompany/aboutUs/history.do": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "http://individual.troweprice.com/public/Retail/Mutual-Funds/hProspectuses\u0026Reports/Portfolio-Holdings": "OTHER,An error occurred while sending the request.",
+      "http://individual.troweprice.com/public/Retail/Mutual-Funds#mfl_1": "OTHER,An error occurred while sending the request.",
       "http://individual.troweprice.com/public/Retail/Products-\u0026-Services/Savings-Bank": "ERROR,Not Found",
+      "http://individual.troweprice.com/public/Retail/Retirement/403(b)-Plans": "OTHER,An error occurred while sending the request.",
       "http://quicktake.morningstar.com/FundNet/SecFiling.aspx?Symbol=PBDIX\u0026Country=USA": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
     },
     "TIAA": {
-      "http://%20http://www.dol.gov/ebsa/pdf/1210-AB33-625.pdf": "ERROR,Invalid Url: Invalid URI: The hostname could not be parsed.",
+      "http://%20http://www.dol.gov/ebsa/pdf/1210-AB33-625.pdf": "ERROR,Invalid URI: The hostname could not be parsed.",
       "http://www.tiaa-cref.org/public/performance/institutional/index.html": "UPDATE LINK,redirected to http://www.tiaa.org/public/performance/institutional",
       "http://www.tiaa-cref.org/public/performance/mutual_funds/index.html": "UPDATE LINK,redirected to http://www.tiaa.org/public/performance/mutual_funds",
       "http://www.tiaa-cref.org/public/performance/retirement/index.html#CREFVariableAnnuityAccounts": "UPDATE LINK,redirected to http://www.tiaa.org/public/performance/retirement",
@@ -3431,7 +3550,6 @@
     },
     "TSP Modernization Act of 2017": {
       "http://www.tsp.gov/": "OTHER,Forbidden",
-      "https://www.govtrack.us/congress/bills/115/hr3031": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.tsp.gov/bulletins/19-6/": "OTHER,Forbidden",
       "https://www.tsp.gov/PDF/formspubs/tspfs10.pdf": "OTHER,Forbidden",
       "https://www.tsp.gov/whatsnew/Content/index.html#withdrawalbill": "OTHER,Forbidden"
@@ -3466,7 +3584,8 @@
       "https://www.sec.gov/Archives/edgar/data/889519/000093247114005090/valleyforge485bmerged.htm": "OTHER,Forbidden"
     },
     "Taiwan Bogleheads 2015 conference": {
-      "http://www.books.com.tw/products/0010486326": "OTHER,Request Timeout",
+      "http://www.books.com.tw/products/0010444975": "OTHER,Request Timeout",
+      "http://www.books.com.tw/products/0010486326": "ERROR,Not Found",
       "http://www.books.com.tw/products/0010493110": "OTHER,Request Timeout",
       "http://www.books.com.tw/products/0010494523": "OTHER,Request Timeout",
       "http://www.books.com.tw/products/0010574228": "OTHER,Request Timeout"
@@ -3545,15 +3664,10 @@
       "http://apps.irs.gov/app/eos/pub78Search.do?ein1=274067736\u0026names=\u0026city=\u0026state=All...\u0026country=US\u0026deductibility=all\u0026dispatchMethod=searchCharities\u0026submitName=Search": "OTHER,Forbidden",
       "http://www.boston.com/business/personalfinance/articles/2006/10/25/planning_ahead_can_help_keep_holiday_spending_out_of_the_red/": "ERROR,Not Found",
       "http://www.indexuniverse.com/sections/features/3599.html": "OTHER,Forbidden",
-      "http://www.trademarkia.com/bogleheads-76706567.html": "OTHER,Forbidden",
       "http://www.usnews.com/blogs/new-money/2008/6/6/of-diehards-and-bogleheads.html": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.usnews.com/blogs/new-money/2008/8/11/investing-advice-from-the-bogleheads.html": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
     },
-    "The Finance Buff": {
-      "http://www.amazon.com/s/?search-alias=aps\u0026tag=bogleheads.org-20\u0026field-keywords=Bogleheads": "OTHER,Service Unavailable"
-    },
     "The New Savage Number": {
-      "http://www.amazon.com/s/?search-alias=aps\u0026tag=bogleheads.org-20\u0026field-keywords=Bogleheads": "OTHER,Service Unavailable",
       "http://www.thestreet.com/": "OTHER,Forbidden"
     },
     "The Vanguard Group": {
@@ -3634,8 +3748,8 @@
       "http://www.irs.gov/publications/p590/ch02.html": "ERROR,Not Found"
     },
     "Traditional versus Roth": {
-      "http://badmoneyadvice.com": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://badmoneyadvice.com/2009/02/iras-roth-and-other-kind.html": "OTHER,Service Unavailable",
+      "http://badmoneyadvice.com": "OTHER,Service Unavailable",
+      "http://badmoneyadvice.com/2009/02/iras-roth-and-other-kind.html": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.irs.gov/uac/Get-Credit-for-Your-Retirement-Savings-Contributions": "ERROR,Not Found",
       "https://waysandmeans.house.gov/sites/democrats.waysandmeans.house.gov/files/documents/SECURE%20Act%20section%20by%20section.pdf": "ERROR,Not Found",
       "https://www.investor.gov/introduction-investing/investing-basics/glossary/real-return": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
@@ -3663,7 +3777,6 @@
       "https://www.frbatlanta.org/filelegacydocs/wp0309a.pdf": "ERROR,Not Found",
       "https://www.investinginbonds.com/learnmore.asp?catid=9\u0026subcatid=51": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.kc.frb.org/Publicat/econrev/PDF/1q98Shen.pdf": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027InternalError\u0027.",
-      "https://www.pimco.com/en-us/investments/etf/15-year-us-tips-index-exchange-traded-fund": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.pimcoetfs.com/Funds/Pages/1-5YearUSTIPSIndexFund.aspx": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.pimcoetfs.com/Funds/Pages/PIMCOBroadUSTIPSIndexFund.aspx": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://www.schwabfunds.com/products/schp": "OTHER,Forbidden",
@@ -3866,6 +3979,7 @@
       "http://www.mscibarra.com/products/indices/domestic_equity_indices/": "UPDATE LINK,redirected to http://www.msci.com/r/www-mscibarra-com/products/indexes/domestic_equity_indexes/",
       "http://www.wilshire.com/Indexes/Broad/Wilshire5000/": "ERROR,Not Found",
       "http://www.wilshire.com/Indexes/calculator/": "ERROR,Not Found",
+      "http://www2.standardandpoors.com/spf/pdf/index/SP_US_Indices_Methodology_Web.pdf": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "https://institutional.vanguard.com/iam/pdf/ICRPBD.pdf?cbdForceDomain=true": "ERROR,Not Found",
       "https://personal.vanguard.com/pdf/icrpi.pdf": "ERROR,Not Found"
     },
@@ -3998,9 +4112,10 @@
     "US small cap value": {
       "http://quote.morningstar.com/ETF/f.aspx?t=EES": "OTHER,An error occurred while sending the request.",
       "http://quote.morningstar.com/etf/f.aspx?t=PWY\u0026region=USA": "OTHER,An error occurred while sending the request.",
-      "https://advisors.vanguard.com/investments/products/viov/vanguard-sp-small-cap-600-value-etf": "ERROR,Not Found"
+      "https://www.invesco.com/portal/site/us/investors/etfs/product-detail?productId=PXSV": "UPDATE LINK,redirected to /us/en/country-splash.html?src=%2Fus%2Ffinancial-products%2Fetfs%2Fproduct-detail"
     },
     "US tax pitfalls for a US person living abroad": {
+      "https://americanexpatfinance.com/tax/item/384-tax-experts-critical-of-irs-effort-to-exempt-some-foreign-trusts": "OTHER,Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..",
       "https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/consumer-financial-services/key-information-documents-packaged-retail-and-insurance-based-investment-products-priips_en": "ERROR,Not Found",
       "https://www.americanbar.org/groups/business_law/publications/blt/2017/08/06_wood/": "OTHER,Forbidden",
       "https://www.congress.gov/bill/110th-congress/house-bill/6081": "OTHER,Forbidden",
@@ -4166,13 +4281,7 @@
     "Using open source software for portfolio analysis": {
       "http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_Factors.zip": "ERROR,Not Found",
       "http://www.calculatiginvestor.com/2011/06/21/efficient-frontier-3/": "ERROR,No such host is known. (www.calculatiginvestor.com:80)",
-      "http://www.libreoffice.org/default/": "ERROR,Not Found",
-      "https://www.bogleheads.org/forum/viewtopic.php?p=3366521#p3366521": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
-      "https://www.bogleheads.org/forum/viewtopic.php?p=4561704#p4561704": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
-      "https://www.bogleheads.org/forum/viewtopic.php?p=6241783#p6241783": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
-      "https://www.bogleheads.org/forum/viewtopic.php?t=218403": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
-      "https://www.bogleheads.org/forum/viewtopic.php?t=272007": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027.",
-      "https://www.bogleheads.org/forum/viewtopic.php?t=409014": "OTHER,Authentication failed because the remote party sent a TLS alert: \u0027IllegalParameter\u0027."
+      "http://www.libreoffice.org/default/": "ERROR,Not Found"
     },
     "Utah 529 plan archive": {
       "http://529.morningstar.com/overview.action?state=UT\u0026planID=5PUSA00019": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
@@ -4232,6 +4341,7 @@
       "https://personalp.vanguard.com/us/insights/taxcenter/qualified-dividend-income-2004": "ERROR,No such host is known. (personalp.vanguard.com:443)"
     },
     "Vanguard Developed Markets Index Fund (VDVIX) expenses": {
+      "http://www.ftse.com/Products/indices/Home/indexfiltergeis?indexName=GEISAC\u0026currency=USD\u0026rtn=CAP\u0026segment=global-developed--emerging": "ERROR,Not Found",
       "http://www.msci.com/products/indexes/country_and_regional/dm/eafe.html": "UPDATE LINK,redirected to http://www.msci.com/indexes"
     },
     "Vanguard Developed Markets Index Fund (VDVIX) tax distributions": {
@@ -4240,6 +4350,7 @@
       "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000923202\u0026type=NSAR\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden"
     },
     "Vanguard Emerging Markets Stock Index Fund expenses": {
+      "http://www.ftse.com/Products/indices/Home/indexfiltergeis?indexName=GEISAC\u0026currency=USD\u0026rtn=CAP\u0026segment=global-developed--emerging": "ERROR,Not Found",
       "http://www.msci.com/products/indexes/country_and_regional/em/": "UPDATE LINK,redirected to http://www.msci.com/indexes"
     },
     "Vanguard Extended Market Index Fund expenses": {
@@ -4254,6 +4365,12 @@
     },
     "Vanguard Extended Market Index fund expenses": {
       "http://www.wilshire.com/indexinfo/Wilshire-4500-Completion-Index.html": "ERROR,Not Found"
+    },
+    "Vanguard FTSE All-World ex-US Index Fund expenses": {
+      "http://www.ftse.com/Products/indices/Home/indexfiltergeis?indexName=GEISAC\u0026currency=USD\u0026rtn=CAP\u0026segment=global-developed--emerging": "ERROR,Not Found"
+    },
+    "Vanguard FTSE All-World ex-US Index fund expenses": {
+      "http://www.ftse.com/Products/indices/Home/indexfiltergeis?indexName=GEISAC\u0026currency=USD\u0026rtn=CAP\u0026segment=global-developed--emerging": "ERROR,Not Found"
     },
     "Vanguard FTSE All-World ex-US Small-Cap Index Fund": {
       "https://advisors.vanguard.com/VGApp/iip/site/advisor/researchcommentary/article/IWE_NewsCostReductions": "ERROR,Not Found",
@@ -4339,7 +4456,6 @@
       "https://personalp.vanguard.com/us/insights/taxcenter/qualified-dividend-income-2004": "ERROR,No such host is known. (personalp.vanguard.com:443)"
     },
     "Vanguard Lifetime Income Program - SPIA": {
-      "http://www.nolhga.com/policyholderinfo/main.cfm/location/insolvencyprocess": "ERROR,No such host is known. (www.nolhga.com:80)",
       "https://personal.vanguard.com/us/funds/annuities/lifetimeincome?Type=f": "ERROR,Not Found",
       "https://personal.vanguard.com/us/funds/annuities/lifetimeincome?Type=p": "ERROR,Not Found"
     },
@@ -4456,7 +4572,7 @@
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000034066\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000034066\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000034066\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=N-CEN\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
@@ -4469,21 +4585,21 @@
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000052848\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000052848\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000052848\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000052848\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000068138\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000068138\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000068138\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000052848\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000068138\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000068138\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000068138\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000068138\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000068138\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000068138\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000068138\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000105544\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000068138\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000068138\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000105544\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000105544\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000105544\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000105544\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000105544\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000105544\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000105544\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000105544\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000105544\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000105544\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000105544\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000105563\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000105563\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000105563\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
@@ -4498,50 +4614,50 @@
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106444\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106444\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106444\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106830\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106830\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106830\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106830\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106830\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106830\u0026type=N-MFP\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106830\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106830\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106830\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106830\u0026type=N-MFP\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106830\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106830\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106830\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106830\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000107606\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000107606\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000107606\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000107606\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000107606\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000107606\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000107606\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000107606\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000107606\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000225997\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000225997\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000225997\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000225997\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000225997\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000225997\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000225997\u0026type=N-MFP\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000225997\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000225997\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000225997\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000225997\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000313850\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000313850\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000313850\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000313850\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000313850\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000313850\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000313850\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000313850\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000313850\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000734383\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000734383\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000734383\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000734383\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000734383\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000734383\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000734383\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000734383\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000734383\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000734383\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000734383\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000734383\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000736054\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000736054\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000736054\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000736054\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000736054\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000736054\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000736054\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000736054\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000736054\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000736054\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000752177\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000752177\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000752177\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
@@ -4560,25 +4676,25 @@
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788599\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788599\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788599\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788599\u0026type=N-MFP\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788599\u0026type=N-MFP\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788599\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788599\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788599\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788599\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788606\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788606\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788606\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788606\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788606\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788606\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788606\u0026type=N-MFP\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788606\u0026type=N-MFP\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788606\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788606\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000788606\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000791107\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000791107\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000791107\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000791107\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000791107\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000791107\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000791107\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000791107\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000791107\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000791107\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000791107\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000794105\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000794105\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000794105\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
@@ -4589,7 +4705,7 @@
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000799127\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000799127\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000799127\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000799127\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000799127\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000799127\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000799127\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000799127\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
@@ -4608,25 +4724,25 @@
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000826473\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000826473\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000826473\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000836906\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000836906\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000836906\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000836906\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000836906\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000836906\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000836906\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=00008369063\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000836906\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=00008369063\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026type=N-CEN\u0026dateb=\u0026count=40\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026type=N-CEN\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000862341\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000862341\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000862341\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000862341\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000862341\u0026type=N-MFP\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000862341\u0026type=N-MFP\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000862341\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000862341\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000862341\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
@@ -4636,10 +4752,10 @@
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000889519\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000889519\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000889519\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000889519\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000889519\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000891190\u0026type=N-CEN\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000923202\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000923202\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000923202\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000923202\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000923202\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000923202\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
@@ -4653,32 +4769,32 @@
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000932471\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000932471\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001004655\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001004655\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001004655\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001004655\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001004655\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001004655\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001004655\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001004655\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001021882\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001021882\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001021882\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001021882\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001021882\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001021882\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001021882\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001021882\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001021882\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001021882\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001021882\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001070414\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001070414\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001070414\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001070414\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001070414\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001070414\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001070414\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001070414\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001070414\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001070414\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001409957\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001409957\u0026type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001409957\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001409957\u0026type=N-PX\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001409957\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001409957\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001409957\u0026type=N-Q\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001409957\u0026type=NSAR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001532203\u0026type=485\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001532203\u0026type=N-CEN\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0001532203\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
@@ -4794,6 +4910,9 @@
       "http://www.msci.com/products/indexes/country_and_regional/all_country/": "UPDATE LINK,redirected to http://www.msci.com/indexes",
       "http://www.msci.com/products/indexes/country_and_regional/dm/": "UPDATE LINK,redirected to http://www.msci.com/indexes"
     },
+    "Vanguard Total World Stock Index Fund expenses": {
+      "http://www.ftse.com/Products/indices/Home/indexfiltergeis?indexName=GEISAC\u0026currency=USD\u0026rtn=CAP\u0026segment=global-developed--emerging": "ERROR,Not Found"
+    },
     "Vanguard Total World Stock Index Fund tax distributions": {
       "http://spreadsheets.google.com/ccc?key=%7B%7B%7Bkey%7D%7D%7D": "ERROR,Not Found",
       "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026type=N-30D\u0026dateb=\u0026count=40\u0026scd=filings": "WARNING,Too Many Requests",
@@ -4801,6 +4920,9 @@
       "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026type=NSAR\u0026dateb=\u0026count=40\u0026scd=filings": "WARNING,Too Many Requests",
       "https://personalp.vanguard.com/us/insights/taxcenter/qualified-dividend-income-2004": "ERROR,No such host is known. (personalp.vanguard.com:443)",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026type=N-CEN\u0026dateb=\u0026count=40\u0026scd=filings": "WARNING,Too Many Requests"
+    },
+    "Vanguard Total World Stock Index fund expenses": {
+      "http://www.ftse.com/Products/indices/Home/indexfiltergeis?indexName=GEISAC\u0026currency=USD\u0026rtn=CAP\u0026segment=global-developed--emerging": "ERROR,Not Found"
     },
     "Vanguard US stock ETFs": {
       "https://business.nasdaq.com/discover/nasdaq-story/index.html": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
@@ -4868,10 +4990,12 @@
       "https://www.morningstar.com/funds/xnas/VUVLX/performance": "ERROR,Not Found"
     },
     "Vanguard funds: distribution methodology": {
-      "http://www.sec.gov/Archives/edgar/data/857489/000093247110003745/0000932471-10-003745-index.htm": "OTHER,Forbidden",
+      "http://www.sec.gov/Archives/edgar/data/857489/000093247110003745/0000932471-10-003745-index.htm": "WARNING,Too Many Requests",
       "http://www.sec.gov/Archives/edgar/data/857489/000093247110003745/answer103110.fil": "OTHER,Forbidden",
-      "http://www.sec.gov/Archives/edgar/data/857489/000093247111000016/intlequityindexfunds_final.htm": "OTHER,Forbidden",
-      "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026owner=exclude\u0026count=40": "OTHER,Forbidden"
+      "http://www.sec.gov/Archives/edgar/data/857489/000093247111000016/intlequityindexfunds_final.htm": "WARNING,Too Many Requests",
+      "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000857489\u0026owner=exclude\u0026count=40": "WARNING,Too Many Requests",
+      "http://www.sec.gov/edgar/aboutedgar.htm": "WARNING,Too Many Requests",
+      "http://www.sec.gov/edgar/searchedgar/companysearch.html": "WARNING,Too Many Requests"
     },
     "Vanguard funds: life strategy funds vs target retirement funds": {
       "https://personal.vanguard.com/us/content/Funds/FundsVanguardFundsLifeStrategyTargetCompare.jsp": "ERROR,Not Found"
@@ -4914,22 +5038,22 @@
       "https://www.nasdaq.com/symbol/VXUS": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
     },
     "Vanguard investment grade bond fund tracking error": {
-      "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106444\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "OTHER,Forbidden",
+      "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000106444\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "http://www.sec.gov/cgi-bin/browse-edgar?type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings\u0026action=getcompany\u0026CIK=0000106444": "WARNING,Too Many Requests"
     },
     "Vanguard large cap index fund tracking error": {
-      "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=N-30D\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden",
+      "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=N-30D\u0026dateb=\u0026count=40\u0026scd=filings": "WARNING,Too Many Requests",
       "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=N-CSR\u0026dateb=\u0026count=40\u0026scd=filings": "WARNING,Too Many Requests",
       "https://advisors.vanguard.com/VGApp/iip/site/advisor/investments/article?File=IWEMFStockPassiveEquity": "ERROR,Not Found"
     },
     "Vanguard mid cap index fund tracking error": {
-      "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=N-30D\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden",
+      "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=N-30D\u0026dateb=\u0026count=40\u0026scd=filings": "WARNING,Too Many Requests",
       "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=N-CSR\u0026dateb=\u0026count=40\u0026scd=filings": "WARNING,Too Many Requests",
       "https://advisors.vanguard.com/VGApp/iip/site/advisor/investments/article?File=IWEMFStockPassiveEquity": "ERROR,Not Found"
     },
     "Vanguard municipal bond fund tracking error": {
       "http://www.indexuniverse.com/sections/features/6685-rick-ferri-managing-the-biggest-risk-of-all.html": "OTHER,Forbidden",
-      "http://www.sec.gov/Archives/edgar/data/225997/000093247109000002/muni_final.htm": "OTHER,Forbidden",
+      "http://www.sec.gov/Archives/edgar/data/225997/000093247109000002/muni_final.htm": "WARNING,Too Many Requests",
       "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000225997\u0026type=N-CSR\u0026dateb=\u0026count=100\u0026scd=filings": "WARNING,Too Many Requests",
       "http://www.sec.gov/cgi-bin/browse-edgar?type=N-30D\u0026dateb=\u0026count=100\u0026scd=filings\u0026action=getcompany\u0026CIK=0000225997": "WARNING,Too Many Requests",
       "http://www.standardandpoors.com/indices/sp-national-amt-free-municipal-bond-index/en/us/?indexId=spfi--mun-usd----t-------": "ERROR,Not Found",
@@ -4949,16 +5073,16 @@
     },
     "Vanguard small cap index funds tracking error": {
       "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=N-30D\u0026dateb=\u0026count=40\u0026scd=filings": "WARNING,Too Many Requests",
-      "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=N-CSR\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden",
+      "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000036405\u0026type=N-CSR\u0026dateb=\u0026count=40\u0026scd=filings": "WARNING,Too Many Requests",
       "https://advisors.vanguard.com/VGApp/iip/site/advisor/investments/article?File=IWEMFStockPassiveEquity": "ERROR,Not Found"
     },
     "Vanguard tax-managed fund tracking error": {
       "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000923202\u0026type=N-30D\u0026dateb=\u0026count=40\u0026scd=filings": "WARNING,Too Many Requests",
-      "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000923202\u0026type=N-CSR\u0026dateb=\u0026count=40\u0026scd=filings": "OTHER,Forbidden"
+      "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany\u0026CIK=0000923202\u0026type=N-CSR\u0026dateb=\u0026count=40\u0026scd=filings": "WARNING,Too Many Requests"
     },
     "Variance drain": {
       "http://dx.doi.org/10.2139/ssrn.2027471": "UPDATE LINK,redirected to http://www.ssrn.com/abstract=2027471",
-      "http://ssrn.com/abstract=202747": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+      "http://ssrn.com/abstract=202747": "OTHER,Gone",
       "http://www.contingencies.org/janfeb09/trade.pdf": "ERROR,Not Found",
       "http://www.iijournals.com/doi/abs/10.3905/jpm.1995.409536#sthash.JVY5Rhgf.dpbs": "ERROR,Not Found",
       "https://www.soa.org/Library/Newsletters/Pension-Section-News/2016/may/psn-2016-05-iss89-mccaulay.aspx": "ERROR,Not Found"
@@ -4978,20 +5102,7 @@
     "Wade Pfau": {
       "http://academic.research.microsoft.com/Author/52944726/wade-donald-pfau": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
       "http://citec.repec.org/p/p/ppf6.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
-      "http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=388906": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://retirementresearcher.com/bogleheads-conference-2013/": "ERROR,Not Found",
-      "http://ssrn.com/abstract=1488671": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://ssrn.com/abstract=1699525": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://ssrn.com/abstract=1699526": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://ssrn.com/abstract=1717283": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://ssrn.com/abstract=1876224": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://ssrn.com/abstract=2151259": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://ssrn.com/abstract=2201323": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://ssrn.com/abstract=2296867": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://ssrn.com/abstract=2317857": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://ssrn.com/abstract=2324930": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://ssrn.com/abstract=2544656": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-      "http://ssrn.com/abstract=2579123": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.theamericancollege.edu/why-us/faculty/wade-d.-pfau-phd-cfa": "ERROR,Not Found",
       "http://www3.grips.ac.jp/~wpfau/": "ERROR,No such host is known. (www3.grips.ac.jp:80)"
     },
@@ -5004,7 +5115,6 @@
     "Wayne Ferson": {
       "http://academic.research.microsoft.com/Author/309444/wayne-e-ferson": "ERROR,No such host is known. (academic.research.microsoft.com:80)",
       "http://citec.repec.org/p/f/pfe32.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
-      "http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=17139": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www-bcf.usc.edu/~ferson/": "ERROR,No such host is known. (bcf.usc.edu:443)",
       "http://www-bcf.usc.edu/~ferson//": "ERROR,No such host is known. (bcf.usc.edu:443)",
       "http://www.cfapubs.org/page/faj/all-graham-dodd-winners": "OTHER,Forbidden",
@@ -5012,7 +5122,6 @@
     },
     "Wei Jiang": {
       "http://citec.repec.org/p/j/pji126.html": "ERROR,The remote certificate is invalid according to the validation procedure: RemoteCertificateNameMismatch-- RemoteCertificateChainErrors",
-      "http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=287969": "ERROR,The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
       "http://www.afajof.org/details/page/2870731/Prizes.html": "ERROR,Not Found",
       "http://www.q-group.org/prize-winners/": "ERROR,Not Found",
       "http://www4.gsb.columbia.edu/cbs-directory/detail/494746/Wei%20Jiang": "ERROR,No such host is known. (www4.gsb.columbia.edu:80)"
@@ -5056,10 +5165,8 @@
       "http://www.cfapubs.org/doi/full/10.2469/faj.v66.n5.9": "OTHER,Forbidden"
     },
     "Yong Chen": {
+      "http://mays.tamu.edu/directory/ychen/": "ERROR,Not Found",
       "http://people.tamu.edu/~ychen/research.html": "ERROR,Not Found"
-    },
-    "Your Complete Retirement Planning Road Map": {
-      "http://www.amazon.com/s/?search-alias=aps\u0026tag=bogleheads.org-20\u0026field-keywords=Bogleheads": "OTHER,Service Unavailable"
     },
     "Zero-coupon bond": {
       "http://www.allbusiness.com/glossaries/zero-coupon-security/4947891-1.html": "ERROR,Not Found",
